@@ -1,0 +1,113 @@
+---
+title: "Lie Theory for Sophomores - Part 2"
+layout: post
+summary: "Quaternions"
+description: "Quaternions"
+date: 2020-07-09
+tags: [math]
+---
+
+In a 2-dimensional space, the unit complex numbers and the 2x2 rotation matrices, which can be fully captured by parameter $\theta \in [0, 2\pi]$, are equally good candidates for describing rotations, and it is a matter of convenience which one we use. 
+
+Suppose we're now interested in 3-dimensional rotations. 
+
+To exactly specify a rotation, one must describe the plane in which the rotation occurs in addition to the angle. In 2D space, there is only one plane to choose, so this requirement hardly affects us. In 3D space, however, a generic plane fixed at the origin is determined by 3 numbers. To see this, imagine a unit vector that is normal to the plane; we call this vector the **axis of rotation**. How many numbers does it take to describe the axis vector?
+
+Naturally, if one wants to perform a rotation in some arbitrary plane, we can decompose that rotation into at most 3 rotations that occur only in the $xy$, $yz$, and $xz$ planes. In other words, the axis of rotation can be written with the standard basis. A rotation in the $xy$ plane is simply a map $R_{xy}$ that will leave the $z$ coordinate unchanged:
+
+$$(x, y, z) \mapsto (x \cos\theta - y\sin\theta, x\sin\theta + y\cos\theta, z)$$
+
+Since this is a linear mapping, we have no issue also writing this function as a matrix multiplication. With the $R_{xy}$, $R_{zy}$, and $R_{xz}$ rotation matrices in hand, we can tackle many 3D rotation problems. 
+
+> But is there a way of naturally upgrading the complex numbers in a similar fashion?
+
+## Every day when you're walking down the street...
+
+In 1843, the Irish mathematician William Rowan Hamilton was looking for a way to extend the complex numbers into 3 dimensions. One day, he realizes while out for a walk that he actually needs to add a 4th dimension for his idea to make sense. This means that these modified complex numbers would take the form
+
+$$
+q = a + bi+cj+dk
+$$
+
+Because they contain 4 parts, these objects were given the name of **quaternions**. The set of quaternions is denoted $\mathbb{H}$ after Hamilton. But the truly crucial realization of Hamilton on that fateful day was how one would multiply the elements of $\\{i, j, k\\}$ with each other:
+
+\begin{equation}
+i^2 = j^2 = k^2 = ijk = -1 \tag{Hamilton}
+\end{equation}
+
+The products that seem to be missing ($ij$, $ik$, etc.) can all be recovered by careful analysis of this chain of equations. The upshot is that you can multiply quaternions by applying Hamilton's equation along with the usual rules of algebra.
+
+
+ But why the need for an 4th dimension? We could give explanations by showing that introducing a $j$ basis without a $k$ basis would lead to $j$ not being linearly independent. However, I will simply appeal to the fact that we need 4 numbers to describe a rotation in 3D: one number's worth of information to describe the angle, and the remaining 3 for describing the plane. 
+
+## Vector Evolution
+
+The quaternions are the ancestors to our modern-day vectors. Though their ways seem arcane, we can spot the pattern of inheritance that results in our familiar vector dot and cross products.
+
+First, notice that a quaternion is a vector along with the vestigial organ that is its scalar part. Thus, if the quaternion happens to have no scalar part, it is a vector. Is there really any difference between writing $\vec{v} = a \hat{\mathbf{i}} + b \hat{\mathbf{j}} + c \hat{\mathbf{k}}$ and $q = ai + bj +ck$? Allow me to possibly abuse some notation and write in an idiomatic manner
+
+$$
+\mathbb{R}^3 = \mathbb{H} / \mathbb{R},
+$$
+
+which means that $\mathbb{R}^3$ can specify a quaternion if you forget one of its numbers (namely, for us, the scalar part). When I use the term **vector quaternion**, I mean to say a quaternion whose scalar part is 0. Let us then compactly write a quaternion $q$ as a pair of number $a$ and vector $\vec{r}$.
+
+$$
+q=(a, \vec{r}) = a + r_1 i + r_2 j +r_3 k.
+$$
+
+
+I'll refer to $a$ as the scalar part of $q$. Now, we breed two generic  quaternions together. You'll find that
+
+\begin{equation}
+\label{eq:prod}
+(a_1, \vec{r}_1) (a_2, \vec{r}_2) = (a_1 a_2 - \vec{r}_1 \cdot \vec{r}_2, a_1 \vec{v}_2 + a_2 \vec{v}_1 + \vec{r}_1 \times \vec{r}_2)
+\end{equation}
+
+If both quaternions happen to have no scalar parts, then the result is a quaternion with scalar part equal to the negative dot product and vector part equal to the cross product. Just because we multiply two vector quaternions doesn't mean we will end up with a vector quaternion.
+
+The multiplication of quaternions serves as the foundation for other operations we're familiar with from complex numbers. We can invert a quaternion $q$ to get $q^{-1}$ so that the products $qq^{-1}$ and $q^{-1}q$ are equal to the scalar 1. We can also conjugate a quaternion $a+bi+cj+dk$ to get $a-bi-cj-dk$. 
+
+## Viva la révolution
+
+We have the building blocks to describe rotations with quaternions. We just need to connect them in the right order. There are two questions to answer:
+
+1. How shall we represent the desired rotation?
+2. How do we compute the rotated vector under that representation of desired rotation?
+
+This is the natural order in which to ask the questions, but we will start with the latter question. How do we do the computation? Start by determining the [signature](https://en.wikipedia.org/wiki/Type_signature) of a rotation function. What inputs does it take, and what output do we expect?
+
+It takes in a vector, an angle, and an axis of rotation, and produces a rotated vector. Vectors are elements of $\mathbb{R}^3$, and the angle and axis can be packaged into a quaternion. But we want to treat the vector as a quaternion, so instead of calling it $\mathbb{R}^3$, let's write it as a vector quaternion.
+
+\begin{align\*}
+\mathsf{Rotation} : \overbrace{\mathbb{H} / \mathbb{R}}^{\text{input vector}}  \times \overbrace{\mathbb{H}}^{\text{rotation}} &\to \overbrace{\mathbb{H} / \mathbb{R}}^{\text{rotated vector}} \\\\\
+(v, q) & \mapsto v' = \mathsf{Rotation}(v, q)
+\end{align\*}
+
+Half the work is done. We just need a sensible computation. The first instinct is to say $v' = vq$. Pause for a moment and realize why this is wrong.
+
+
+Equation \ref{eq:prod} tells us that if we multiply a vector quaternion$(0, \vec{v})$ with a generic quaternion $(a, \vec{r})$, the result will have a scalar part $-\vec{v}\cdot \vec{r}$. But we want our result to be a vector quaternion so that the output is easy to interpret and so that rotations can be chained together. It turns out that the operation we're looking for is
+
+
+$$
+\mathsf{Rotation}(v, q) = qvq^{-1},
+$$
+
+
+The remaining question is how to form the appropriate $q$ when we have our axis vector $\vec{u}$ (because it has unit length) and angle $\alpha$ in hand. Here, I will just hand you the answer because it's not intuitive.
+
+$$
+q = \cos \frac{\alpha}{2} + \vec{u} \sin \frac{\alpha}{2}
+$$
+
+Two oddities are that the angle needs to be halved and that the angle information is not entirely contained in the scalar part of the quaternion.
+
+## Historical Sidebar
+
+You can see why today high school students aren't told about quaternions. They are unfortunately rather messy. The dot and cross products are more easily explained as their own operations. Rotations are pedagogically better explained using matrices instead of quaternion multiplication. The purpose of presenting them is to see how the quaternions are distinct from the 3x3 rotation matrices even though they can both handle rotations.
+
+
+Vectors were the invention of Oliver Heaviside, the English engineer, and Josiah Willard Gibbs, the namesake of Gibbs energy and the first Ph.D. engineering in the US. The introduction of vectors became helpful, for example, in writing Maxwell's equations in a clean form using ideas like divergence and curl.
+
+Quaternions are now used a lot in computer graphics and robotics.
