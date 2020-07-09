@@ -7,7 +7,7 @@ I'm a student at UC Berkeley, broadly interested in machine learning and robotic
 
 ## Coursework
 
-Stars $(\star)$ indicate a course that significantly changed my perspective.
+Stars $(\star)$ indicate courses that significantly changed my perspective.
 
 |Summer 2019|Fall 2019|Spring 2020|
 |:---|:------|:------------|
