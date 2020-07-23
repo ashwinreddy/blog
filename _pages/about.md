@@ -11,7 +11,7 @@ Stars $(\star)$ indicate courses that significantly changed my perspective.
 
 |Summer 2019|Fall 2019|Spring 2020|
 |:---|:------|:------------|
-|CS 61A|CS 61B|CS70|
+|CS 61A|CS 61B|CS 70|
 ||EECS 16A|EECS 16B $(\star)$|
 ||LS C30T $(\star)$|EECS 127|
 ||GEOG 50AC|PHIL 25B $(\star)$|
