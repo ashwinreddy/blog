@@ -13,7 +13,7 @@ layout: compress
         {{ content }}
         	    
     </main>
-    <script type="text/x-mathjax-config">
+    <!-- <script type="text/x-mathjax-config">
       MathJax.Hub.Config({
         TeX: { equationNumbers: { autoNumber: "AMS" } },
         tex2jax: {
@@ -24,6 +24,21 @@ layout: compress
     </script>
     <script type="text/javascript" async
     src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
-      </script>
+      </script> -->
+      <script>
+        MathJax = {
+            tex: {
+                tags: 'ams',
+                inlineMath: [['$','$'], ['\\(','\\)']],
+                displayMath: [['$$','$$'], ['\\[','\\]']],
+                processEscapes: true,
+                processEnvironments: true,
+            }
+        }
+    </script>
+
+    <script src="https://cdn.jsdelivr.net/npm/mathjax@3.0.0/es5/tex-chtml.js"
+    integrity="sha256-3Fdoa5wQb+JYfEmTpQHx9sc/GuwpfC/0R9EpBki+mf8=" crossorigin>
+    </script>
   </body>
 </html>
