@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I'm a student at UC Berkeley, broadly interested in machine learning and robotics. Outside of academics, I like to watch movies by Korean auteur filmmakers and give speeches at [Toastmasters](https://berkeley-entrepreneurial-toastmasters.com/).
+I'm a student at UC Berkeley, broadly interested in machine learning and robotics. 
 
 ## Coursework
 
@@ -18,8 +18,18 @@ Stars $(\star)$ indicate courses that significantly changed my perspective.
 
 |Fall 2020|
 |:-------|
-| CS 61C |
-| Math 104 |
-| Physics 137A|
+| CS 61C $(\star)$ |
+| ~~Math 104~~ |
+| Physics 137A $(\star)$ |
 | EECS 375 |
 
+# Interests
+
+Some of my personal interests include:
+
+* Movies, especially Korean films and auteur films
+* Reading
+* Podcasts
+* Cooking
+* Public speaking; I give speeches at [Toastmasters](https://berkeley-entrepreneurial-toastmasters.com/).
+* [Vexillology](https://eddmann.com/fun-with-flags/).
