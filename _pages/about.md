@@ -16,12 +16,12 @@ Stars $(\star)$ indicate courses that significantly changed my perspective.
 ||LS C30T $(\star)$|EECS 127|
 ||GEOG 50AC|PHIL 25B $(\star)$|
 
-|Fall 2020|
-|:-------|
-| CS 61C $(\star)$ |
-| ~~Math 104~~ |
-| Physics 137A $(\star)$ |
-| EECS 375 |
+|Fall 2020|Spring 2021|
+|:-------|:------------|
+| CS 61C $(\star)$ | EECS 126 $(\star)$|
+| ~~Math 104~~ | EE120|
+| Physics 137A $(\star)$ | STAT 155|
+| EECS 375 | KOREAN 188 |
 
 # Interests
 
