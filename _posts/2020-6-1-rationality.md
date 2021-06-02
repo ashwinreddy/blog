@@ -4,7 +4,6 @@ date: 2020-06-01
 layout: post
 description: "People fundamentally believe in reason without needing logic."
 published: true
-tags: [philosophy, reason, rationality]
 ---
 
 When studying decision making, we can choose to model _Homo sapiens_ or _Homo economicus_. Psychologists, advertisers, and behavioral economists all study _H. sapiens_, observing how actual humans make choices, regardless of how rational those choices seem. Philosophers, computer scientists, and mathematicians are more likely to focus on _H. economicus_, the imagined species of humans that are perfectly rational.

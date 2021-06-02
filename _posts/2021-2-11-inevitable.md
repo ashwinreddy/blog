@@ -1,7 +1,6 @@
 ---
 title: "The Logic of Inevitability"
 layout: post
-tags: [philosophy]
 ---
 
 > Dread it, run from it, destiny arrives all the same. - Thanos

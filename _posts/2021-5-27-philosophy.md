@@ -1,6 +1,5 @@
 ---
 title: "Why Philosophy Matters"
-tags: [philosophy]
 ---
 
 Flannery O'Connor's "Good Country People" features a character with a Ph.D. in philosophy. Despite her academic training, she is conned by a conniving Bible salesman. Philosophy is for the intelligent, the story says, but it certainly doesn't make one wise.
@@ -22,23 +21,23 @@ Leaving us with a conundrum: which of the many ideas that we've downloaded from 
 
 How does one even broach questions like what is the purpose of life or what is the world made up of? Generally, we can proceed in one of two ways. The first way is to start with some axioms as a base and try to reason from those axioms toward to some interesting conclusion. This is the approach that Descartes takes in his method of doubt or that Spinoza uses to prove God's existence. The benefit of such an approach is that one just needs to make sure the arguments are _valid_, meaning the logical deductions are correct. 
 
-The other approach is to try to sketch an existing set of beliefs on the idea. Then, the goal is to understand these beliefs well enough to boil them down to their axioms.
+The other approach is to think of a possible answer to a philosophical question and see what beliefs that answer entails. By following the beliefs, we can determine what axioms are in play.
 
 
 ## Philosophy, Math, and Science
 
 
-I think philosophy belongs to the same general camp as science and mathematics. Some branches of philosophy, like logic, proceed almost exactly like math. The difference lies in the experiments. Where scientists perform experiments, philosophy often makes use of _thought_ experiments. 
+I think philosophy belongs to the same general camp as science and mathematics. Some branches of philosophy, like logic, proceed almost exactly like math. Philosophy diverges in its use of experiments. The philosopher instead uses _thought_ experiments. 
 
-Thought experiments aren't rigorous attempts to isolate the relationship between variables. Instead, a thought experiment sketches and frames a hypothetical situation toward some idea. For example, Descartes wonders if there's really a devil providing the illusion of sense information. He can imagine this and has no fundamental evidence to prove otherwise, which helps him build the case that we can't be sure about any of what we see in front of us. The trolley problem tries to pinpoint when a human's intervention in a situation counts as moral culpability. The philosopher has to justify their thoughts on contentious matters, and these hypothetical situations can draw attention to the precise issue under discussion.
+Thought experiments aren't rigorous attempts to isolate the relationship between variables. Instead, a thought experiment sketches and frames a hypothetical situation toward some rhetorical point. For example, Descartes wonders if there's really a devil providing the illusion of sense information. He can imagine this and has no fundamental evidence to prove otherwise, which helps him build the case that we can't be sure about any of what we see in front of us. The trolley problem tries to pinpoint when a human's intervention in a situation counts as moral culpability. The philosopher has to justify their thoughts on contentious matters, and these hypothetical situations can draw attention to the precise issue under discussion.
 
 # Why so highfalutin
 
 So why does philosophical writing often read as garbled? The simplest explanation is that philosophers are poor writers, but this hypothesis is rather simplistic. I think a better explanation comes down to two reasons:
 
-Philosophers, like mathematicians, want to demonstrate clarity and rigor. To do this, arguments may be presented bottom-up, starting with axioms. This presentation makes it difficult to intuitively understand what's going on, in the same way that reading a math book full of definitions and proofs is hard to parse.
+Philosophers, like mathematicians, want to demonstrate clarity and rigor. To do this, arguments may be presented bottom-up, starting with axioms. This style of presentation impedes understanding in the same way that reading a math book full of definitions and proofs is hard to parse.
 
-However, philosophy lacks the kind of compact notation found in mathematics, physics, and engineering. Thus, good philosophers must take great care to be as precise as possible in their writing. A deliberate treatment of a subject often requires lengthier explanations and careful use of language. 
+To make matters worse, philosophy lacks the kind of compact notation found in mathematics, physics, and engineering. Thus, good philosophers must take great care to be as precise as possible in their writing. A deliberate treatment of a subject often requires lengthier explanations and careful use of language. If the writer isn't very good, they may end up with only longer writing and not careful writing.
 
 
 ## Pseudophilosophy

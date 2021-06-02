@@ -1,6 +1,5 @@
 ---
 title: "Truth isn't the Goal"
-tags: [philosophy, epistemology]
 ---
 
 In the information age, we value critical thinking for its efficacy in constructing good arguments and refuting sophistry. Thinking critically is a reflection of bravery. The bravery to propose ideas that may be wrong and thoroughly investigate those ideas anyway.

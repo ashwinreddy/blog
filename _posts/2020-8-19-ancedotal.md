@@ -1,6 +1,5 @@
 ---
 title: "Leveraging Anecdotal Evidence"
-tags: [philosophy, rationality, first-principles]
 ---
 
 Anecdotal evidence typically does not hold up in scientific discussions, many forms of debate, and other formal settings. Interlocuters will see its use as a logical fallacy. While it is true that a single person's experiences should not be grounds for determining, say, national public policy, in everyday circumstances people find anecdotal evidence entirely acceptable as a means of gaining information. This post describes why in some cases reasoning with ancedotal evidence is an approximation to the best possible answer.

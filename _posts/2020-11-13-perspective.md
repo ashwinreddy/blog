@@ -1,6 +1,5 @@
 ---
 title: "The Hunt For Perspective"
-tags: [philosophy]
 ---
 
 Today I upgraded my laptop to the latest macOS. I don't particularly care about the new features in the operating system; I just like getting updates out of the way quickly, so I can get bug fixes and not have to deal with the persistent reminders.
