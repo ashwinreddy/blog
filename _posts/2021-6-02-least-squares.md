@@ -39,7 +39,7 @@ You might recognize the last line as computing a [pseudoinverse](https://en.wiki
 
 We can try to understand what's going on here better with a picture.
 
-<img src="https://imgur.com/DtFLdIM.png" style="width: 400px;" />
+<img src="https://imgur.com/DtFLdIM.jpg" style="width: 400px;" />
 
 Effectively, this problem is about projecting the vector $\vec{y}$, which is unconstrained, onto the column space of our matrix $\mathbf{X}$. The column space consists of all linear combinations of the columns of $\mathbf{X}$, which means we typically can't get $\vec{y}$ exactly. Instead, the projection minimizes the length of the error vector $\vec{e}$.
 
