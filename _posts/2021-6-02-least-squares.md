@@ -3,23 +3,24 @@ title: "Linear Least Squares"
 ---
 
 
-We have $n$  (independent) explanatory variables $x_1, \dots, x_n$ that we believe inform some (dependent) response variable $y$. For notational simplicitly, let $\vec{x}$ represent the vector collecting all the explanatory variables $x_1, \dots, x_n$. Having collected $m$ instances of $\vec{x}$ and $y$, we want to find a model $f(\vec{x})$ that best captures the data. In the linear least squares setting, we restrict ourselves to linear models (i.e. $f(\vec{x}) = \sum_{i=1}^n \beta_i x_i$) and look for the parameters $\beta_1, \dots, \beta_n$ that achieve the smallest mean squared error
+We have $n$  (independent) explanatory variables $x_1, \dots, x_n$ that we believe inform some (dependent) response variable $y$. For notational simplicitly, let $\vec{x}$ represent the vector collecting all the explanatory variables $x_1, \dots, x_n$. Having collected $m$ instances of $\vec{x}$ and $y$, we want to find a model $f(\vec{x})$ that best captures the data. In the linear least squares setting, we restrict ourselves to a specific kind of model:
+\\[
+f(\vec{x}) = \sum_{j=1}^n \beta_j \varphi_j(\vec{x}).
+\\]
+In other words, this model is a linear combination of functions $\varphi_1, \dots, \varphi_n$ of the data with parameters $\beta_1, \dots, \beta_n \in \mathbb{R}$. A simple setting would have $\varphi_j(\vec{x}) = x_j$, but we're free to choose whatever functions we like, subject to an exception we'll discuss later. We now try to find the parameters $\vec{\beta}^\star$ that achieve the smallest mean squared error (MSE)
 \\[
 \mathsf{MSE} \propto \sum_{i=1}^m \big( y_i - f(\vec{x}_i) \big)^2.
 \\]
 
-This formulation is neat because it can be immediately converted into an optimization problem.
+This formulation neatly converts to an optimization problem.
 \begin{equation}
 \vec{\beta}^\star = \arg\min_{\vec{\beta}} \sum_{i=1}^m \big( y_i - \vec{\beta}^\mathsf{T} \vec{x}_i \big)^2.
 \end{equation}
 
-In the equation above, we've subtly hidden the fact that our explanatory variables actually make up an $m \times n$ matrix $\mathbf{X}$ since we have $m$ instances of $n$ variables, and $\vec{x}_i$ is the $i$th row of this matrix.
-
-# Vector Calculus Approach
-
-If you like matrix algebra and calculus, you might take the following approach:
+Finally, we'll fully translate this equation to use matrices. The explanatory variables actually make up an $m \times n$ matrix $\mathbf{X}$ since we have $m$ instances of $n$ variables, and $\vec{x}_i$ is the $i$th row of this matrix.
 
 \begin{align\*}
+\vec{\beta}^\star &= \arg\min_{\vec{\beta}} \lVert \vec{y} - \mathbf{X} \vec{\beta}  \rVert^2 \\\\\
 \vec{\beta}^\star &= \arg\min_{\vec{\beta}} \left\langle  \vec{y} - \mathbf{X} \vec{\beta} \, \middle| \, \vec{y} - \mathbf{X} \vec{\beta}  \right\rangle \\\\\
 &= \arg\min_{\vec{\beta}}\left[ \left\langle  \vec{y}  \, \middle| \, \vec{y} \right\rangle - 2 \left\langle  \vec{y}  \, \middle| \, \mathbf{X} \vec{\beta}  \right\rangle + \left\langle  \mathbf{X} \vec{\beta} \, \middle| \, \mathbf{X} \vec{\beta}  \right\rangle \right] \\\\\
 &= \arg\min_{\vec{\beta}}\left[ \left\langle  \mathbf{X} \vec{\beta} \, \middle| \, \mathbf{X} \vec{\beta}  \right\rangle - 2 \left\langle  \vec{y}  \, \middle| \, \mathbf{X} \vec{\beta}  \right\rangle  \right] \\\\
@@ -32,11 +33,28 @@ Here, we can try to find a critical point.
 \vec{\beta} = \left(\mathbf{X}^\mathsf{T}\mathbf{X}\right)^{-1}\mathbf{X}^\mathsf{T}\vec{y}
 \end{gather\*}
 
-You might recognize the last line as computing a [pseudoinverse](https://en.wikipedia.org/wiki/Moore%E2%80%93Penrose_inverse?oldformat=true) when an inverse is not possible because we don't have a square matrix.
+You might recognize the last line as computing a [pseudoinverse](https://en.wikipedia.org/wiki/Moore%E2%80%93Penrose_inverse?oldformat=true) when an inverse is not possible because we don't have a square matrix. Since we sneakily assumed we could take an inverse, we require the columns of $\mathbf{X}$ be linearly independent so that $\mathbf{X}^\mathsf{T}\mathbf{X}$ be full rank. Note that this may place restrictions on which $\varphi_j$ we can use!
+
+# Projection Picture
+
+We can try to understand what's going on here better with a picture.
+
+![Imgur](https://imgur.com/DtFLdIM)
+
+Effectively, this problem is about projecting the vector $\vec{y}$, which is unconstrained, onto the column space of our matrix $\mathbf{X}$. The column space consists of all linear combinations of the columns of $\mathbf{X}$, which means we typically can't get $\vec{y}$ exactly. Instead, the projection minimizes the length of the error vector $\vec{e}$.
+
+We've shown a formula to solve for $\vec{\beta}^\star$, but there's a particularly convenient case when we want to use this conceptualization of projection: suppose $\mathbf{X}$ is an orthogonal matrix, meaning each of its columns have unit norm and are orthogonal to each other. Call its $i$th column $\vec{v}_i$. Then the projection of $\vec{y}$ onto $\mathsf{C}(\mathbf{X})$ is given by
+
+\\[
+\label{eq:orth-proj}
+\boxed{\operatorname{P}\_{\mathsf{C}(\mathbf{X})}(\vec{y}) = \sum_{i=1}^n \langle \vec{y} \mid \vec{v}_i \rangle \vec{v}_i. \tag{Orthonormal Projection}}
+\\]
+
+We'll refer to this equation in a short while.
 
 # Maximum Likelihood Estimation
 
-Why would we use mean squared error? We can motivate it by assuming our data was generated by the following process, which injects zero-centered white noise:
+Why would we use the mean squared error in particular? We can motivate it by assuming our data was generated by the following process, which injects zero-centered Gaussian noise:
 \\[
 y_i = \vec{\beta}^\mathsf{T}\vec{x}\_i + \epsilon_i, \quad \epsilon_i \sim_{\mathsf{IID}} \mathcal{N}(0, \sigma^2)
 \\]
@@ -45,11 +63,33 @@ Then, the likelihood of getting the data that we did
 L\left(\vec{\beta}\right) &= \mathbb{P}\left(\forall i: \epsilon_i = y_i - \vec{\beta}^\mathsf{T}\vec{x}\_i \right) \\\\\
 &= \prod_{i=1}^m \mathbb{P}\left( \epsilon_i = y_i - \vec{\beta}^\mathsf{T}\vec{x}\_i \right)
 \end{align\*}
-Since we're going to maximize, we can use the log-likelihood $\ell$ and drop proportionality contants.
+Since we're going to maximize, we can use the log-likelihood $\ell = \log L$ and drop proportionality constants.
 \begin{align\*}
-\beta^\star &= \arg\max_{\vec{\beta}} \ell\left(\vec{\beta}\right) \\\\\
-&= \arg\max_{\vec{\beta}} -\frac{1}{2} \sum_{i=1}^m \left(y_i - \vec{\beta}^\mathsf{T}\vec{x}\_i \right)^2 \\\\\
+\vec{\beta}^\star &= \arg\max_{\vec{\beta}} \ell\left(\vec{\beta}\right) \\\\\
+&= \arg\max_{\vec{\beta}} \left[ -\frac{1}{2} \sum_{i=1}^m  \left(y_i - \vec{\beta}^\mathsf{T}\vec{x}\_i \right)^2 \right] \\\\\
 &= \arg\min_{\vec{\beta}} \sum_{i=1}^m \left(y_i - \vec{\beta}^\mathsf{T}\vec{x}_i \right)^2,
 \end{align\*}
 
 which returns us to the context we framed at the start.
+
+# Finding a line of best fit
+
+Let's take our theoretical model here and apply it to something simple. Let's say we just have 1 explanatory variable $x$ and we think that $y = mx + b$. What $m$ and $b$ do we pick? 
+
+A slick derivation of this linear least squares estimator (LSSE) will require some technical machinery. First, let's imagine that our data $\\{ (x_i, y_i) \\}_{i=1}^n$ are samples of random variables $X$ and $Y$. Next, we'll want to bridge the random variables to our familiar notions of linear algebra. Luckily, we can do this! We can instantiate a Hilbert space $\mathcal{H}$, which is just a vector space consisting of random variables (after all, we can add random variables and scale them by constants, no?). The tricky part is defining an inner product, which in this case will be $\langle X \mid Y \rangle \equiv \mathbb{E}[XY]$, the expected value of the product.
+
+So far, we haven't done any real work, just reframing the objects a bit. Here's the fun part.
+
+We want to do a projection in $\operatorname{span}\\{1, X\\}$, but this isn't orthonormal. We substitute $X$ with its standardized (zero mean and unit variance) counterpart $Z = \frac{X - \mu_X}{\sigma_X}$. Then, from the \ref{eq:orth-proj} equation, we can derive that
+
+\\[
+P Y = \langle Y \mid 1 \rangle 1 + \langle Y \mid Z \rangle Z
+\\]
+
+Using the appropriate substitutions, we'll write this in a clearer form:
+
+\\[
+L[Y \mid X] = \mathbb{E}[Y] + \frac{\operatorname{cov}(X,Y)}{\mathbb{V}[X]}\left(X - \mathbb{E}[X]\right),
+\\]
+
+where $\mathbb{V}$ is variance and $\operatorname{cov}$ is covariance. If you've taken a course on regression analysis and wondered why we're so interested in the sample standard deviations and the square roots of products, you can start to see why from this formula!

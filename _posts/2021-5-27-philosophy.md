@@ -27,7 +27,7 @@ The other approach is to think of a possible answer to a philosophical question 
 ## Philosophy, Math, and Science
 
 
-I think philosophy belongs to the same general camp as science and mathematics. Some branches of philosophy, like logic, proceed almost exactly like math. Philosophy diverges in its use of experiments. The philosopher instead uses _thought_ experiments. 
+I think philosophy belongs to the same general camp as science and mathematics. Some branches of philosophy, like logic, proceed almost exactly like math. Where philosophy diverges is in its use of experiments. The philosopher uses _thought_ experiments rather than empirical ones.
 
 Thought experiments aren't rigorous attempts to isolate the relationship between variables. Instead, a thought experiment sketches and frames a hypothetical situation toward some rhetorical point. For example, Descartes wonders if there's really a devil providing the illusion of sense information. He can imagine this and has no fundamental evidence to prove otherwise, which helps him build the case that we can't be sure about any of what we see in front of us. The trolley problem tries to pinpoint when a human's intervention in a situation counts as moral culpability. The philosopher has to justify their thoughts on contentious matters, and these hypothetical situations can draw attention to the precise issue under discussion.
 
