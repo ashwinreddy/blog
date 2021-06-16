@@ -3,11 +3,11 @@ title: "Linear Least Squares"
 ---
 
 
-We have $n$  (independent) explanatory variables $x_1, \dots, x_n$ that we believe inform some (dependent) response variable $y$. For notational simplicitly, let $\vec{x}$ represent the vector collecting all the explanatory variables $x_1, \dots, x_n$. Having collected $m$ instances of $\vec{x}$ and $y$, we want to find a model $f(\vec{x})$ that best captures the data. In the linear least squares setting, we restrict ourselves to a specific kind of model:
+We have $n$ explanatory variables $x_1, \dots, x_n$ that we believe inform some response variable $y$. For notational simplicitly, let $\vec{x} = \begin{bmatrix} x_1 & \dots & x_n \end{bmatrix}^\mathsf{T}$. Having collected $m$ instances of $\vec{x}$ and $y$, we want to find a model $f(\vec{x})$ that best captures the data. In the linear least squares setting, we restrict ourselves to a specific kind of model:
 \\[
 f(\vec{x}) = \sum_{j=1}^n \beta_j \varphi_j(\vec{x}).
 \\]
-In other words, this model is a linear combination of functions $\varphi_1, \dots, \varphi_n$ of the data with parameters $\beta_1, \dots, \beta_n \in \mathbb{R}$. A simple setting would have $\varphi_j(\vec{x}) = x_j$, but we're free to choose whatever functions we like, subject to an exception we'll discuss later. We now try to find the parameters $\vec{\beta}^\star$ that achieve the smallest mean squared error (MSE)
+In other words, this model is a linear combination of functions $\varphi_1, \dots, \varphi_n$ of the data with coefficients $\beta_1, \dots, \beta_n \in \mathbb{R}$, which serve as parameters. A simple setting would have $\varphi_j(\vec{x}) = x_j$, but we're free to choose whatever functions we like, subject to an exception we'll discuss later. We now try to find the parameters $\vec{\beta}^\star$ that achieve the smallest mean squared error (MSE).
 \\[
 \mathsf{MSE} \propto \sum_{i=1}^m \big( y_i - f(\vec{x}_i) \big)^2.
 \\]
@@ -17,7 +17,7 @@ This formulation neatly converts to an optimization problem.
 \vec{\beta}^\star = \arg\min_{\vec{\beta}} \sum_{i=1}^m \big( y_i - \vec{\beta}^\mathsf{T} \vec{x}_i \big)^2.
 \end{equation}
 
-Finally, we'll fully translate this equation to use matrices. The explanatory variables actually make up an $m \times n$ matrix $\mathbf{X}$ since we have $m$ instances of $n$ variables, and $\vec{x}_i$ is the $i$th row of this matrix.
+Finally, we'll fully translate this equation in terms of matrix operations. The data from the explanatory variables actually comprise a $m \times n$ matrix $\mathbf{X}$ since we have $m$ instances of $n$ variables. Let $\vec{x}_i$ be the $i$th row of this matrix.
 
 \begin{align\*}
 \vec{\beta}^\star &= \arg\min_{\vec{\beta}} \lVert \vec{y} - \mathbf{X} \vec{\beta}  \rVert^2 \\\\\
@@ -25,7 +25,7 @@ Finally, we'll fully translate this equation to use matrices. The explanatory va
 &= \arg\min_{\vec{\beta}}\left[ \left\langle  \vec{y}  \, \middle| \, \vec{y} \right\rangle - 2 \left\langle  \vec{y}  \, \middle| \, \mathbf{X} \vec{\beta}  \right\rangle + \left\langle  \mathbf{X} \vec{\beta} \, \middle| \, \mathbf{X} \vec{\beta}  \right\rangle \right] \\\\\
 &= \arg\min_{\vec{\beta}}\left[ \left\langle  \mathbf{X} \vec{\beta} \, \middle| \, \mathbf{X} \vec{\beta}  \right\rangle - 2 \left\langle  \vec{y}  \, \middle| \, \mathbf{X} \vec{\beta}  \right\rangle  \right] \\\\
 \end{align\*}
-Here, we can try to find a critical point.
+Here, we can try to find a critical point, which requires some matrix calculus rules.
 \begin{gather\*}
 \frac{\mathrm{d}}{\mathrm{d}\vec{\beta}}\left[ \vec{\beta}^\mathsf{T}\mathbf{X}^\mathsf{T}\mathbf{X}\vec{\beta}  - 2\vec{y}^\mathsf{T}\mathbf{X}\vec{\beta} \right] = 0. \\\\\
 \vec{\beta}^\mathsf{T}\left(\mathbf{X}^\mathsf{T}\mathbf{X}+\mathbf{X}^\mathsf{T}\mathbf{X}\right) - 2\vec{y}^\mathsf{T}\mathbf{X} = 0. \\\\\
