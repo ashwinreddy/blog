@@ -22,7 +22,7 @@ Evaluating the geometric series, it takes $10/9 \approx 1.11$ seconds. Most of A
 In general, the time it takes Achilles to catch up to the Tortoise when the Tortoise has had $t$ amount of time to move is given by $t\frac{v_t}{v_a}$. The initial time the Tortoise gets is $\frac{h}{v_a}$. Thus, we yield
 
 \\[
-t_{eq} = \frac{h}{v_a} \sum_{n=0}^\infty \left(\frac{v_t}{v_a}\right)^n = \frac{v_a}{v_a - v_t}.
+t_{eq} = \frac{h}{v_a} \sum_{n=0}^\infty \left(\frac{v_t}{v_a}\right)^n = \frac{h}{v_a - v_t}.
 \\]
 Does this line up with normal intuition? We can write functions of position with time for each runner:
 \begin{gather\*}
