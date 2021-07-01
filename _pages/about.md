@@ -3,6 +3,13 @@ layout: page
 title: About
 ---
 
+> I live on Earth at present, and I don’t know what I am.  
+> I know that I am not a category.  
+> I am not a thing — a noun.  
+> I seem to be a verb, an evolutionary process – an integral function of the universe.
+
+> —R. Buckminster Fuller
+
 I'm a student at UC Berkeley, broadly interested in machine learning and robotics. 
 
 ## Coursework
@@ -19,7 +26,7 @@ Stars $(\star)$ indicate courses that significantly changed my perspective.
 |Fall 2020|Spring 2021|Fall 2021|
 |:-------|:------------|---------|
 | CS 61C $(\star)$ | EECS 126 $(\star)$||
-| ~~Math 104~~ | EE120||
+| ~~Math 104~~ | EE 120||
 | Physics 137A $(\star)$ | STAT 155||
 | EECS 375 | KOREAN 188 $(\star)$||
 

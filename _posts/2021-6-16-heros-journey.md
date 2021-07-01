@@ -8,13 +8,13 @@ I first learned about the hero's journey in fifth grade English class, when we u
 
 Campbell is fundamentally interested in the commonalities between mythological stories. Clearly, myths form a genre of their own, with their own stock characters, plot devices, etc. But Campbell's claim is more interesting than that. At the risk of oversimplifying, he says that all popular stories share the same mythological structure, which we can call the hero's journey or the **monomyth**. 
 
-Ultimately, we need to hear the same story in different forms because the symbols lose their meaning over time. Thus, they must be updated in form and language from era to era. What matters is not the particular character or symbol, but the spiritual concept to which it points. In particular, the monomyth advocates for people to emulate the hero, who consciously undergoes a difficult and dangerous journey and transforms in the process. 
+Ultimately, we need to hear the same story in different forms because the symbols lose their meaning over time. Thus, they must be updated in form and language from era to era. What matters is not the particular character or symbol, but the spiritual concept to which it points. In particular, the monomyth advocates for people to emulate the hero, a person that consciously undergoes a difficult and dangerous journey and transforms in the process. 
 
 Campbell presents this journey or adventure as a cycle consisting of some 15 steps (read the book if you want details and examples for each step). Folk tales tend to revolve around just one or two of the steps while epics like the Odyssey consist of many full adventure cycles stitched together. Dan Harmon, the creator of _Community_ and _Rick and Morty_, has boiled the hero's journey into an even simpler structure called the story circle. I will present a hybrid between the two that highlights the salient and interesting points.
 
 **The Hero**
 
-We start with our hero, the protagonist. They may be poor or rich, already told they are destined for greatness or not, but the important details are that this hero is in a zone of comfort, living in a status quo. By the end of the cycle, they will have become something greater, having achieved a state of "self-achieved submission."
+We start with our hero, the protagonist. They may be poor or rich, already told they are destined for greatness or not, but the important details are that this hero is in a zone of comfort, living in a status quo, and needing or desiring something whether they know it or not. [This article](https://bookpub.club/post/what-makes-a-character-memorable-1597349751016x998449421677232100) describes some of the kinds of desires they might have. By the end of the cycle, they will have become something greater, having achieved a state of "self-achieved submission."
 
 _Examples_: Harry Potter lives with the Dursleys, Po works at a noodle shop, Luke Skywalker lives on Tatooine.
 
