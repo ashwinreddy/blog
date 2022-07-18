@@ -5,11 +5,11 @@ feed: show
 
 Technology[^footnote] is a reusable response to [[Chaos]] from a living being. 
 
-[^footnote]: Comes from the Greek _techne_ for craft + _logos_ for system of thought. 
+[^footnote]: Comes from Greek _techne_ for craft + _logos_ for system of thought. 
 
 This definition is greatly inspired by the essay [What is Technology?](https://letterstoayoungtechnologist.com/What-is-Technology),  in which "technology is a reusable, low-resistance path to achieve some end or goal." 
 
-I mention living beings to highlight that technology does not emerge from nowhere. It is biologically grounded. Evolution has given different organisms different technologies with which to survive. For humans specifically, technology always has a social history and social uses. This observation should broaden the scope of things we consider technology. Michel Foucault gives us this bigger picture when he describes 4 major types of technologies in [Technologies of the Self](https://www.worldcat.org/title/technologies-of-the-self-a-seminar-with-michel-foucault/oclc/988085468&referer=brief_results).
+I mention living beings to highlight that technology does not emerge from nowhere. It is biologically grounded. Evolution has given different organisms different technologies with which to survive. For humans specifically, technology always has a social history and social uses. This observation should broaden the scope of things we consider technology. Michel Foucault gives us this bigger picture when he describes 4 major types of technologies in [[Technologies of the Self]].
 
 |Type|Ability|Example|
 |----|-------|---------|

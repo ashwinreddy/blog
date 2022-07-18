@@ -5,11 +5,21 @@ feed: show
 
 Stoicism is one of the Hellenistic schools of philosophy, which means it emerges after and borrows from Socratic / Platonic thought. The name comes from Greek _stoa_, or porch, because the members would gather there to discuss the ideas.
 
-Ward Farnsworth systematically presents the principles of Stoicism in [The Practicing Stoic](https://www.worldcat.org/title/practicing-stoic-a-philosophical-users-manual/oclc/994583179).
+The English word 'stoic' has come to mean somebody cold and unfeeling, associated with the stiff upper lip of Victorian aristocrats. This is far from its original meaning.
 
-> The first principle of practical Stoicism is this: we don't react to events; we react to our judgements about them, and the judgements are up to us. 
+Ward Farnsworth systematically presents the principles of Stoicism in [The Practicing Stoic](https://www.worldcat.org/title/practicing-stoic-a-philosophical-users-manual/oclc/994583179). 
 
-## Members
+## Principles
+
+1. Some things are in our control and others not.[^enchiridion]
+2. Our judgements and opinions of things are in our control. 
+3. There are Stoic [[Technologies of the Self]]. 
+4. Virtue is all one needs.
+
+[^enchiridion]: From the first sentence of Epictetus' _Enchiridion_ (Handbook).
+
+
+## Followers
 
 Notable Stoics include
 
@@ -18,3 +28,5 @@ Notable Stoics include
 * Epictetus
 * Musonius Rufus
 * Cato the Younger
+
+---

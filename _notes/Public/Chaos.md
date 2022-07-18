@@ -22,7 +22,7 @@ From [Metamorphoses](https://www.worldcat.org/title/metamorphoses/oclc/52547579)
 
 ## Milton's Chaos
 
-Chaos appears as a character in Milton's epic [Paradise Lost](https://www.worldcat.org/title/paradise-lost/oclc/751382218).
+Chaos appears as a character in Milton's epic [[Paradise Lost]].
 
 ## Nolan's Chaos
 
