@@ -1,9 +1,9 @@
 ---
 title: "Stoicism"
-feed: show
+feed: hide
 ---
 
-Stoicism is one of the Hellenistic schools of philosophy, which means it emerges after and borrows from Socratic / Platonic thought. The name comes from Greek _stoa_, or porch, because the members would gather there to discuss the ideas.
+Stoicism is one of the Hellenistic schools of [[Philosophy]], which means it emerges after and borrows from Socratic / Platonic thought. The name comes from Greek _stoa_, or porch, because the members would gather there to discuss the ideas.
 
 The English word 'stoic' has come to mean somebody cold and unfeeling, associated with the stiff upper lip of Victorian aristocrats. This is far from its original meaning.
 

@@ -1,6 +1,6 @@
 ---
 title: "Technology"
-feed: show
+feed: hide
 ---
 
 Technology[^footnote] is a reusable response to [[Chaos]] from a living being. 

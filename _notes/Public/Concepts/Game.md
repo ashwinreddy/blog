@@ -1,6 +1,6 @@
 ---
 title: "Game"
-feed: show
+feed: hide
 ---
 
 The philosopher Ludwig Wittgenstein didn't think that "game" had a clear definition. Although the set of games is quite large and diverse, it is incorrect to say there is no definition. Bernard Suits' definition is good.
@@ -16,9 +16,11 @@ This definition and the one outlined in Mark Rosewater's [What is a game?](https
 
 |Component|Meaning|Ablation|
 |---------|-------|--------|
-|Agency|Players get to make meaningful choices|Event|
+|[[Agency]]|Players get to make meaningful choices|Event|
 |Goals|Players aim for a well-defined state of affairs|Toy|
-|Restriction|Rules block easy, obvious choices|Activity|
+|Restriction|Rules block easy, obvious choices|[[Activity]]|
 |Lack of relevance|A game is played purely for fun|Life|
 
+To be a good [[Human]], we have to know which games [exist](https://www.autodidacts.io/what-game-are-you-playing/) and are worth playing. 
 
+An important game that people play is the [status game](https://thepointmag.com/examined-life/who-wants-to-play-the-status-game-agnes-callard/#). 

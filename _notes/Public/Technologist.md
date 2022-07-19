@@ -1,6 +1,6 @@
 ---
 title: "Technologist"
-feed: show
+feed: hide
 ---
 
 From [To be a Technologist is to be Human](https://letterstoayoungtechnologist.com/To-be-a-Technologist-is-to-be-Human):

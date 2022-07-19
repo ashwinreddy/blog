@@ -1,0 +1,5 @@
+---
+title: "Rationality"
+feed: hide
+---
+
