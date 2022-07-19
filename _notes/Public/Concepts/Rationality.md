@@ -1,5 +1,0 @@
----
-title: "Rationality"
-feed: hide
----
-

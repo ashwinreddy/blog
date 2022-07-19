@@ -3,5 +3,4 @@ title: "Spinoza"
 feed: hide
 ---
 
-Spinoza 
-
+Spinoza was a [[Philosopher]] interested in [[God]].

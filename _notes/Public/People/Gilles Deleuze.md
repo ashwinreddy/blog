@@ -3,7 +3,7 @@ title: "Gilles Deleuze"
 feed: hide
 ---
 
-Gilles Deleuze wrote [[Philosophy]]. He liked [[Spinoza]] and wrote about [[Michel Foucault]].
+Gilles Deleuze was a French [[Philosopher]] who liked [[Spinoza]] and wrote about [[Michel Foucault]].
 
 
 * _Empiricism and Subjectivity_

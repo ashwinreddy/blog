@@ -19,4 +19,9 @@ I(x) = \log \left(\frac{1}{\Pr(x)}\right)
 $$
 
 
+* Information is always non-negative.
+* A guaranteed or inevitable event (one with probability 1) gives no information.
+* $I(x)$ monotonically increases as $\Pr(x)$ decreases.
+
+
 <!-- TODO -->

@@ -3,9 +3,9 @@ title: "Chaos"
 feed: hide
 ---
 
-Chaos is disorder and confusion. Nassim Taleb's catalogue captures all the related concepts.
+Chaos is disorder and confusion. For that reason, it is difficult to define simply, but Nassim Taleb's catalogue from [[Antifragile]] captures it.
 
-> uncertainty; variability; imperfect, incomplete knowledge; chance; chaos; volatility; disorder; entropy; [[Time]]; the unknown; randomness; turmoil; stressor; error; dispersion of outcomes; unknowledge.
+> uncertainty; variability; imperfect, incomplete knowledge; chance; chaos; volatility; disorder; [[Entropy]]; [[Time]]; the unknown; randomness; turmoil; stressor; error; dispersion of outcomes; unknowledge.
 
 ## Depictions of Chaos
 

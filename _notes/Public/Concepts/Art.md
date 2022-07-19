@@ -3,7 +3,7 @@ title: "Art"
 feed: hide
 ---
 
-I like Tolstoy's definition.
+I like Tolstoy's definition from _What is Art?_
 
 > Art is a [[Human]] [[Activity]], consisting in this, that one man consciously, by means of certain external signs, hands on to others feelings he has lived through, and that other people are infected by these feelings, and also experience them. 
 

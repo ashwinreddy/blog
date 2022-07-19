@@ -12,5 +12,3 @@ Dr. Bill Harford and his wife Alice attend a party hosted by Bill's patient Vict
 
 <!-- TODO -->
 
-[[Male gaze]]
-
