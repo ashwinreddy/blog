@@ -3,11 +3,11 @@ title: "Game"
 feed: hide
 ---
 
-The philosopher Ludwig Wittgenstein didn't think that "game" had a clear definition. Although the set of games is quite large and diverse, it is incorrect to say there is no definition. Bernard Suits' definition is good.
+> A game is a voluntary attempt to overcome unnecessary obstacles. -- Bernard Suits
 
-> A game is a voluntary attempt to overcome unnecessary obstacles.
+This is only a portable definition,[^wittgenstein] so it needs some expanding.
 
-This is only a portable definition, so it needs some expanding.
+[^wittgenstein]: Ludwig Wittegenstein doesn't think there's a definition for 'game,' but this proposition is wrong because Suits' definition is perfectly good.
 
 > To play a game is to attempt to achieve a specific state of affairs [prelusory goal], using only means permitted by rules [lusory means], where the rules prohibit use of more efficient in favour of less efficient means [constitutive rules], and where the rules are accepted just because they make possible such activity [lusory attitude]
 
@@ -21,6 +21,13 @@ This definition and the one outlined in Mark Rosewater's [What is a game?](https
 |Restriction|Rules block easy, obvious choices|[[Activity]]|
 |Lack of relevance|A game is played purely for fun|Life|
 
-To be a good [[Human]], we have to know which games [exist](https://www.autodidacts.io/what-game-are-you-playing/) and are worth playing. 
+Finally, we need [[Playfulness]]. To be a good [[Human]], we have to know which games [exist](https://www.autodidacts.io/what-game-are-you-playing/) and are worth playing. 
 
 An important game that people play is the [status game](https://thepointmag.com/examined-life/who-wants-to-play-the-status-game-agnes-callard/#). 
+
+## Reading List
+
+* Finite and Infinite Games
+* Games: Agency as Art
+
+---

@@ -3,6 +3,7 @@ title: "Justice"
 feed: hide
 ---
 
-What is Justice? I don't know. It's often connected with [[Honor]] and [[Responsibility]].
+Justice is usually about what we have to do. 
 
-<!-- TODO -->
+* _[[Republic]]_ tries to define justice. 
+* John Rawls think a just society is one you wouldn't mind living in if you didn't know which person in that society you were going to be. 

@@ -3,7 +3,7 @@ title: "Prisoner's Dilemma"
 feed: hide
 ---
 
-Prisoner's dilemma is an influential example from game theory relating to [[Cooperation]] and betrayal. From Derek Parfit's "Prudence, Morality, and the Prisoner's Dilemma,"
+Prisoner's dilemma is an influential example from [[Game theory]] relating to [[Cooperation]] and betrayal. From Derek Parfit's "Prudence, Morality, and the Prisoner's Dilemma,"
 
 > You and I are questioned separately about some joint crime. The outcomes would be these. 
 > 

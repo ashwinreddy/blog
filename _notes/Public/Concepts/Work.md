@@ -3,5 +3,8 @@ title: "Work"
 feed: hide
 ---
 
+Work is an [[Activity]] informally or a change in [[Energy]] in [[Physics]]. 
 
-Work as Hannah Arendt uses it means dealing with biological necessities. 
+## Reading List
+
+* Work: A Deep History, from the Stone Age to the Age of Robots

@@ -10,6 +10,17 @@ feed: hide
 
 Foucault starts with _gnothi sauton_ (know thyself), the most important moral principle for ancient Greek philosophy. 
 
+
+4 major types of technologies.
+
+|Type|Ability|Example|
+|----|-------|---------|
+|Production|Produce, transform, manipulate things||
+|Sign systems|Use signs, meanings, symbols, or signification||
+|Power|Turn other individuals into objects for some end||
+|Self|Let individuals effect their own means or transform themselves|[[Stoicism]]|
+
+
 ## Essays
 
 The book also contains a number of essays that extend Foucault's work. For example, there is one on _[[Hamlet]]_.

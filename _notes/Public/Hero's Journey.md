@@ -3,7 +3,7 @@ title: "Hero's Journey"
 feed: hide
 ---
 
-The Hero's Journey or Monomyth is a global pattern in storytelling found by Joseph Campbell. It is described in his book _The Hero with a Thousand Faces_.
+The Hero's Journey or Monomyth is a global pattern in [[Myth]] and storytelling found by Joseph Campbell. It is described in his book _The Hero with a Thousand Faces_.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Heroesjourney.svg/1920px-Heroesjourney.svg.png)
 The guardian is usually some form of [[Sage]].

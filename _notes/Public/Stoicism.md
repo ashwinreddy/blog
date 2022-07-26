@@ -3,30 +3,20 @@ title: "Stoicism"
 feed: hide
 ---
 
-Stoicism is one of the Hellenistic schools of [[Philosophy]], which means it emerges after and borrows from Socratic / Platonic thought. The name comes from Greek _stoa_, or porch, because the members would gather there to discuss the ideas.
-
-The English word 'stoic' has come to mean somebody cold and unfeeling, associated with the stiff upper lip of Victorian aristocrats. This is far from its original meaning.
-
-Ward Farnsworth systematically presents the principles of Stoicism in [The Practicing Stoic](https://www.worldcat.org/title/practicing-stoic-a-philosophical-users-manual/oclc/994583179). 
+Stoicism is a [[Hellenistic philosophy]] whose name comes from Greek _stoa_, or porch, because the members would gather there to discuss the ideas. The English word 'stoic' has come to mean somebody cold and unfeeling, associated with the stiff upper lip of Victorian aristocrats. This is far from its original meaning.
 
 ## Principles
 
-1. Some things are in our control and others not.[^enchiridion]
-2. Our judgements and opinions of things are in our control. 
-3. There are Stoic [[Technologies of the Self]]. 
-4. Virtue is all one needs.
+ In [The Practicing Stoic](https://www.worldcat.org/title/practicing-stoic-a-philosophical-users-manual/oclc/994583179), Ward Farnsworth nicely summarizes the [[Activity]] of practicing Stoicism.
+
+> The first principle of practical Stoicism is this: we don't react to events; we react to our judgements about them, and the judgements are up to us.
+
+Or, in the words of prince [[Hamlet]], "There is nothing either good or bad, but thinking makes it so." The Stoic goal is to get clear about our judgements so that they do not push us around. For that matter, Stoicism urges to determine what lies within our control and what without.[^enchiridion] The outside is external, and we ought not to be attached to such things.
+
 
 [^enchiridion]: From the first sentence of Epictetus' _Enchiridion_ (Handbook).
 
-
-## Followers
-
-Notable Stoics include
-
-* Marcus Aurelius
-* Seneca, tutor to Nero
-* Epictetus
-* Musonius Rufus
-* Cato the Younger
+## Reading list
+* Gregory Sadler has [advice](https://www.youtube.com/watch?v=fYmqXuWUizI) on what to read. 
 
 ---

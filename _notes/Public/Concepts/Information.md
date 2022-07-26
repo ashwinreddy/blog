@@ -3,8 +3,11 @@ title: "Information"
 feed: hide
 ---
 
-In this wonderful little [post](https://www.cs.bham.ac.uk/research/projects/cogaff/misc/austen-info.html), Aaron Sloman distinguishes between two 
-Claude Shannon's conception of information and Jane Austen's. 
+Information is knowledge contained in either propositions or empirical evidence. In this wonderful little [post](https://www.cs.bham.ac.uk/research/projects/cogaff/misc/austen-info.html), Aaron Sloman distinguishes between two conceptions of information.
+
+* In [[Shannon]]'s view, information is something you store, transmit, or transform.
+
+
 
 ## Shannon
 
@@ -25,3 +28,7 @@ $$
 
 
 <!-- TODO -->
+
+## Reading List
+
+* James Gleick's _Information_

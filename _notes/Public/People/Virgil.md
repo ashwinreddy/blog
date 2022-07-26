@@ -3,4 +3,4 @@ title: "Virgil"
 feed: hide
 ---
 
-Virgil was a Roman poet, author of the [[Aeneid]]. 
+Publius Vergilius Maro was a poet, author of the [[Aeneid]], writing in the early [[Roman Empire]]. He was influenced by [[Lucretius]]. 
