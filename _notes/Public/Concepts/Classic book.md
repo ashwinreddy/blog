@@ -9,9 +9,9 @@ A classic book is one that has left a lasting impact on its culture, that is sti
 2. Changed perspective on the issue
 3. Influences other great works
 4. Respected by experts
-5. Challenging yet rewarding.
+5. Challenging yet rewarding
 
 Since great books influence other great books, they form a [[Graph]]. 
 
 ## Classic = Great?
-Some people think that the criteria imply that a classic book is a great one and that a good education involves reading classic books. I would count myself among these people, along with Mortimer Adler and [certainly](https://www.jstor.org/stable/3292030) Thomas [[Jefferson]]. If you're interested, [Read The Great Books](https://www.readthegreatbooks.com/) is a nice resource. 
+Some people think that the criteria imply that a classic book is a great one and that a good education involves reading classic books. I would count myself among these people, along with Mortimer Adler and [certainly](https://www.jstor.org/stable/3292030) Thomas [[Jefferson]] (and many of the [Founding Fathers](https://www.memoriapress.com/articles/classical-education-founding-fathers/)). If you're interested, [Read The Great Books](https://www.readthegreatbooks.com/) is a nice resource. 

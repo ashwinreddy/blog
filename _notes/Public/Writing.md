@@ -3,9 +3,12 @@ title: "Writing"
 feed: hide
 ---
 
+> Whatever is well conceived is clearly said, and the words to say it flow with ease. — Nicolas Boileau-Despréaux
+
 Writing is the [[Activity]] of putting down ideas in [[Language]]. 
 
-
+![](https://lh3.googleusercontent.com/3MKVWAdc861cfRCMCL-RJTSSOsEOM1HBswnVwixczwmhe960zh4u8Rb0kISlqhHByThcO2R-Fs488ZDKcxbbhs3aiSmCmrqgdXX0uZpDZyd5HpTrfR0pFP9NVXjBDQe4Ehv_PDzz)
+> From [Writing is Thinking: Learning to Write with Confidence](https://blog.stephsmith.io/learning-to-write-with-confidence/)
 
 * In David Solway's "On the Essay," he makes the case that writing always changes us. 
 * Writing [[Literature]] is different from other kinds of writing.

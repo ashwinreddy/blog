@@ -7,13 +7,12 @@ Spinoza's _Ethica_ is a [[Classic book]] in [[Philosophy]] written in [[Latin]] 
 
 ## Of God
 
-Because Spinoza approaches in a geometric fashion, it's important to be clear on definition.
+Spinoza equates substance with God-Nature. 
 
 |Latin|English|
 |-----|-------|
 |_Per substantiam intellego id quod in se est et per se concipitur; hoc est id cuius conceptus non indiget conceptu alterius rei, a quo formari debeat._|I understand through 'substance' that which exists in itself and is conceived in itself; i.e. the conception of which does not require for its formation the conception of anything else.|
 
-As Nader says in _Think Least of Death_, "Substance has true ontological and epistemological independence."
 
 ## On the Nature and Origin of the Mind
 

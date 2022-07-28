@@ -6,6 +6,6 @@ feed: hide
 Hellenistic philosophy is [[Philosophy]] that comes after [[Plato]] and [[Socrates]]. 
 
 * [[Stoicism]]
-* Epicureanism
+* [[Epicureanism]]
 * Cynicism
 

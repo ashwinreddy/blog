@@ -3,7 +3,7 @@ title: "Science"
 feed: hide
 ---
 
-Science generates [[Knowledge]] and [[Explanation]]s about the world through empirical experiments. Science depends on some sense of [[Causality]]. 
+Science generates [[Knowledge]] and [[Explanation]]s about the world through empirical experiments. 
 
 
 

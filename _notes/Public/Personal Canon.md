@@ -3,21 +3,31 @@ title: "Personal Canon"
 feed: show
 ---
 
-A personal canon is a set of works that one lives by, having discovered something significant in them worth pondering and revisiting. The works listed here are aesthetically pleasing to me, but I value them for how they inform my values and thinking, perhaps a bigger compliment.
+A personal canon is a set of works that one lives by, having discovered something significant in them worth pondering and revisiting. Salman Rushdie talks about [his canon](https://www.youtube.com/watch?v=hgT1A5KqCik). The works listed here are aesthetically pleasing to me, but I value them for how they inform my values and thinking, perhaps a bigger compliment.
 
 I like to orient my thinking around big ideas, so I've listed my canon in terms of 'bundles' of books which can be read productively together.
 
 This list expresses my particular taste in [[Classic book]]s, works of [[Philosophy]], or generally eclectic material. 
 
+## The Jig is Up
+
+The journey starts with _[[The Myth of Sisyphus]]_. We suspect that there's something about life that seems pointless, but we can't quite put our hands on what. Camus will help us articulate the problem.  
+
 ## Discovering the Self
 
-If there is a point to being a [[Human]], it is to live a good life. That project requires at least a tentative grip on who we are and where we are going. This bundle contains works that give us some sense of how we might discover the self.
+To live well as a [[Human]] requires at least a tentative grip on who we are and where we are going. This bundle contains works that give us some sense of how we might discover the self.
 
 The first work is Herman Hesse's _[[Siddhartha]]_. It's a deceptively simple novel; I encourage you to read it slowly. Its core theme is that a spiritual journey is not something that is taught but instead experienced. Nobody can definitively answer questions for which we alone are responsible.
 
 Next is _[[Hamlet]]_. It's a slippery play to talk about, so I'll leave it without comments for now. 
 
 Rounding out the bundle is _[[Moby-Dick]]_, a novel about where we might find spirituality in a world that has become too caught up in the particulars of belief. Our narrator, Ishmael, finding a "damp, drizzly November in my soul," looks for the religious experience on the _Pequod_ wherever he can.
+
+## The Prince Returns
+
+[[The Prince Returns]] stories are always a good time.
+
+* _The Count of Monte Cristo_
 
 ## Visions of Chaos & Order
 
@@ -34,6 +44,7 @@ Rounding out the bundle is _[[Moby-Dick]]_, a novel about where we might find sp
 * _[Meditations](https://www.worldcat.org/title/meditations-a-new-translation-with-an-introduction-by-gregory-hays/oclc/798638909&referer=brief_results)_
 * [[Technologies of the Self]]
 * _[[Zen Mind, Beginner's Mind]]_
+* A Calendar of Wisdom
 
 
 ## Better Technology

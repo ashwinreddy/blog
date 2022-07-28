@@ -7,15 +7,11 @@ Entropy is a measure of disorder. It is a term that is used both in information 
 
 ## Shannon entropy
 
-It is the expected Shannon [[Information]] of a random variable.[^base]
-
-[^base]: This [[Abstraction]] hides a choice of logarithmic base, but in practice this matters little.
+It is the expected Shannon [[Information]] of a random variable.
 
 $$
 H(X) = \mathbb{E}_X\left[I(x)\right]
 $$
-
-Since information is non-negative, entropy is non-negative.
 
 ## Thermodynamics
 

@@ -12,4 +12,5 @@ This is a note in the [[Digital Garden]] that collects some of the things I'm wo
 3. I'm seeing academic disciplines as language-games, where first you learn the basic syntax and semantics of the field but can eventually use the language to generate new lines of thought. Is this what Wittgenstein meant by language game?
 4. I'm still trying to figure out if the concept of God is useful or interesting to me. If I do believe in it, it is the God of [[Spinoza's Ethics]]. I'd like to explain what he meant and why it appeals to me.
 5. I've found useful ideas in both Zen Buddhism and Stoicism. I'd like to continue learning about both and finding connections between them. Stoic writers include Epictetus, Arrian, Musonius Rufus. Somewhere in this project, I think Nishitani's _Religion and Nothingness_ will come into play. 
-6. 
+6. [Games and Puzzles as Multicomputational Systems](https://writings.stephenwolfram.com/2022/06/games-and-puzzles-as-multicomputational-systems/)
+7. Proto-Indo-European mythology

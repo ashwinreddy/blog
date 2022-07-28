@@ -7,7 +7,9 @@ Meaningness refers to the quality of having meaning as well as the [book](https:
 
 When we talk about the meaning of _X_, we are employing a [[Metaphor]] between _X_ and, say, a sentence. A sentence has meaning insofar as it talks about something in a sensible, coherent fashion so that all the parts hang together logically.
 
-Nihilism says that nothing has meaning. Eternalism says everything has meaning. Both are wrong. Is there some middle ground we can hit? There are confused stances in the middle, but meaningness tries to accept the ambiguity of meaning for what it is. 
+[[Nihilism]] says that nothing has meaning. Eternalism says everything is loaded with meaning. Both are wrong. Is there some middle ground we can hit? There are confused stances in the middle, but meaningness tries to accept the ambiguity of meaning for what it is. 
+
+Meaningness is a nebulous concept, but it is a concept nonetheless. 
 
 ## Reading List
 

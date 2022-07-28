@@ -9,3 +9,9 @@ Creativity is the ability to come up with interesting and effective solutions. I
 2. Passion
 3. Peers
 4. [[Playfulness]]
+
+
+* [Ethan Hawke on Creativity](https://www.youtube.com/watch?v=WRS9Gek4V5Q)
+
+
+

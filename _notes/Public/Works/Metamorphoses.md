@@ -3,7 +3,11 @@ title: "Metamorphoses"
 feed: hide
 ---
 
-_[Metamorphoses](https://www.worldcat.org/title/metamorphoses/oclc/52547579)_ (Greek/Latin for transformations) is an [[Epic poem]] ([[Latin poetry]]) and [[Classic book]] by the Roman poet [[Ovid]]. It covers a great number of Greco-Roman mythological stories, beginning with the creation of the world. The thematic connection is change. In the poem, the [[God]]s are just as fickle and shifty as humans.
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Circe_Invidiosa_-_John_William_Waterhouse.jpg/640px-Circe_Invidiosa_-_John_William_Waterhouse.jpg?1658798942507)
+
+_Metamorphoses_ (Greek/Latin for transformations) is an [[Epic poem]] ([[Latin poetry]]) and [[Classic book]] by the Roman poet [[Ovid]]. It covers a great number of Greco-Roman mythological stories, beginning with the creation of the world. The thematic connection is change. In the poem, the [[God]]s are just as fickle and shifty as humans.
+
+I like Charles Martin's [translation](https://www.worldcat.org/title/metamorphoses/oclc/52547579) and the Latin text at [Perseus](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0029%3Abook%3D1%3Acard%3D1). 
 
 
 ## Book 1
@@ -21,6 +25,23 @@ _[Metamorphoses](https://www.worldcat.org/title/metamorphoses/oclc/52547579)_ (G
 |_quem dixere chaos: rudis indigestaque moles_|Which they called Chaos: an undeveloped and disordered mass,|
 |_nec quicquam nisi pondus iners congestaque eodem_|Nothing but inert weight, and, crowded up there,|
 |_non bene iunctarum discordia semina rerum._|The discordant seeds of things not well united.|
+|_nullus adhuc mundo praebebat lumina Titan_|No Titan as yet supplied light to the world|
+|_nec nova crescendo reparabat cornua Phoebe,_|Nor was Phoebe reviving new horns to become visible|
+|_nec circumfuso pendebat in aere tellus_|And the ground hung, surrounded in sky|
+|_ponderibus librata suis, nec bracchia longo_|Swinging by its own weight, and her arms not far long had|
+|_margine terrarum porrexerat Amphitrite;_|Amphitrite extended to the edge of the lands|
+|_utque aer, tellus illic et pontus et aether._|And even the air, the earth there, the sea, and the heaven.|
+|_Sic erat instabilis tellus, innabilis unda,_|Thus the earth was unstable, unable the wave,|
+|_lucis egens aer: nulli sua forma manebat,_|The air needing of light: nothing held its form|
+|_obstabatque aliis aliud, quia corpore in uno_|One hindered the others, because in one body|
+|_frigida pugnabat calidis, umentia siccis,_|the warm fights the cold, the wet with the dry,|
+|_mollia cum duris, sine pondere habentia pondus._|the soft with the hard, weight without having weight.|
+|_Hanc deus et melior litem natura diremit._|A god or some better nature divided this nature.|
+|_Nam caelo terras et terris abscidit undas,_|For he split the lands from sky and the waves from lands|
+|_et liquidum spisso secrevit ab aere caelum._|And he separated clear sky from thick air.|
+|_Quae postquam evolvit caecoque exemit acervo_||
+|_dissociata locis concordi pace ligavit._||
+
 
 
 ## Change

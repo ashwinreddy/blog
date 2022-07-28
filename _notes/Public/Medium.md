@@ -3,7 +3,10 @@ title: "Medium"
 feed: hide
 ---
 
-A medium is a way of communicating, e.g. television, books, movies. In _Laws of Media_, Eric and Marshall McLuhan ask four questions of a medium.
+A medium is a way of communicating, e.g. television, books, movies. 
+
+
+In _Laws of Media_, Eric and Marshall McLuhan ask four questions of a medium.
 
 1. How does the medium retrieve something obsolescent?
 2. How does it reverse the original characteristics?

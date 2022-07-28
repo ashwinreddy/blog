@@ -3,7 +3,7 @@ title: "Chaos"
 feed: hide
 ---
 
-> I will put Chaos into fourteen lines  
+> I will put Chaos into fourteen lines
 And keep him there; and let him thence escape  
 If he be lucky; let him twist, and ape  
 Flood, fire, and demon --- his adroit designs  
