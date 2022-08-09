@@ -3,4 +3,4 @@ title: "Shannon"
 feed: hide
 ---
 
-Claude Shannon was a [[Mathematics]]ian and engineer. He developed [[Information]] theory. 
+Claude Shannon (1916-2001) was an electrical engineer who made profound contributions to the field. He developed a theory of [[Information]] and [[Communication]] grounded in [[Mathematics]]. 

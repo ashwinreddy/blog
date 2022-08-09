@@ -3,31 +3,26 @@ title: "Information"
 feed: hide
 ---
 
-Information is knowledge contained in either propositions or empirical evidence. In this wonderful little [post](https://www.cs.bham.ac.uk/research/projects/cogaff/misc/austen-info.html), Aaron Sloman distinguishes between two conceptions of information.
-
-* In [[Shannon]]'s view, information is something you store, transmit, or transform.
-
-
+Information is [[Meaningness]] in a signal. How to properly and usefully define information is another question entirely. Aaron Sloman, for instance, [points out](https://www.cs.bham.ac.uk/research/projects/cogaff/misc/austen-info.html) the distinction between [[Shannon]] and Austen's view of information. 
 
 ## Shannon
 
 In _A Mathematical Theory of Communication_, Claude Shannon creates information theory, but he uses 'information' in a specific context. 
 
-> The fundamental problem of communication is that of reproducing at one point either exactly or approximately a message selected at another point. Frequently the messages have meaning; that is they refer to or are correlated according to some system with certain physical or conceptual entities. These semantic aspects of communication are irrelevant to the engineering problem. The significant aspect is that the actual message is one selected from a set of possible messages. The system must be designed to operate for each possible selection, not just the one which will actually be chosen since this is unknown at the time of design.
 
 For Shannon, the information $I(x)$ of event $x$ is given by
+
 
 $$
 I(x) = \log \left(\frac{1}{\Pr(x)}\right)
 $$
 
-
-* Information is always non-negative.
-* A guaranteed or inevitable event (one with probability 1) gives no information.
+Notice the following properties.
+* Information is always non-negative, i.e. $\forall x: I(x) \geq 0$.
+* Inevitable events have no information, i.e. $\Pr(x) = 1 \iff I(x) = 0$
 * $I(x)$ monotonically increases as $\Pr(x)$ decreases.
 
 
-<!-- TODO -->
 
 ## Reading List
 

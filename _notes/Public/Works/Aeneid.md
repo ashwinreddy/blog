@@ -10,17 +10,6 @@ If the _Iliad_ is about the wrath of Achilles and the _Odyssey_ the cunning of O
 [This site](https://aeneid.co/) seems helpful.
 
 
-## Book 1
 
-[Aeneid Book 1.1-7: I Sing of Arms and the Man](https://www.youtube.com/watch?v=2sL2MAEGmys). 
-
-|Latin|English|
-|-----|-------|
-|1.1 _Arma virumque cano, Troiae qui primus ab oris_|Of arms and the man I sing, who first from the shores of Troy|
-|_Italiam, fato profugus, Laviniaque venit_|Came, a fugitive of fate, to Italy and Lavinian|
-|_litora, multum ille et terris iactatus et alto_|Shores, tossed much from both the lands and the deep|
-|_vi superum saevae memorem Iunonis ob iram;_|By the force of gods, fiercely, because of unforgetting Juno's rage;[^line4]|
 
 ---
-
-[^line4]: Transferred epithet. _memorem_ goes with _iram_ but makes more sense with Juno.

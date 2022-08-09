@@ -8,8 +8,9 @@ This page contains a list of personal heroes, people whom I feel contributed in 
 |Area|People|
 |---------|-------|
 |[[Poet]]s|[[Milton]], [[Shakespeare]], [[Ovid]]|
+|Writers|Nassim Taleb|
 |Scientists| [[Feynman]] |
-|[[Philosopher]]s| [[Deleuze]], [[Nietzsche]], Arendt |
+|[[Philosopher]]s| [[Deleuze]], [[Nietzsche]], [[Arendt]] |
 |Engineers| [[Shannon]] |
 | Politicians | [[Jefferson]] |
 

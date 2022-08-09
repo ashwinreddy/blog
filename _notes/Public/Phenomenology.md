@@ -3,4 +3,4 @@ title: "Phenomenology"
 feed: hide
 ---
 
-Phenomenology is a term in [[Philosophy]] that tries to understand experience and [[Consciousness]]. The key players are Husserl, Heidegger, Merleau-Ponty. 
+Phenomenology (Greek for the study of appearances of things) is a discipline in [[Philosophy]] that looks at [[Consciousness]] as experienced. The key players are Husserl, Heidegger, Merleau-Ponty. 

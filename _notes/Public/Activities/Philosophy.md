@@ -3,6 +3,8 @@ title: "Philosophy"
 feed: hide
 ---
 
+> I coalesce the vapor of human experience into a viable and logical comprehension.
+
 Philosophy (Greek _philos_ for loving + _sophia_ for wisdom) can mean many things, but here are definitions worth thinking about. 
 
 1. Philosophy is the creation of concepts. This is the view taken up by [[Deleuze]] & Guattari. D&G say in [[What is Philosophy?]] that philosophy is not about contemplation, reflection, or communication, although it involves those things. 
@@ -10,8 +12,14 @@ Philosophy (Greek _philos_ for loving + _sophia_ for wisdom) can mean many thing
 3. Philosophy is therapy.
 4. Philosophy is a discussion.
 
+Practically, it looks at such fields as metaphysics, epistemology, ethics, aesthetics. 
 
 Because philosophy is a social [[Activity]], it depends a great deal on [[Language]] and on [[Reading]] and [[Writing]]. 
+
+
+## Resources
+
+Planning to use [Susan Rigetti's](https://www.susanrigetti.com/philosophy) guide. 
 
 ## How to read philosophy
 

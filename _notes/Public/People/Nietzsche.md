@@ -11,4 +11,3 @@ In 1869, at the age of 24, he became a professor. His first book was _The Birth 
 * In _Genealogy of Morals_, Nietzsche talks about [[Christian]]ity and [[Morality]]. 
 * In _Twilight of the Idols_, Nietzsche has a problem with [[Socrates]]. 
 * Strangely, Nietzsche found an affinity between himself and [[Spinoza]]. 
-

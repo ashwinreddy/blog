@@ -3,7 +3,7 @@ title: "Latin"
 feed: hide
 ---
 
-Latin is a [[Language]].
+Latin is a [[Language]]. The [DCC](https://dcc.dickinson.edu/) is a good resource.
 
 Latin has no punctuation. Instead, a comma can be inserted where
 * there is a long string of words followed by an enclitic _-que_.[^punctuation]

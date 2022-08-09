@@ -3,7 +3,7 @@ title: "Personal Canon"
 feed: show
 ---
 
-A personal canon is a set of works that one lives by, having discovered something significant in them worth pondering and revisiting. Salman Rushdie talks about [his canon](https://www.youtube.com/watch?v=hgT1A5KqCik). The works listed here are aesthetically pleasing to me, but I value them for how they inform my values and thinking, perhaps a bigger compliment.
+A personal canon is a set of works that one lives by, having discovered something significant in them worth pondering and revisiting. For example, in [this talk](https://www.youtube.com/watch?v=hgT1A5KqCik) Salman Rushdie talks about his canon. The works listed here are aesthetically pleasing to me, but I value them for how they inform my values and thinking, perhaps a bigger compliment.
 
 I like to orient my thinking around big ideas, so I've listed my canon in terms of 'bundles' of books which can be read productively together.
 
@@ -11,7 +11,7 @@ This list expresses my particular taste in [[Classic book]]s, works of [[Philoso
 
 ## The Jig is Up
 
-The journey starts with _[[The Myth of Sisyphus]]_. We suspect that there's something about life that seems pointless, but we can't quite put our hands on what. Camus will help us articulate the problem.  
+The journey starts with _[[The Myth of Sisyphus]]_. We suspect that there's something about life that seems pointless, but we can't quite put our hands on what. Camus will help us articulate the problem.
 
 ## Discovering the Self
 
@@ -25,9 +25,7 @@ Rounding out the bundle is _[[Moby-Dick]]_, a novel about where we might find sp
 
 ## The Prince Returns
 
-[[The Prince Returns]] stories are always a good time.
-
-* _The Count of Monte Cristo_
+[[The Prince Returns]] stories are always a good time. _The Count of Monte Cristo_ is my favorite one.
 
 ## Visions of Chaos & Order
 

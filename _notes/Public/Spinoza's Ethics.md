@@ -3,6 +3,8 @@ title: "Spinoza's Ethics"
 feed: hide
 ---
 
+> Blessedness is not the reward of virtue, but is virtue itself; and we do not delight in it because we conquer our passions, but because we delight in it, we are able to conquer our passions. 
+
 Spinoza's _Ethica_ is a [[Classic book]] in [[Philosophy]] written in [[Latin]] and published in 1677. I am using this handsome [edition](https://www.worldcat.org/title/spinozas-ethics/oclc/859948295&referer=brief_results) of the translation by George Eliot, edited by Clare Carlisle. 
 
 ## Of God

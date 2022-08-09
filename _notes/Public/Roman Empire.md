@@ -7,4 +7,4 @@ The Roman Empire came after the Roman Republic.
 
 ## Reading List
 
-* Edward GIbbon's _The Decline and Fall of the Roman Empire_
+* Edward Gibbon's _The Decline and Fall of the Roman Empire_

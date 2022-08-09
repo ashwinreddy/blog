@@ -1,6 +1,6 @@
 ---
 title: "Human"
-feed: show
+feed: hide
 ---
 
 > Perhaps the big question isn't _what is the meaning of my life_ or _who am I_ but _what does it mean to be a human being? What is the experience, or the [[Essence]], the condition of humans?_

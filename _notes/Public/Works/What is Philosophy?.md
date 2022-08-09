@@ -3,6 +3,8 @@ title: "What is Philosophy?"
 feed: hide
 ---
 
+> But those who criticize without creating, those who are content to defend the vanished concept without being able to give it the forces it needs to return to life, are the plague of philosophy.
+
 _What is Philosophy?_ is a book by [[Deleuze]] and Felix Guattari. It's about [[Chaos]], [[Philosophy]], [[Art]], and [[Science]].  
 
 ## Introduction

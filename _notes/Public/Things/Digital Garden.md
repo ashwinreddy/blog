@@ -10,6 +10,6 @@ The basic unit of a digital garden is an evergreen note.
 * Notes link to each other, forming a [[Graph]].
 
 
-
-
 Tech Review has a [nice article](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/) about digital gardens. Maggie Appleton has a clear overview [here](https://maggieappleton.com/evergreens), and Andy Matuschak's [notes](https://notes.andymatuschak.org/) are a great example.
+
+A digital garden isn't complete without an [[Antilibrary]] to go with it. 

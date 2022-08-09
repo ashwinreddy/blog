@@ -3,4 +3,4 @@ title: "Ontology"
 feed: hide
 ---
 
-Ontology is the [[Philosophy]] of [[Essence]]. 
+Ontology is the [[Philosophy]] of Being. 

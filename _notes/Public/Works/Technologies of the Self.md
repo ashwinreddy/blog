@@ -8,7 +8,7 @@ feed: hide
 > I conceived of a rather odd project: not the evolution of sexual behavior but the projection of a history of the link between the obligation to tell the truth and the prohibitions against sexuality. I asked: How had the subject been compelled to decipher himself in regard to what was forbidden? It is a question of the relation between asceticism and truth. 
 
 
-Foucault starts with _gnothi sauton_ (know thyself), the most important moral principle for ancient Greek philosophy. 
+Foucault starts with _epimelesthai sauton_ (take care of yourself) and _gnothi sauton_ (know yourself) in the [[Plato]]nic dialogue _Alcibiades_. 
 
 
 4 major types of technologies.
@@ -18,7 +18,7 @@ Foucault starts with _gnothi sauton_ (know thyself), the most important moral pr
 |Production|Produce, transform, manipulate things||
 |Sign systems|Use signs, meanings, symbols, or signification||
 |Power|Turn other individuals into objects for some end||
-|Self|Let individuals effect their own means or transform themselves|[[Stoicism]]|
+|Self|Let individuals effect their own means or transform themselves|[[Stoic]]|
 
 
 ## Essays

@@ -10,4 +10,4 @@ feed: hide
 * Maxwell and Faraday
 * [[Nietzsche]] and Wagner
 * [[Aristotle]] and Alexander the Great
-* Arendt and [[Heidegger]]
+* [[Arendt]] and [[Heidegger]]

@@ -3,4 +3,4 @@ title: "Organism"
 feed: hide
 ---
 
-An organism displays [[Emergence]] from [[Matter]]. 
+An organism brings together [[Matter]] into [[Emergence]] of [[Life]]. 

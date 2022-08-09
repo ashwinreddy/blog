@@ -3,9 +3,12 @@ title: "Art"
 feed: hide
 ---
 
-I like Tolstoy's definition from _What is Art?_
+> All art is quite useless. -- Oscar Wilde
 
-> Art is a [[Human]] [[Activity]], consisting in this, that one man consciously, by means of certain external signs, hands on to others feelings he has lived through, and that other people are infected by these feelings, and also experience them. 
+* Art is mimesis
+
+
+> Art is a [[Human]] [[Activity]], consisting in this, that one man consciously, by means of certain external signs, hands on to others feelings he has lived through, and that other people are infected by these feelings, and also experience them. -- Tolstoy
 
 On this view, [[Art]] is closely tied to sign systems, to [[Language]]. We can find [[Meaningness]] in it. 
 
