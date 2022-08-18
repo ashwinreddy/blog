@@ -10,6 +10,9 @@ If the _Iliad_ is about the wrath of Achilles and the _Odyssey_ the cunning of O
 [This site](https://aeneid.co/) seems helpful.
 
 
+## Reading list
+
+* Lavinia, Ursula K LeGuin
 
 
 ---

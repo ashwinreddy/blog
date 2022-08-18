@@ -18,3 +18,5 @@ To avoid detection by Claudius, Hamlet also pretends to be mad. It is a perennia
 * [Drama Online](http://dx.doi.org/10.5040/9781408160404.00000005)
 * [Folger](https://shakespeare.folger.edu/shakespeares-works/hamlet/)
 
+## Reading list
+* _Gesta Danorum_

@@ -11,3 +11,6 @@ Money has 3 purposes.
 |Unit of Account|Money should measure value|
 |Store of Value|Money should represent its value|
 
+## Reading list
+
+* [What is Money, Anyway?](https://www.lynalden.com/what-is-money/)

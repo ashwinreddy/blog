@@ -3,4 +3,4 @@ title: "Poet"
 feed: hide
 ---
 
-A poet writes [[Poetry]]
+A poet is a [[Human]] who does [[Writing]] of [[Poetry]]. 

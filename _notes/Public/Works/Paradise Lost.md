@@ -20,4 +20,8 @@ _Paradise Lost_ is an [[Epic poem]] and [[Classic book]] in English written by [
 ## Sources
 * The [edition](https://www.worldcat.org/title/paradise-lost/oclc/751382218) I use
 
+## Reading list
+
+* _Preface to Paradise lost_ C.S. Lewis
+
 ---

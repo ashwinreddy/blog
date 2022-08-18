@@ -5,9 +5,8 @@ feed: show
 
 A personal canon is a set of works that one lives by, having discovered something significant in them worth pondering and revisiting. For example, in [this talk](https://www.youtube.com/watch?v=hgT1A5KqCik) Salman Rushdie talks about his canon. The works listed here are aesthetically pleasing to me, but I value them for how they inform my values and thinking, perhaps a bigger compliment.
 
-I like to orient my thinking around big ideas, so I've listed my canon in terms of 'bundles' of books which can be read productively together.
 
-This list expresses my particular taste in [[Classic book]]s, works of [[Philosophy]], or generally eclectic material. 
+My whole canon can be found [here](https://bookshelf.website/ashwinreddy), but I like to orient my thinking around big ideas, so I've organized it below in 'bundles' of books which can be read productively together. My taste tends toward [[Classic book]]s and works of [[Philosophy]].
 
 ## The Jig is Up
 

@@ -3,4 +3,4 @@ title: "Philosopher"
 feed: hide
 ---
 
-A philosopher is a friend of the concept. 
+A philosopher is a [[Human]] who is a friend of the concept. 

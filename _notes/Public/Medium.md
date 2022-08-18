@@ -3,7 +3,7 @@ title: "Medium"
 feed: hide
 ---
 
-A medium is a way of communicating, e.g. television, books, movies. 
+A medium is a way of communicating, e.g. television, books, movies. It is a type of [[Technology]]. 
 
 
 In _Laws of Media_, Eric and Marshall McLuhan ask four questions of a medium.

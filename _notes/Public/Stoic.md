@@ -27,5 +27,6 @@ The [[Philosophy]] of Stoicism imagines that the world is rational, organized by
 ## Reading list
 * Gregory Sadler has [advice](https://www.youtube.com/watch?v=fYmqXuWUizI) on what to read. 
 * https://www.stoics.com/
+* Epictetus' Art of Living
 
 ---

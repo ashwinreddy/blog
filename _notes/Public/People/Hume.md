@@ -11,3 +11,7 @@ David Hume was a [[Philosopher]] who broadly took a skeptic attitude. He was int
 
 
 _Observation_: There are some affinities between Hume and [[Spinoza]]. 
+
+## Reading list
+
+* The Life of David Hume

@@ -24,5 +24,8 @@ _Example_. In [[Biology]], the Miller-Urey experiment.
 
 Emergence: Contemporary Readings in Philosophy and Science
 
+[The Biggest Ideas in the Universe | 21. Emergence](https://www.youtube.com/watch?v=0_PdLja-eGQ)
+
+
 
 ----

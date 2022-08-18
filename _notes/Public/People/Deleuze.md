@@ -17,3 +17,8 @@ Then, he collaborated with Felix Guattari. They wrote _Capitalism and Schizophre
 * I've loosely been following [The Beginner’s Guide to Deleuze](http://htmlgiant.com/random/the-beginners-guide-to-deleuze/) to learn more about him. 
 * In _The Deleuze-Lucretius Encounter_, Ryan J. Johnson makes a connection between [[Deleuze]] and [[Lucretius]]. Johnson also wrote a book about Deleuze and [[Stoic]]. 
 * He had thoughts about [[Phenomenology]]
+
+## Reading list
+
+* [The Deleuze Seminars](https://deleuze.cla.purdue.edu/)
+
