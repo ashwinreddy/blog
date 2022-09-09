@@ -7,7 +7,7 @@ Not infrequently, I discover that two eminent people in history met, interacted 
 * The philosopher Aristotle, student of Plato, was tutor to Alexander the Great.
 * The English poet John Milton visisted Galileo in Florence. Milton names him "The Tuscan Artist" in _Paradise Lost_.
 * The sharp and prolific French writer Voltaire had a relationship with Emilie du Chatelet, herself recogized for achievements in physics.
-* The German philosopher Hegel is said to have described Napoleon as the world spirit on horseback.
+* The German philosopher Hegel, after seeing Napoleon, is said to have described him as the world spirit on horseback.
 * The philosopher Nietzsche and composer Wagner had a complex relationship.
 * James Clerk Maxwell attended lectures at the Royal Institution and interacted with Michael Faraday there.
 * Einstein and Godel met in 1933.
