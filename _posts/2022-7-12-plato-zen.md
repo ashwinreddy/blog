@@ -21,7 +21,7 @@ But is Zen a philosophy, in the sense of _philos_ + _sophia_, a love of wisdom? 
 
 > To know oneself, to learn to think, to act as if nothing were self-evident -- wondering, "wondering that there is being" -- these, and many other determinations of philosophy create interesting attitudes, however tiresome they may be in the long run, but even from a pedagogical point of view they do not constitute a well-defined occupation or precise activity.
 
-Despite the similarities between Plato and Zen, Deleuze reminds us that Zen's attitude does not make up a philosophy, and Suzuki tells us as much in the chapter _Experience, Not Philosophy_.
+Despite the similarities between Plato and Zen, Deleuze and Guattari remind us that Zen's attitude does not make up a philosophy, and Suzuki tells us as much in the chapter _Experience, Not Philosophy_.
 
 > But whether Buddhism is philosophically deep or good or perfect is not the point. To keep our practice in its pure form is our purpose. Sometimes I feel there is something blasphemous in talking about how Buddhism is perfect as a philosophy without knowing what it actually is.
 

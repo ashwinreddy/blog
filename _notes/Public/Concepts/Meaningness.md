@@ -9,4 +9,3 @@ _[Meaningness](https://meaningness.com/)_ is a book describing the eponymous qua
 
 * _All Things Shining: Reading the Western Classics to Find Meaning in a Secular Age_
 * _Meanings of life_ by Roy F. Baumeister
-* The Meaning of It All: Thoughts of a Citizen-Scientist

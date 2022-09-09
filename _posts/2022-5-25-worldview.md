@@ -25,7 +25,7 @@ Writing is a useful technology here. If you can put down your thoughts on paper,
 
 <!-- Now, we should talk about where to get the raw materials for thought. About daring to know, about being self-reliant. About breaking things down to their first principles. -->
 
-Developing a worldview is effortful, and the mental path of least resistance avoids doing work. To find evidence that goes against our own viewpoint is hard, but it is the key to science.
+Developing a worldview is effortful, and the mental path of least resistance avoids doing work. To find evidence that goes against our own viewpoint is hard. It is also the key to science.
 
 But that’s just my take.
 
