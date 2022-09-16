@@ -8,20 +8,4 @@ _Paradise Lost_ is an [[Epic poem]] and [[Classic book]] in English written by [
 [^number-books]: It was originally 10 books. The choice of 12 books reminds us of the structure of the [[Aeneid]].
 
 
-## Themes
-
-* [[Chaos]] 
-* [[Free Will]]
-
-## Quotes
-
-> long is the way / And hard, that out of Hell leads up to light
-
-## Sources
-* The [edition](https://www.worldcat.org/title/paradise-lost/oclc/751382218) I use
-
-## Reading list
-
-* _Preface to Paradise lost_ C.S. Lewis
-
 ---

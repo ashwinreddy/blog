@@ -1,5 +1,6 @@
 ---
 title: "Antifragile Ethics"
+published: false
 ---
 
 In the last note, I proposed that chaos is the fundamental force, and organisms thrive when they harness it. I want to see what this observation implies about how we should conduct ourselves.

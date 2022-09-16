@@ -1,5 +1,5 @@
 ---
-title: "Distinguished Couplets"
+title: "Surprising Pairs of Interesting People"
 ---
 
 Not infrequently, I discover that two eminent people in history met, interacted extensively, or loved one another. In the most exciting cases, there is a complementarity between them. I will let the examples speak for themselves. _N.B._ I gathered these examples from brief readings and skimmings on the internet, so they are not thoroughly researched.

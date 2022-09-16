@@ -1,5 +1,6 @@
 ---
 title: "Dual Basis for Polynomials"
+published: false
 ---
 
 Recall that a vector space $\mathcal{V}$ over a field $F$ has a corresponding dual space $\mathcal{V}^*$ that consists of all linear maps $\varphi: \mathcal{V} \to F$.
