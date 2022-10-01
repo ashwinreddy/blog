@@ -9,5 +9,4 @@ An abstraction is said to be leaky if it requires the user to understand the int
 
 > All non-trivial abstractions, to some degree, are leaky.
 
-
 * [Notes on software abstraction](https://oh4.co/site/on-abstraction.html)

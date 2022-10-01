@@ -3,7 +3,7 @@ title: "Technologist"
 feed: hide
 ---
 
-Being a technologist is a [[Human]] [[Activity]]. 
+Being a technologist is a [[Human]] endeavor. 
 
 > A technologist makes reason out of the messiness of the world, leverages their understanding to envision a different reality, and builds a pathway to make their vision happen.[^definition]
 

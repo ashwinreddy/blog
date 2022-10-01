@@ -3,7 +3,7 @@ title: "Arendt"
 feed: hide
 ---
 
-Hannah Arendt (1906-1975) was an influential political [[Philosopher]]. She had a background in the [[Classics]]. A Jewish woman, she survived the Holocaust. She studied under and had an affair with [[Heidegger]]. 
+Hannah Arendt (1906-1975) was an influential political philosopher. She had a background in the [[Classics]]. A Jewish woman, she survived the Holocaust. She studied under and had an affair with [[Heidegger]]. 
 
 ## Reading list
 
