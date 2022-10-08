@@ -3,7 +3,7 @@ title: "Process philosophy"
 feed: hide
 ---
 
-Process philosophy is a type of [[Philosophy]], in particular an [[Ontology]] of becoming or change.
+Process philosophy is a type of [[Philosophy]], in particular an ontology of becoming or change.
 
 ## Reading list
 

@@ -1,5 +1,0 @@
----
-title: "Intelligence"
-feed: hide
----
-

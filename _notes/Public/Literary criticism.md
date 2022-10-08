@@ -3,7 +3,7 @@ title: "Literary criticism"
 feed: hide
 ---
 
-Literary criticism is the [[Critique]] and [[Interpretation]] of [[Literature]].
+Literary criticism is the critique and [[Interpretation]] of [[Literature]].
 
 ## Against Interpretation
 

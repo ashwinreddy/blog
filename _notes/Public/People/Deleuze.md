@@ -3,22 +3,17 @@ title: "Deleuze"
 feed: hide
 ---
 
-Gilles Deleuze (1925-95) was a French [[Philosopher]]. 
+Gilles Deleuze (1925-95) was a French philosopher. He was a prolific and influential writer, making use of a staggering number of thinkers and ideas before him. Having studied at Sorbonne, which emphasized close readings and history of philosophy with key figures like Plato, Aristotle, Descartes, and Kant, he was equipped to write monographs on classic philosophers. His primary influences are [[Nietzsche]], [[Spinoza]], and [[Bergson]], but he also wrote about [[Kant]], [[Hume]], [[Foucault]], and Leibniz.
 
-Both in his early and middle career, he wrote books about classic philosophers, offering his own spin on their works. Deleuze studied at Sorbonne, which emphasized close readings and history of philosophy with key figures like Plato, Aristotle, Descartes, and Kant. His book _Empiricism and Subjectivity_ was published in 1953 and focused on [[Hume]]. Next, he looked at [[Nietzsche]] in 1962's _Nietzsche and Philosophy_. He continued with Kant, Bergson, [[Spinoza]], [[Foucault]], and Leibniz. 
+ In 1968, Deleuze published his _magnum opus_ _Difference and Repetition_, a "philosophy of difference" which one can read as a response to [[Heidegger]]'s _Being and Time_. In it, he tried to develop a philosophy of difference.
+ 
+ 
+ Then, he collaborated with Felix Guattari. They wrote _Capitalism and Schizophrenia_ as well as [[What is Philosophy?]] together.
 
-In 1968, Deleuze published his _magnum opus_ _Difference and Repetition_, a "philosophy of difference" which one can read as a response to [[Heidegger]]'s _Being and Time_. 
-
-
-
-Then, he collaborated with Felix Guattari. They wrote _Capitalism and Schizophrenia_ as well as [[What is Philosophy?]] together.
-
-
-* I've loosely been following [The Beginner’s Guide to Deleuze](http://htmlgiant.com/random/the-beginners-guide-to-deleuze/) to learn more about him. 
-* In _The Deleuze-Lucretius Encounter_, Ryan J. Johnson makes a connection between [[Deleuze]] and [[Lucretius]]. Johnson also wrote a book about Deleuze and [[Stoic]]. 
-* He had thoughts about [[Phenomenology]]
 
 ## Reading list
 
+* Simondon
+* I've loosely been following [The Beginner’s Guide to Deleuze](http://htmlgiant.com/random/the-beginners-guide-to-deleuze/) to learn more about him. 
 * [The Deleuze Seminars](https://deleuze.cla.purdue.edu/)
 

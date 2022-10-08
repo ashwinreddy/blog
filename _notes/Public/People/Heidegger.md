@@ -10,4 +10,3 @@ His major work is _Sein und Zeit_, in English _Being and Time_. Hubert Dreyfus h
 ## Reading list
 
 * Question Concerning Technology
-* 

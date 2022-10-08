@@ -1,5 +1,0 @@
----
-title: "Energy"
-feed: home
----
-
