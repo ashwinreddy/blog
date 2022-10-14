@@ -5,7 +5,7 @@ feed: hide
 
 > Give me a fulcrum, and I shall move the world. -- Archimedes
 
-Technology literally means system (_logos_) of craft (_techne_). It is a reusable response to [[Chaos]] from a living being, thereby extending the body.[^inspiration] 
+Technology is a reusable response (a [[System]]) of a living being for responding to [[Chaos]], thereby extending the body.[^inspiration] 
 
 [^inspiration]: This definition is greatly inspired by the essay [What is Technology?](https://letterstoayoungtechnologist.com/What-is-Technology),  in which "technology is a reusable, low-resistance path to achieve some end or goal." 
 

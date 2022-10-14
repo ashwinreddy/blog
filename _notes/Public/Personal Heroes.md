@@ -7,10 +7,10 @@ This page contains a list of personal heroes, people whom I feel contributed in 
 
 |Area|People|
 |---------|-------|
-|Poets|[[Milton]], Shakespeare, [[Ovid]]|
-|Writers|Emerson, Alexandre Dumas, Nassim Taleb|
-|Scientists| Feynman|
+|Poets|[[Milton]], [[Shakespeare]], [[Ovid]]|
+|Writers|Emerson, Dumas, Nassim Taleb|
+|Scientists| [[Feynman]] |
 |Philosophers| [[Deleuze]], [[Nietzsche]], [[Arendt]] |
-|Engineers| Claude Shannon |
+|Engineers| [[Shannon]] |
 | Politicians | Thomas Jefferson |
 

@@ -6,5 +6,7 @@ feed: hide
 Stoicism is a Hellenistic philosophy. Figures include Marcus Aurelius, [[Seneca]], Musonius Rufus.
 
 - [[Philosophy]]
-- Logic
+- [[Logic]]
 - Ethics
+
+The Stoics thought in terms of a [[Sage]].
