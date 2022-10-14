@@ -18,7 +18,7 @@ Foucault starts with _epimelesthai sauton_ (take care of yourself) and _gnothi s
 |Production|Produce, transform, manipulate things||
 |Sign systems|Use signs, meanings, symbols, or signification||
 |Power|Turn other individuals into objects for some end||
-|Self|Let individuals effect their own means or transform themselves|[[Stoic]]|
+|Self|Let individuals effect their own means or transform themselves||
 
 
 ## Essays

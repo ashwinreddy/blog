@@ -3,4 +3,4 @@ title: "Shakespeare"
 feed: hide
 ---
 
-Shakespeare wrote [[Hamlet]] and [[Macbeth]]. He was inspired by [[Ovid]]. 
+Shakespeare was a writer of [[Literature]] like [[Hamlet]] and [[Macbeth]]. He was inspired by [[Ovid]]. 

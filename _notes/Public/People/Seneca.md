@@ -3,7 +3,7 @@ title: "Seneca"
 feed: hide
 ---
 
-Seneca was a Roman writer and [[Philosopher]] who lived during the [[Roman Empire]]. He wrote about [[Stoic]] in [[Latin]]. He also wrote plays. He was the tutor to Nero. He was rich. He wrote _Letters from a Stoic_. He didn't mind borrowing from [[Epicureanism]]. 
+Seneca was a Roman [[Philosopher]], in particular [[Stoicism]], and of plays in [[Latin]].
 
 |Latin|English|
 |-----|-------|

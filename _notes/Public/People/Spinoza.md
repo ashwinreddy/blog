@@ -3,10 +3,9 @@ title: "Spinoza"
 feed: hide
 ---
 
-Baruch[^names] Spinoza was a [[Philosopher]] and, in my mind, a [[Sage]] who lived from 1632 to 1677. Because he didn't believe in the traditional religion of his time, he was cast out of Amsterdam's Jewish community in 1656. 
+Baruch[^names] Spinoza (1632-1677) was a [[Philosopher]] who wrote _Tractatus Theologico-Politicus_ and _Ethica_, both in [[Latin]]. Because he didn't believe in the traditional religion of his time, he was cast out of Amsterdam's Jewish community in 1656. 
 
-* Spinoza's thinking was clearly influenced by [[Descartes]]. 
-* Spinoza wrote two big philosophical works: the _Tractatus Theologico-Politicus_ and  [[Spinoza's Ethics]]. 
+* Spinoza's thinking was clearly influenced by Descartes. 
 
 ---
 

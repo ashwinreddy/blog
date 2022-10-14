@@ -3,7 +3,7 @@ title: "Logic of Sense"
 feed: hide
 ---
 
-_Logic of Sense_ is a book by Gilles [[Deleuze]] published in 1969. It's about [[Carroll]] and [[Stoicism]].
+_Logic of Sense_ is a [[Book]] by Gilles [[Deleuze]] published in 1969. It's about [[Carroll]] and [[Stoicism]].
 
 
 It's about the relation of events and series. An event runs through a series and is transformed by it. It doesn't have a clear start or end. 

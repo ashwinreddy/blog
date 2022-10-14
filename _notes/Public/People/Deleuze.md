@@ -3,17 +3,22 @@ title: "Deleuze"
 feed: hide
 ---
 
-Gilles Deleuze (1925-95) was a French philosopher. He was a prolific and influential writer, making use of a staggering number of thinkers and ideas before him. Having studied at Sorbonne, which emphasized close readings and history of philosophy with key figures like Plato, Aristotle, Descartes, and Kant, he was equipped to write monographs on classic philosophers. His primary influences are [[Nietzsche]], [[Spinoza]], and [[Bergson]], but he also wrote about [[Kant]], [[Hume]], [[Foucault]], and Leibniz.
+Gilles Deleuze (1925-95) was a French [[Philosopher]]. 
 
- In 1968, Deleuze published his _magnum opus_ _Difference and Repetition_, a "philosophy of difference" which one can read as a response to [[Heidegger]]'s _Being and Time_. In it, he tried to develop a philosophy of difference.
- 
+His work responds to mainstream Western philosophers, which the Sorbonne, his alma mater, emphasized through close readings, by challenging its fundamental notions. But he champions and harnesses minor (in the sense of undervaluation) philosophers and thinkers like [[Hume]], [[Nietzsche]], [[Spinoza]], Leibniz, and [[Bergson]] against Plato, [[Kant]], and Hegel. 
+
+Deleuze is a philosopher of difference: he wants to displace being, identity, and the representational model of thought with difference and becoming, which is what his _magnum opus_ _Difference and Repetition_ (1968), a response to [[Heidegger]]'s _Being and Time_, does. 
+
+We usually say that _A_ and _B_ are different when we perceive first that they belong to the same category, i.e. they are the same except for their differences. That tends to imply there is some underlying persistence in terms of categories and the objects that belong to them. Then, difference is seen through that lens. Is it possible to think about difference without relying on sameness?
+
+It would mean thinking about each individual's becoming.
+
  
  Then, he collaborated with Felix Guattari. They wrote _Capitalism and Schizophrenia_ as well as [[What is Philosophy?]] together.
 
 
 ## Reading list
 
-* Simondon
 * I've loosely been following [The Beginner’s Guide to Deleuze](http://htmlgiant.com/random/the-beginners-guide-to-deleuze/) to learn more about him. 
 * [The Deleuze Seminars](https://deleuze.cla.purdue.edu/)
 

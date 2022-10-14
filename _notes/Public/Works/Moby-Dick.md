@@ -7,4 +7,4 @@ _Moby-Dick_ is a novel written by Herman Melville. The novel follows Ishmael, wh
 
 To my mind, the novel is significant not only for combining the forms of [[Epic poem]] and essay but also for its deep symbolism and spiritual disposition.
 
-Moby-Dick has interesting connections to [[Paradise Lost]]. It is heavily influenced by Shakespeare. 
+Moby-Dick is greatly inspired by [[Paradise Lost]] and the language of [[Shakespeare]]. 

@@ -3,14 +3,9 @@ title: "Hume"
 feed: hide
 ---
 
-David Hume was a philosopher who broadly took a skeptic attitude. He was interested in empiricism, subjectivity, experience and [[Causality]], and [[Ethics]]. 
+David Hume was a [[Philosopher]] who was interested in "Logics, Morals, Criticism, and Politics," their connection to human nature. He wanted to bring the approach of [[Empiricism]] to these subjects.
 
-* He doesn't believe in causality. 
-* He doesn't believe in substance. 
-
-
-
-_Observation_: There are some affinities between Hume and [[Spinoza]]. 
+He thought that our view of [[Causality]] was just a [[Habit]]. 
 
 ## Reading list
 

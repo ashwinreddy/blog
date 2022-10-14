@@ -5,7 +5,7 @@ feed: hide
 
 Existentialism is a [[Philosophy]] from the 20th century. [[Absurdism]] is closely related, if not a part of it. A key idea is that
 
-> Existence precedes essence. -- [[Sartre]]
+> Existence precedes essence. -- Sartre
 
 ## Reading list
 

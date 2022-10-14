@@ -3,7 +3,7 @@ title: "Meditation"
 feed: hide
 ---
 
-Meditation is the habitual practice of clarifying conscious experience.
+Meditation is the [[Technology]] and [[Habit]] of clarifying conscious experience.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/9/90/Mori_Sosen_BaikaEnkou-zu.jpg)
 

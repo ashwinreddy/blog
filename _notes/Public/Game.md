@@ -4,14 +4,13 @@ feed: hide
 ---
 
 Game
-: A game $G$ consists of player(s) $A_1, \dots, A_n$ in a play space $S$, each trying to reach a goal $\Omega_{A_i}(G) \in S$ under certain constraints/rules/restrictions in $S$ that they follow for fun. The rules dictate what players can do as well when and where.[^suits]
+: A game $G$ is a [[System]] that consists of player(s) $A_1, \dots, A_n$ in a play space $S$, each trying to reach a goal $\Omega_{A_i}(G) \in S$ under certain constraints/rules/restrictions in $S$ that they follow for fun. The rules dictate what players can do as well when and where.[^suits]
 
 The four components are the players, the goals, constraints, and [[Play]]. Examples of games include [[Conversation]]s and [[Optimization problem]]s. 
 
-If a game is formalized, characterized by having written rules which articulate the objectives and rules in a clear, unambiguous fashion, then we may be able to solve it using [[Formal science]]. To solve the game means to provide an agent with a ready-to-go plan that is optimal in some way. Games with written rules are putting forward logical propositions as constraints, so they become games of deduction, where we figure out what those constraints entail. 
+If a game is formalized, characterized by having written rules which articulate the objectives and rules in a clear, unambiguous fashion, then we may be able to solve it using [[Formal science]]. To solve the game means to provide the [[Computation]] of plan for an agent that is optimal in some way. Games with written rules are games of deductions because we must figure out what the constraints as logical propositions entail.
 
-
-When the game is formalized, it is often easier to represent the play space. In [this computational essay](https://writings.stephenwolfram.com/2022/06/games-and-puzzles-as-multicomputational-systems/), Stephen Wolfram describes the structure of games in depth. Even simple games can have complex play spaces as he shows below.
+When the game is formalized, we can navigate its play space more easily. In [this computational essay](https://writings.stephenwolfram.com/2022/06/games-and-puzzles-as-multicomputational-systems/), Stephen Wolfram describes the structure of games in depth. Even simple games can have complex play spaces as he shows below.
 
 ![](https://content.wolfram.com/uploads/sites/43/2022/06/multiway-hero-final-2.png)
 

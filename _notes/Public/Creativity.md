@@ -9,6 +9,3 @@ Creativity is the ability to come up with interesting and effective solutions. I
 2. Passion
 3. Peers
 4. [[Play]]
-
-
-
