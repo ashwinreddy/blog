@@ -5,6 +5,10 @@ feed: hide
 
 _Logic of Sense_ is a [[Book]] by Gilles [[Deleuze]] published in 1969. It's about [[Carroll]] and [[Stoicism]].
 
+1. How do events relate to the world and language? _being_ and _events_
+2. What makes language and thought possible? _sex_ and _surfaces_
+3. How does ethics have meaning if the physical world is causally determined? _freedom_ and _death_
+
 
 It's about the relation of events and series. An event runs through a series and is transformed by it. It doesn't have a clear start or end. 
 
