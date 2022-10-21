@@ -9,6 +9,10 @@ His major work is _Sein und Zeit_, in English _Being and Time_. Hubert Dreyfus h
 
 He also writes about [[Technology]] and [[Causality]] in _The Question Concerning Technology_.
 
+## _Dasein_
+
+_Dasein_ means "being-there"
+
 ## Reading list
 
 * Question Concerning Technology

@@ -7,4 +7,4 @@ The word _logos_ is an important and complicated one. It is related to [[Logic]]
 
 > En arkhêi ên ho lógos, kaì ho lógos ên pròs tòn theón, kaì theòs ên ho lógos.
 
-It shows up in [[Stoicism]]. 
+It shows up in Heraclitus and in [[Stoicism]]. 
