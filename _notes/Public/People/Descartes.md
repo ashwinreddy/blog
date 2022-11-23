@@ -1,6 +1,7 @@
 ---
 title: "Descartes"
 feed: hide
+tags: philosopher
 ---
 
-Rene Descartes did seminal work in [[Mathematics]] and [[Philosophy]]. 
+Rene Descartes was a [[Philosopher]] from [[France]] who also did seminal work in [[Mathematics]].

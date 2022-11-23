@@ -1,6 +1,8 @@
 ---
 title: "Vladimir Nabokov"
 feed: hide
+tags:
+- writer
 ---
 
 Vladimir Nabokov was a writer of [[Literature]]. He grew up trilingual, speaking Russian, French, and English. 

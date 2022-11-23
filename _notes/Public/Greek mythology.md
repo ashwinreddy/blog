@@ -3,4 +3,4 @@ title: "Greek mythology"
 feed: hide
 ---
 
-Greek mythology is the [[Myth]] of the Greeks (and Romans). 
+Greek mythology is the [[Myth]] of the ancient [[Greece]]. 

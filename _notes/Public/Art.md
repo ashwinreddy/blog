@@ -15,4 +15,4 @@ We could stretch this view to say that [[Art]] is [[Sprachspiel]] of the most [[
 In [[What is Philosophy?]], Deleuze and Guattari suggest Art is a response to [[Chaos]].
 
 
-We cannot neglect the [[Time]] in which an artwork was created in judging it. 
+We cannot neglect the Time in which an artwork was created in judging it. 

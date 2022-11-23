@@ -3,7 +3,7 @@ title: "Cooperation"
 feed: hide
 ---
 
-Cooperation is when agents to work together to achieve either their own ends or a common end. 
+Cooperation is the [[Technology]] of using other agents to achieve a goal, whether selfish or shared. 
 
 ## Reading List
 

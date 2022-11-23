@@ -1,11 +1,12 @@
 ---
 title: "Empiricism and Subjectivity"
 feed: hide
+tags: book
 ---
 
-_Empiricism and Subjectivity_ is a book by [[Deleuze]] on [[Hume]]'s [[Empiricism]]. Deleuze disagrees with the emphasis on empiricism saying that knowledge derives from human experience. 
+_Empiricism and Subjectivity: An Essay on Hume's Theory of Human Nature_ (1953) is [[Deleuze]]'s _diplôme d’études supérieures_ (roughly master's) on [[Hume]]'s [[Empiricism]]. Deleuze disagrees with the emphasis on empiricism saying that knowledge derives from human experience. 
 
-> The classical definition of empiricism proposed by the Kantian tradi- tion is this: empiricism is the theory according to which knowledge not only begins with experience but is derived from it. But why would the empiricist say that? And as the result of which question?
+> The classical definition of empiricism proposed by the Kantian tradition is this: empiricism is the theory according to which knowledge not only begins with experience but is derived from it. But why would the empiricist say that? And as the result of which question?
 
 This is a book which is a philosophical critique then, and Deleuze says there are 4 approaches:
 

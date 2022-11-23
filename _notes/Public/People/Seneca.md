@@ -1,9 +1,11 @@
 ---
 title: "Seneca"
 feed: hide
+tags:
+- philosopher
 ---
 
-Seneca was a Roman [[Philosopher]], in particular [[Stoicism]], and of plays in [[Latin]].
+Seneca was a Roman [[Philosopher]], in particular of [[Stoicism]] from [[Rome]]. 
 
 |Latin|English|
 |-----|-------|

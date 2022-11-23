@@ -3,7 +3,10 @@ title: "Literary criticism"
 feed: hide
 ---
 
-Literary criticism is the critique and [[Interpretation]] of [[Literature]].
+Literary theory/criticism is the critique, [[Interpretation]], [[Philosophy]] of [[Literature]]. Topics include
+- [[Structuralism]]
+- [[New Criticism]]
+- What to do with [[Western canon]]?
 
 ## Against Interpretation
 

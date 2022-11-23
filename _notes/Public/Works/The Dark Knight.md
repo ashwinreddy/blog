@@ -10,4 +10,4 @@ The antagonist of the film is the Joker, who sees himself as an agent of chaos.
 > Introduce a little anarchy. Upset the established order, and everything becomes chaos. I'm an agent of chaos. Oh, and you know the thing about chaos? It's fair!
 
 
-Themes of [[Chaos]] and [[Justice]].
+Themes of [[Chaos]].

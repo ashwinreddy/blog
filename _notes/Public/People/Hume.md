@@ -1,6 +1,8 @@
 ---
 title: "Hume"
 feed: hide
+tags:
+- philosopher
 ---
 
 David Hume was a [[Philosopher]] who was interested in "Logics, Morals, Criticism, and Politics," their connection to human nature. He wanted to bring the approach of [[Empiricism]] to these subjects.

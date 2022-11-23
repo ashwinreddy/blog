@@ -7,7 +7,7 @@ _The Prince Returns_ is an archetypal story closely following the [[Hero's Journ
 
 We can find many examples in [[Classic book]]s.
 
-* The classic example is the _Odyssey_. Odysseus must literally find his way home, and Telemachus must learn how to take up his rightful position as prince. Athena shows up as Mentor. 
+* The classic example is the _[[Odyssey]]_. Odysseus must literally find his way home, and Telemachus must learn how to take up his rightful position as prince. Athena shows up as Mentor. 
 * By extension, the _[[Aeneid]]_ is also a prince-returns story.
 * In the _Oresteia_, Agamemnon returns from the Trojan War, only to be killed by his wife Clytemnestra and her lover Aegisthus. The prince Orestes then returns to his homeland to avenge his father. Like Telemachus, he finds a guide in Athena, who rescues him from the Furies.
 * The Buddha began as Siddhartha Gautama, a prince who was sheltered. But he became a sage when he realized there was suffering and death in the world. 

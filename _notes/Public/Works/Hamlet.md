@@ -1,5 +1,6 @@
 ---
 title: "Hamlet"
+tags: book
 ---
 
 _The Tragedy of Hamlet, Prince of Denmark_ is a play by [[Shakespeare]]. One of his longest and most complex plays, it has been an enduring staple of English literature and literary criticism. The critic Harold Bloom calls the play a "Poem Unlimited."

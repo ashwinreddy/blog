@@ -1,6 +1,7 @@
 ---
 title: "Antifragile"
 feed: hide
+tags: book
 ---
 
 > I want to live happily in a world I don't understand. -- Taleb

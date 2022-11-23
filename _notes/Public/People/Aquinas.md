@@ -1,6 +1,8 @@
 ---
 title: "Aquinas"
 feed: hide
+tags:
+- philosopher
 ---
 
-Aquinas took Aristotle and applied it to Christianity.
+Aquinas was a [[Philosopher]] who took [[Aristotle]] and applied it to [[Christianity]].

@@ -3,7 +3,7 @@ title: "Odyssey"
 feed: hide
 ---
 
-The Odyssey is one of the two Homeric [[Epic poem]]s of [[Greek mythology]].
+The _Odyssey_ is one of the two Homeric [[Epic poem]]s of [[Greek mythology]].
 
 ## Reading
 

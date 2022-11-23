@@ -3,7 +3,7 @@ title: "Money"
 feed: hide
 ---
 
-Money has 3 purposes.
+Money is a [[Technology]] with 3 purposes.
 
 |Purpose|Meaning|
 |--------|---------|

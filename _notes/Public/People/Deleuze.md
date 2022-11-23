@@ -1,15 +1,20 @@
 ---
 title: "Deleuze"
 feed: hide
+tags:
+- philosopher
+- writer
 ---
 
-Gilles Deleuze (1925-95) was a French [[Philosopher]] and a [[Sage]]. Todd May sees his oeuvre as trying to grapple with the question _how might one live?_ as opposed to the Socratic _how should one live?_ or Kant or Bentham's _how should one act?_
+Gilles Deleuze (1925-95) was a philosopher from [[France]] of [[Difference]], [[Creativity]], [[Becoming]] and a [[Sage]]. Todd May sees his oeuvre as trying to grapple with the question _how might one live?_ as opposed to the Socratic _how should one live?_ or Kant or Bentham's _how should one act?_
 
-Deleuze belongs to the same generation as [[Derrida]] and [[Foucault]], but he works with an ontology. He wants to know what the forms and beings in life are. He wants to use philosophy to create concepts and disturb the nature of things. Concepts link together on a plane of immanence, palpating difference. Deleuze cares about _thought_ more than _knowledge_. 
+## History
+
+Deleuze belongs to the same generation as [[Derrida]] and [[Foucault]], but he remains grounded in philosophical thinking. He starts not with [[Phenomenology]] and [[Existentialism]] but [[Ontology]].  He wants to know what the forms and beings in life are. He wants to use philosophy to create [[concept]]s and disturb the nature of things. Concepts link together on a plane of immanence, palpating difference. Deleuze cares about _thought_ more than _knowledge_. He was influenced by [[May 68]] and [[Sartre]]. 
 
 ## Apprenticeships
 
-His work responds to mainstream Western philosophers, which the Sorbonne, his alma mater, emphasized through close readings, by challenging its fundamental notions. But he champions and harnesses minor (in the sense of undervaluation) philosophers and thinkers like [[Hume]], [[Nietzsche]], [[Spinoza]], Leibniz, and [[Bergson]] against Plato, [[Kant]], and Hegel. 
+His work responds to mainstream Western philosophers, which the Sorbonne, his alma mater, emphasized through close readings, by challenging their fundamental notions. But he champions and harnesses minor (in the sense of undervaluation) philosophers and thinkers like [[Hume]], [[Nietzsche]], [[Spinoza]], Leibniz, and [[Bergson]] against Plato, [[Kant]], and Hegel. 
 
 His big thinkers are Spinoza, Bergson, and Nietzsche. From Spinoza, he takes up [[Immanence]], rather than Transcendence. He is against Hegel and Kant wants to put the reversal of Platonism into motion. He takes up Expression rather than Emanation or Creation. Then, there is a univocity of being. Things fold, unfold, refold. 
 

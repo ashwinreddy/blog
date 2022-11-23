@@ -1,6 +1,7 @@
 ---
 title: "Eyes Wide Shut"
 feed: hide
+tags: book
 ---
 
 _[Eyes Wide Shut](https://www.imdb.com/title/tt0120663/?ref_=nv_sr_srsg_0)_ is a 1999 film by Stanley Kubrick. 

@@ -1,18 +1,10 @@
 ---
 title: "Heidegger"
 feed: hide
+tags:
+- philosopher
 ---
 
-Martin Heidegger was a German [[Philosopher]] who began in [[Phenomenology]]. He was a Nazi supporter. He was involved with [[Arendt]]. 
+Martin Heidegger (1889-1976) was a [[Philosopher]] from [[Germany]] who did work in [[Phenomenology]] and [[Being]]. His major work is _[[Sein und Zeit]]_. He began in a seminary, but then became a student of Husserl. By way of biography, he was a Nazi supporter, and he was involved in an affair with [[Arendt]]. 
 
-His major work is _Sein und Zeit_, in English _Being and Time_. Hubert Dreyfus has a book _Being-in-the-world_ which is just about the first division. 
-
-He also writes about [[Technology]] and [[Causality]] in _The Question Concerning Technology_.
-
-## _Dasein_
-
-_Dasein_ means "being-there"
-
-## Reading list
-
-* Question Concerning Technology
+He also writes about [[Technology]], [[Language]], [[Art]], [[Poetry]], and [[Nietzsche]].

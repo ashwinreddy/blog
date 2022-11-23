@@ -1,6 +1,8 @@
 ---
 title: "All Things Shining"
 feed: hide
+tags: 
+- book
 ---
 
 [[Dreyfus]] and Kelly want to combat [[Nihilism]] by taking a close look at the great books in literature and philosophy. They point out that in the modern world, we have a lot of uncertainty, too much freedom, all kinds of neuroses (Prufrock). One solution, obtaining a monomaniacal self-confidence like Captain Ahab or Citizen Kane, isn't an effective one. Nor is trying to lose ourselves in entertainment, temptations, and hedonism. 
