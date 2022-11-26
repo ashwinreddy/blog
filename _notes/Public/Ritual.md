@@ -1,0 +1,5 @@
+---
+title: "Ritual"
+feed: hide
+---
+

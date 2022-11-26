@@ -5,7 +5,7 @@ tags:
 - book
 ---
 
-[[Dreyfus]] and Kelly want to combat [[Nihilism]] by taking a close look at the great books in literature and philosophy. They point out that in the modern world, we have a lot of uncertainty, too much freedom, all kinds of neuroses (Prufrock). One solution, obtaining a monomaniacal self-confidence like Captain Ahab or Citizen Kane, isn't an effective one. Nor is trying to lose ourselves in entertainment, temptations, and hedonism. 
+_All Things Shining_ is an [[Public/English]]-language book about the [[Western canon]] and [[Meaningness]] by [[Dreyfus]] and Kelly. They want to combat [[Nihilism]] by taking a close look at the great books in literature and philosophy. They point out that in the modern world, we have a lot of uncertainty, too much freedom, all kinds of neuroses (Prufrock). One solution, obtaining a monomaniacal self-confidence like Captain Ahab or Citizen Kane, isn't an effective one. Nor is trying to lose ourselves in entertainment, temptations, and hedonism. 
 
 Do we have any sense left of what is sacred? Is it possible to become the kind of person who could act in a moment of certainty with bravery and heroism? To attain a greatness? How can we live a meaningful life? 
 

@@ -4,16 +4,16 @@ feed: hide
 tags: book
 ---
 
-_Logique du sens_ (1969) is a book by [[Deleuze]] about [[Language]], Ethics, Sense, Psychoanalysis. 
+_Logique du sens_ (1969) is a [[French]] book by [[Deleuze]] about [[Language]], Ethics, Sense, [[Psychoanalysis]]. 
 
-1. How do events relate to the world and language? _being_ and _events_
+1. How do events relate to the world and language? _[[Being]]_ and _[[Event]]s_
 2. What makes language and thought possible? _sex_ and _surfaces_
 3. How does ethics have meaning if the physical world is causally determined? _freedom_ and _death_
 
 
 He looks at the work of [[Carroll]] in [[Alice in Wonderland]] and [[Through the Looking-Glass]]. In an **event** like Alice growing bigger, there is actually a paradox. You could choose to see her getting bigger with one direction of time or getting smaller in the other. The direction of time is a choice, just as a battle is a win for one side and a loss for the other, depending on perspective. This paradox will demand an extension of language. 
 
-A linguistic claim or proposition has three dimensions which require a fourth.
+A linguistic claim or [[proposition]] has three dimensions which require a fourth.
 
 Denotation is the relation of the proposition to an external state of affairs. Manifestation concerns the relation of the proposition to the person who speaks and expresses himself. So we have the proposition, a speaker, and a set of affairs. But there's also signification, which has to do with implication of propositions. Logical demonstrations or material inference, keeping a promise, etc.
 
@@ -47,3 +47,5 @@ But the ideal one has
 2. The set of plays affirms the whole of chance, branched out at each play, rather than dividing it into numerically distinct plays.
 3. Each play is a series as a distribution of singularities, but the set of plays is itself a play of all the singularities.
 4. Such a game is the reality of thought rather than any actual reality. 
+
+The book ends with an appendix on [[Plato]] and [[Lucretius]] and [[Simulacrum]]. 

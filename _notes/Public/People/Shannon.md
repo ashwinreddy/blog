@@ -1,6 +1,7 @@
 ---
 title: "Shannon"
 feed: hide
+tags: scientist
 ---
 
-Claude Shannon developed a theory of [[Information]]. 
+Claude Shannon [[USA]] [[MIT]] developed a theory of [[Information]]. 

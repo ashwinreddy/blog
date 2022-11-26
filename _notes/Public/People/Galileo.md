@@ -3,7 +3,7 @@ title: "Galileo"
 feed: hide
 ---
 
-Galileo (1564-1642) was an Italian scientist. Milton called him "the Tuscan Artist."
+Galileo (1564-1642) was an Italian scientist of [[Physics]]. Milton called him "the Tuscan Artist."
 
 
 Talking about natural philosophy in terms of [[Mathematics]] and that without it, science is a [[Labyrinth]].

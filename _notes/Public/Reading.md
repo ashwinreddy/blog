@@ -3,7 +3,7 @@ title: "Reading"
 feed: hide
 ---
 
-Reading is the [[Interpretation]] of words. [[Nabokov]] says a good reader needs 4 things: imagination, memory, a dictionary, some artistic sense.
+Reading is a [[Technology]] of retrieving [[Information]] from [[Writing]] through [[Interpretation]]. [[Nabokov]] says a good reader needs 4 things: imagination, memory, a dictionary, some artistic sense.
 
 ## Advice
 

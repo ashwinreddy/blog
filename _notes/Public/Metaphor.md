@@ -2,11 +2,11 @@
 title: "Metaphor"
 feed: hide
 ---
+> In the making of speech and language the spirit is continually "sparking" between matter and mind, as it were, playing with this wondrous nominative faculty. Behind every abstract expression there lie the boldest of metaphors, and every metaphor is a play upon words. Thus in giving expression to life man creates a second, poetic world alongside the world of nature. -- Johan Huizinga
 
-Metaphor is a [[Language]] [[Technology]] which imbues one thing, the tenor, with a sense of another, the vehicle. For example, in "all the world's a stage," the world is the tenor and stage is the vehicle. 
+Metaphor is a [[Literary device]] which imbues one thing, the tenor, with a sense of another, the vehicle. For example, in "all the world's a stage," the world is the tenor and stage is the vehicle. 
 
 In [Metaphors We Live By](https://www.worldcat.org/title/metaphors-we-live-by/oclc/1050036394&referer=brief_results), George Lakoff and Mark Johnson argue that far from being just a literary device, metaphor is core to how [[Language]] operates. (I believe Steven Pinker's [Stuff of Thought](https://www.worldcat.org/title/stuff-of-thought/oclc/1267996041&referer=brief_results) also makes this case.) 
-
 
 Lakoff and Johnson use metaphors to drive a wedge between the binary that either there is absolute truth or people have just their personal truth. In fact, they say, metaphors seem to capture aspects of both. [Good summary here](http://www.yorku.ca/hjackman/Teaching/Toledo/3060/lakoff5.html). 
 

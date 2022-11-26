@@ -5,17 +5,14 @@ feed: hide
 
 > I coalesce the vapor of human experience into a viable and logical comprehension.
 
-Philosophy (Greek _philos_ for loving + _sophia_ for wisdom) can mean many things, but here are definitions worth thinking about. 
+Philosophy ([[Greek]] _philos_ for loving + _sophia_ for [[wisdom]]) can mean many things, but here are definitions worth thinking about. 
 
-1. Philosophy is the creation of concepts. This is the view taken up by [[Deleuze]] & Guattari. D&G say in [[What is Philosophy?]] that philosophy is not about contemplation, reflection, or communication, although it involves those things. 
+1. Philosophy is the creation of [[concept]]s. ([[Deleuze]])
 2. Philosophy is a way of life. This is the view taken by [[Seneca]]. 
-3. Philosophy is therapy.
-4. Philosophy is a discussion.
+3. Philosophy is therapy. This is the view of [[Wittgenstein]]
+4. Philosophy is a discussion. This is the view of [[Rorty]]
 
-Practically, it looks at such fields as metaphysics, epistemology, ethics, aesthetics. 
-
-Because philosophy is a social [[Activity]], it depends a great deal on [[Language]] and on [[Reading]] and [[Writing]]. 
-
+It looks at such fields as metaphysics, epistemology, ethics, aesthetics. 
 
 ## Resources
 

@@ -1,6 +1,22 @@
 ---
 title: "Literature"
 feed: hide
+tags: concept
 ---
 
-Literature is a type of [[Art]] that uses [[Language]]. It is the most deliberate form of communication, though literature has to deal with the question of [[Interpretation]]. Generally, we receive it in the form of a [[Book]], although that is a flexible medium. 
+Literature is the [[Art]] pertaining to [[Language]]. As a field, literary criticism theorizes literature. Topics include
+
+- [[Structuralism]]
+- [[New Criticism]]
+- [[Interpretation]]
+- [[Deconstruction]]
+- What to do with [[Western canon]]?
+
+
+
+## Reading list
+
+* Pope's An Essay on Criticism
+* [Actually, Criticism Is Literature](https://lithub.com/actually-criticism-is-literature/)
+* Yale class on theory of literature
+* Sartre’s What is Literature

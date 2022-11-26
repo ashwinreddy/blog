@@ -5,4 +5,4 @@ tags:
 - philosopher
 ---
 
-Karl Marx was a [[Philosopher]]. 
+Karl Marx was influenced by [[Hegel]] and [[Kant]], apparently. His view of [[Marxism]] was influential. 

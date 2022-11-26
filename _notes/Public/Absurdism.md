@@ -1,6 +1,7 @@
 ---
 title: "Absurdism"
 feed: hide
+tags: school
 ---
 
 Absurdism is a [[Stance]] similar to nihilism that claims the universe has no coherent meaning, that [[Meaningness]] is not a sensible dimension. It is most closely connected to Albert Camus. The classic text is _The Stranger_. In his book _The Myth of Sisyphus_, he states that the primary philosopical problem is suicide. In Camus' terminology, there are two kinds of suicide, neither of which are justifiable.

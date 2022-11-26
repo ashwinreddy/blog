@@ -5,7 +5,11 @@ tags:
 - writer
 ---
 
-Vladimir Nabokov was a writer of [[Literature]]. He grew up trilingual, speaking Russian, French, and English. 
+Vladimir Nabokov from [[Russia]] was a writer of [[Literature]]. He grew up trilingual, speaking Russian, [[French]], and [[Public/English]]. He went to [[Cambridge]]. 
+
+He writes about [[Shakespeare]]. 
+
+He believes in [[Individualism]], hates [[Fascism]] and [[Communism]]. 
 
 [[Play]] was an important part of his life and work, and the book _Vladimir Nabokov and the Art of Play_ argues it is his signature idea. 
 

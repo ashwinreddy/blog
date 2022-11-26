@@ -3,7 +3,7 @@ title: "Stoicism"
 feed: hide
 ---
 
-Stoicism is a Hellenistic [[philosophy]] founded by Zeno of Citium (c. 335-252 BC) who studied with [[Plato]]'s successors at the Academy in Athens. He taught at the _stoa_, meaning portico or porch. He was succeeded by Cleanthes, then Chrysippus. Only later on do we hear the more famous names of Musonius Rufus, Epictetus, Seneca, Marcus Aurelius. Cicero, though not a Stoic himself, was familiar enough with the school to write _Paradoxa Stoicorum_. 
+Stoicism is a [[Hellenistic philosophy]] founded by Zeno of Citium (c. 335-252 BC) who studied with [[Plato]]'s successors at the Academy in Athens. He taught at the _stoa_, meaning portico or porch. He was succeeded by Cleanthes, then Chrysippus. Only later on do we hear the more famous names of Musonius Rufus, Epictetus, Seneca, Marcus Aurelius. Cicero, though not a Stoic himself, was familiar enough with the school to write _Paradoxa Stoicorum_. 
 
 In a sense, Stoicism builds from the remainders of [[Socrates]]' thought. In particular,
 1. There is such a thing as _eudaimonia_.

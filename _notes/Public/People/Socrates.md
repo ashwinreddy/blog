@@ -5,4 +5,4 @@ tags:
 - philosopher
 ---
 
-Socrates was a [[Philosopher]] from [[Greece]]. 
+Socrates was a Philosopher of [[Irony]] from [[Athens]]. He asks _how should one live?_

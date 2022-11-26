@@ -1,6 +1,7 @@
 ---
 title: "Information"
 feed: hide
+tags: concept
 ---
 
 Information is [[Meaningness]] in a signal.

@@ -4,11 +4,15 @@ feed: hide
 tags: book
 ---
 
-_Différence et répétition_ (1968) is [[Deleuze]]'s _magnum opus_, which one could see as a response to [[Sein und Zeit]]. It is anti-[[Hegel]]. 
+_Différence et répétition_ (1968) is [[Deleuze]]'s _magnum opus_, which one could see as a response to [[Sein und Zeit]]. It is anti-[[Hegel]]. He wants to displace being, identity, and the representational model of thought with difference and becoming.
 
 |Aspect|Hegel|Deleuze|
 |-------|------|--------|
 |[[Being]]|Identity|Difference
 |[[Time]]|Negation|Repetition|
 
-Deleuze wants to think difference in itself. 
+Deleuze wants to think difference in itself. We usually say that _A_ and _B_ are different when we perceive first that they belong to the same category, i.e. they are the same except for their differences. That tends to imply there is some underlying persistence in terms of categories and the objects that belong to them. Then, difference is seen through that lens. Is it possible to think about difference without relying on sameness?
+
+It would mean thinking about each individual's becoming.
+
+References to [[Aristotle]] and [[Hamlet]]. 

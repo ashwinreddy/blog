@@ -4,4 +4,4 @@ feed: hide
 tags: book
 ---
 
-_Philosophical Investigations_ is a book by [[Wittgenstein]] about [[Game]]s and [[Sprachspiel]]. It opens with a quote from [[Augustine]]. 
+_Philosophical Investigations_ is a book by [[Wittgenstein]] about [[Language]], [[Game]]s and [[Sprachspiel]]. It opens with a quote from [[Augustine]]. 

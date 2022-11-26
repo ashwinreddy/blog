@@ -6,15 +6,21 @@ tags:
 - writer
 ---
 
-Gilles Deleuze (1925-95) was a philosopher from [[France]] of [[Difference]], [[Creativity]], [[Becoming]] and a [[Sage]]. Todd May sees his oeuvre as trying to grapple with the question _how might one live?_ as opposed to the Socratic _how should one live?_ or Kant or Bentham's _how should one act?_
+Gilles Deleuze (1925-95) was a philosopher from [[France]] and a [[Sage]]. His work grapples with [[Difference]], [[Creativity]], and [[Becoming]] and references a diverse set of works. His books include:
 
-## History
+- [[Empiricism and Subjectivity]]
+- [[Nietzsche and Philosophy]] (apprenticeship)
+- [[The Fold]]
+- [[Capitalism and Schizophrenia]]
+- [[Difference and Repetition]]
+- [[Proust and Signs]]
+- [[What is Philosophy?]]
 
-Deleuze belongs to the same generation as [[Derrida]] and [[Foucault]], but he remains grounded in philosophical thinking. He starts not with [[Phenomenology]] and [[Existentialism]] but [[Ontology]].  He wants to know what the forms and beings in life are. He wants to use philosophy to create [[concept]]s and disturb the nature of things. Concepts link together on a plane of immanence, palpating difference. Deleuze cares about _thought_ more than _knowledge_. He was influenced by [[May 68]] and [[Sartre]]. 
+Deleuze thinks of himself as a classic philosopher and works with [[Ontology]]. He wants to know what the forms and beings in life are. He wants to use philosophy to create [[concept]]s and disturb the nature of things. Concepts link together on a plane of immanence, palpating difference. Deleuze cares about _thought_ more than _knowledge_. He was influenced by [[May 68]] and [[Sartre]]. 
 
 ## Apprenticeships
 
-His work responds to mainstream Western philosophers, which the Sorbonne, his alma mater, emphasized through close readings, by challenging their fundamental notions. But he champions and harnesses minor (in the sense of undervaluation) philosophers and thinkers like [[Hume]], [[Nietzsche]], [[Spinoza]], Leibniz, and [[Bergson]] against Plato, [[Kant]], and Hegel. 
+His work responds to mainstream Western philosophers, which the Sorbonne, his alma mater, emphasized through close readings, by challenging their fundamental notions. But he champions and harnesses minor (in the sense of undervaluation) philosophers. 
 
 His big thinkers are Spinoza, Bergson, and Nietzsche. From Spinoza, he takes up [[Immanence]], rather than Transcendence. He is against Hegel and Kant wants to put the reversal of Platonism into motion. He takes up Expression rather than Emanation or Creation. Then, there is a univocity of being. Things fold, unfold, refold. 
 
@@ -40,18 +46,12 @@ Abandon the dogmatic image of thought, which operates with common sense and good
 
 How do we consider new possibilities? We have to think in terms of problems. "For the dogmatic image of thought, being is defined in terms of actuality rather than virtuality. It is a matter of stable identities rather than difference. To think ontologically in terms of stable identities is to read solutions back into problems, to approach problems in terms of solutions."
 
-Science can think difference too, where it is a matter of understanding systems of difference in dynamic relation. Here, Deleuze looks to [[Simondon]]'s preindividual state. Biological individuals actualize a virtual intensive state. For example, the genes are a virtual field of intensities that actualize into specific concrete beings. This preindividual state is a multiplicity. The process is primary. Deleuze and Guattari also pick up on Jacques Monod's _Chance and Necessity_ which shows that some enzymes already have a self-ordering behavior. Or there's Prigogine and Stengers _Order Out of Chaos_, which looks at [[Emergence]]. They also look at [[Chaos]] in terms of bifurcations. This is Nietzsche's dice throw. 
+Science can think difference too, where it is a matter of understanding systems of difference in dynamic relation. Here, Deleuze looks to [[Simondon]]'s preindividual state. Biological individuals actualize a virtual intensive state. For example, the genes are a virtual field of intensities that actualize into specific concrete beings. This preindividual state is a multiplicity. The process is primary. Deleuze and Guattari also pick up on Jacques Monod's _Chance and Necessity_ which shows that some enzymes already have a self-ordering behavior. Or there's Prigogine and Stengers _Order Out of Chaos_, which looks at Emergence. They also look at chaos in terms of bifurcations. This is Nietzsche's dice throw. 
 
-## Difference
+## Misc.
 
-Deleuze is a philosopher of difference: he wants to displace being, identity, and the representational model of thought with difference and becoming, which is what his _magnum opus_ _Difference and Repetition_ (1968), a response to [[Heidegger]]'s _Being and Time_, does. 
+He was going to write a book about [[Marx]]. 
 
-We usually say that _A_ and _B_ are different when we perceive first that they belong to the same category, i.e. they are the same except for their differences. That tends to imply there is some underlying persistence in terms of categories and the objects that belong to them. Then, difference is seen through that lens. Is it possible to think about difference without relying on sameness?
-
-It would mean thinking about each individual's becoming.
-
- 
- Then, he collaborated with Felix Guattari. They wrote _Capitalism and Schizophrenia_ as well as [[What is Philosophy?]] together.
 
 ## Reading list
 

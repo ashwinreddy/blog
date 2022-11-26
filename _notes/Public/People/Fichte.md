@@ -4,6 +4,6 @@ feed: hide
 tags: philosopher
 ---
 
-Fichte was a [[Philosopher]] from [[Germany]]. 
+Fichte from [[Germany]]. 
 
 TODO

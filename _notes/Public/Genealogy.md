@@ -3,4 +3,4 @@ title: "Genealogy"
 feed: hide
 ---
 
-Genealogy is technique in [[Philosophy]] and [[History]] from [[Nietzsche]]. 
+Genealogy is technique developed by [[Nietzsche]] and used by [[Foucault]]. 

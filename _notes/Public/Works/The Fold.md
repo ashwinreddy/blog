@@ -1,9 +1,10 @@
 ---
 title: "The Fold"
 feed: hide
+tags: book
 ---
 
-_Le pli: Leibnitz et le Baroque_ is a book by [[Deleuze]] on [[Leibniz]] and [[Monad]]s and the Baroque architecture. 
+_Le pli: Leibnitz et le Baroque_ is a book by [[Deleuze]] on [[Leibniz]] and [[Monad]]s and the [[Baroque]] [[architecture]]. 
 
 The Baroque functions by endlessly producing, twisting, turning folds on itself to infinity in two places:
 

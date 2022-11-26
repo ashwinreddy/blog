@@ -5,4 +5,4 @@ tags:
 - philosopher
 ---
 
-Leibniz was a [[Philosopher]] who also did work in [[Mathematics]] and [[Physics]].  He worked on [[Monad]]s. 
+Leibniz was a philosopher who also did work in [[Mathematics]] and [[Physics]].  He worked on [[Monad]]s. His motto is _calculemus_.

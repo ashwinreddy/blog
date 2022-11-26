@@ -3,7 +3,7 @@ title: "Semiotics"
 feed: hide
 ---
 
-Semiotics is the study of signs, like in [[Language]].
+Semiotics is the [[Theory]] of signs, like in [[Language]].
 
 Ferdinand de Saussure
 

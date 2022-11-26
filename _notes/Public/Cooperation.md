@@ -3,7 +3,7 @@ title: "Cooperation"
 feed: hide
 ---
 
-Cooperation is the [[Technology]] of using other agents to achieve a goal, whether selfish or shared. 
+Cooperation is the [[Technology]] from [[Evolution]] of using other agents to achieve a goal, whether selfish or shared. 
 
 ## Reading List
 

@@ -1,9 +1,10 @@
 ---
 title: "Capitalism"
 feed: hide
+tags: concept
 ---
 
-Capitalism is a type of economic organization. 
+Capitalism is a type of economic organization. [[Specialization]]. [[Money]]. TODO
 
 ## Reading list
 

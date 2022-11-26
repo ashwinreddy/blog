@@ -3,7 +3,7 @@ title: "The Prince Returns"
 feed: hide
 ---
 
-_The Prince Returns_ is an archetypal story closely following the [[Hero's Journey]] of the transformation from _ronin_ to _roshi_. It typically involves a young or middle-aged man who is of noble character. But they find themselves lost, either literally or metaphorically, from home and must complete a _nostos_, the voyage home. Along the way, they encounter a [[Sage]], or they become one themselves. 
+_The Prince Returns_ is an archetypal story in [[Myth]] [[Literature]] closely following the [[Hero's Journey]] of the transformation from _ronin_ to _roshi_. It typically involves a young or middle-aged man who is of noble character. But they find themselves lost, either literally or metaphorically, from home and must complete a _nostos_, the voyage home. Along the way, they encounter a [[Sage]], or they become one themselves. 
 
 We can find many examples in [[Classic book]]s.
 
@@ -15,3 +15,4 @@ We can find many examples in [[Classic book]]s.
 * In the _[[Divina Commedia]]_, Dante finds himself lost in a dark wood. Metaphorically, he has wandered from the path. In three canticles, Dante and his guide Virgil traverse Hell, Purgatory, and Heaven. 
 * _[[Hamlet]]_ is an interesting variation on the archetype because he the prince doesn't complete the journey. For that matter, he hardly starts it. 
 * _The Count of Monte Cristo_ tells the story of Edmond Dantes, betrayed by his peers and sent to prison. While wasting away, his father dies, and his fiancee marries one of the men who betrayed him. He meets Abbe Faria in prison, who teaches him everything he knows and equips him with the knowledge and skills to acquire hidden treasure on the island of Monte Cristo. Once he escapes from prison, Dantes creates a plan to exact revenge on the men who put him in prison.
+* [[Bhagavad Gita]]

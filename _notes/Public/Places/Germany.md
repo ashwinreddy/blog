@@ -1,4 +1,0 @@
----
-title: "Germany"
-feed: hide
----

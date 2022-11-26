@@ -4,4 +4,4 @@ feed: hide
 tags: philosopher
 ---
 
-Schelling was a [[Philosopher]] from [[Germany]]. 
+Schelling from [[Germany]]. 

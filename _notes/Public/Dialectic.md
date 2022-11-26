@@ -3,6 +3,4 @@ title: "Dialectic"
 feed: hide
 ---
 
-Dialectic is an idea from [[Hegel]]. 
-
-TODO
+Dialectic is used by [[Plato]] and [[Hegel]]. 

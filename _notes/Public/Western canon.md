@@ -5,10 +5,13 @@ feed: hide
 
 Western canon is a [[Canon]] of [[Philosophy]], [[Literature]], [[Myth]] from [[Europe]]. 
 
-- [[Republic]]
-- [[Aeneid]]
+- [[Bible]]
+- [[Plato]]'s dialogues, e.g. [[Republic]]
+- [[Virgil]]'s works, namely the [[Aeneid]]
 - [[Metamorphoses]]
 - [[Divina Commedia]]
 - [[Paradise Lost]]
 - [[Shakespeare]], esp. [[Hamlet]], [[Macbeth]]
-- [[Odyssey]]
+- [[Odyssey]] and [[Iliad]]
+- [[Dostoevsky]]
+- [[Greek]] [[Theater]] like [[Oedipus Rex]]

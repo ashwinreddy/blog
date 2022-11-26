@@ -5,7 +5,7 @@ tags:
 - philosopher
 ---
 
-David Hume was a [[Philosopher]] who was interested in "Logics, Morals, Criticism, and Politics," their connection to human nature. He wanted to bring the approach of [[Empiricism]] to these subjects.
+David Hume was a [[Skeptic]] Philosopher who was interested in "Logics, Morals, Criticism, and Politics," their connection to human nature. He wanted to bring the approach of [[Empiricism]] to these subjects.
 
 He thought that our view of [[Causality]] was just a [[Habit]]. 
 

@@ -1,4 +1,0 @@
----
-title: "Greece"
-feed: hide
----

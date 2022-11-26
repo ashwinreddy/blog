@@ -3,5 +3,5 @@ title: "Buddhism"
 feed: hide
 ---
 
-Buddhism is a religion and [[Philosophy]].
+Buddhism is a [[religion]] and [[Philosophy]]. Begins in [[India]]. 
 

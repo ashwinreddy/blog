@@ -3,4 +3,4 @@ title: "Europe"
 feed: hide
 ---
 
-Europe includes [[France]], [[Germany]], [[Greece]], [[England]], [[Ireland]]. 
+Europe includes [[France]], [[Germany]], [[Greece]], [[England]], [[Ireland]], [[Italy]]. 

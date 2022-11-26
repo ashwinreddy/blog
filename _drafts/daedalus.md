@@ -9,12 +9,12 @@ Ovid tells the story of Daedalus and Icarus in _Metamorphoses_ 8.183-235.
 |_Daedalus interea Creten longumque perosus_|Daedalus, meanwhile, loathing Crete and the long|
 |_exsilium tactusque loci natalis amore_|Exile, influenced by love of his homeland,|
 |_clausus erat pelago. "Terras licet" inquit "et undas"_|Was trapped by the sea. Granted, he said, that earth and sea|
-|_obstruat: at caelum certe patet; ibimus illac._|Block me. But the sky certainly is open; We shall go that way.|
-|_Omnia possideat, non possidet aera Minos._|Minos might own everything, he can't own the air.|
+|_obstruat: at caelum certe patet; ibimus illac._|Block me. But the sky certainly is open; we go that way.|
+|_Omnia possideat, non possidet aera Minos._|He may own everything, but Minos does not own air.|
 |_Dixit et ignotas animum dimittit in artes_|He said this and turned his mind to unknown arts|
 |_naturamque novat. Nam ponit in ordine pennas_|And he changed nature. For he placed wings in rows|
-|_a minima coeptas, longam breviore sequenti,_|Undertaken by the smallest, with the shorter following the longer|
-|_ut clivo crevisse putes. Sic rustica quondam_|So that you would think they grew like that, on a slant. Like that, once, a rustic|
+|_a minima coeptas, longam breviore sequenti,_|Beginning from the smallest, with shorter following long|
+|_ut clivo crevisse putes. Sic rustica quondam_|So that you'd think they grew on a slope. As once a rustic|
 |_fistula disparibus paulatim surgit avenis._|Pipe little by little grows, made by unequal reeds.|
 |_Tum lino medias et ceris adligat imas,_|Then he bound together the middle with flax and the inmost with wax,|
 |_atque ita compositas parvo curvamine flectit,_|And so he bends the constructions with a small curve,|
@@ -52,14 +52,14 @@ Ovid tells the story of Daedalus and Icarus in _Metamorphoses_ 8.183-235.
 |_mollit odoratas, pennarum vincula, ceras_|Softens the fragrant wax, the chains of the wings|
 |_Tabuerant cerae: nudos quatit ille lacertos,_|Had melted of wax: The boy shakes his bare arms|
 |_remigioque carens non ullas percipit auras_|And lacking oarage he does not secure the wind|
-|_oraque caerulea patrium clamantia nomen_|The his mouth's shouting of the name of the father by the blue|
+|_oraque caerulea patrium clamantia nomen_|And his mouth's shouting of the name of the father by the blue|
 |_excipiuntur aqua: quae nomen traxit ab illo_|Sea is received: which name it got from him.|
 |_At pater infelix nec iam pater 'Icare' dixit_|But the unlucky father is now not a father, "Icarus," he said|
 |_'Icare' dixit, 'ubi es? qua te regione requiram'_|"Icarus," he said, "Where are you? Where should I find you?"|
 |_"Icare," dicebat: pennas adspexit in undis_|"Icarus," he kept saying: he saw the wings in waves|
 |_devovitque suas artes corpusque sepulcro_|And cursed his own arts and the body in a tomb|
 |_condidit, et tellus a nomine dicta sepulti_|He places and the ground was called by the name of the burial.|
-|_Hunc miseri tumulo ponentem corpora nati_|The bodies of the poor son on this foundation in the tomb|
+|_Hunc miseri tumulo ponentem corpora nati_|The body of the poor son on this foundation in the tomb|
 |_garrula limoso prospexit ab elice perdix_|Swampy, the chatty partridge foresaw from the drain|
 |_et plausit pennis testataque gaudia cantu est_|And beat its wings and is bearing witness in a happy song|
 

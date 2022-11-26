@@ -3,4 +3,4 @@ title: "Clinamen"
 feed: hide
 ---
 
-Clinamen is a [[Philosophy]] [[Concept]] from [[Lucretius]]. 
+Clinamen is a [[Concept]] from [[Lucretius]]. 

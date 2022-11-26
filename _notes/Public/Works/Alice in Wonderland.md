@@ -5,4 +5,4 @@ tags:
 - book
 ---
 
-_Alice in Wonderland_ is a book about [[Play]] written by [[Carroll]]. 
+_Alice in Wonderland_ is an [[Public/English]] book about [[Play]] written by [[Carroll]]. 

@@ -1,6 +1,7 @@
 ---
 title: "Abstraction"
 feed: hide
+tags: concept
 ---
 
 Abstraction is a mental [[Technology]] in thinking about [[System]]s where we treat it as a black box. In other words, we only think about the system in terms of its interface -- its inputs and outputs. Abstraction is a core idea in computer science. 
