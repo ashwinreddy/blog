@@ -3,4 +3,4 @@ title: "Guattari"
 feed: hide
 ---
 
-Guattari was a collaborator of [[Deleuze]] from [[France]], former disciple of [[Lacan]] and [[Psychoanalysis]]. 
+Guattari was a collaborator of [[Deleuze]], former disciple of [[Lacan]] and [[Psychoanalysis]]. 

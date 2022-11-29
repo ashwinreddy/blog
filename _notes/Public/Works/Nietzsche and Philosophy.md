@@ -4,15 +4,6 @@ feed: hide
 tags: book
 ---
 
-_Nietzsche et la Philosophie_ is a [[French]] book by [[Deleuze]] about [[Nietzsche]]. 
+_Nietzsche et la Philosophie_
 
-- [[Dice]]
-- [[Tragedy]]
-- [[Dialectic]]
-- [[Jesus]]
-- [[Eternal return]]
-- [[Nihilism]]
-- [[Hegel]]
-- [[Art]]
-- [[Truth]]
-- [[Genealogy of Morals]]
+TODO.

@@ -11,7 +11,7 @@ Money is a [[Technology]] with 3 purposes.
 |Unit of Account|Money should measure value|
 |Store of Value|Money should represent its value|
 
-One [[Metaphor]] is that [[Time]] is Money.
+One [[Metaphor]] is that Time is Money.
 
 ## Reading list
 

@@ -6,14 +6,14 @@ tags:
 - writer
 ---
 
-Gilles Deleuze (1925-95) was a philosopher from [[France]] and a [[Sage]]. His work grapples with [[Difference]], [[Creativity]], and [[Becoming]] and references a diverse set of works. His books include:
+Gilles Deleuze (1925-95) was a philosopher whose work grapples with Difference, [[Creativity]], and Becoming and references a diverse set of works. His books include:
 
 - [[Empiricism and Subjectivity]]
 - [[Nietzsche and Philosophy]] (apprenticeship)
 - [[The Fold]]
 - [[Capitalism and Schizophrenia]]
 - [[Difference and Repetition]]
-- [[Proust and Signs]]
+- Proust and Signs
 - [[What is Philosophy?]]
 
 Deleuze thinks of himself as a classic philosopher and works with [[Ontology]]. He wants to know what the forms and beings in life are. He wants to use philosophy to create [[concept]]s and disturb the nature of things. Concepts link together on a plane of immanence, palpating difference. Deleuze cares about _thought_ more than _knowledge_. He was influenced by [[May 68]] and [[Sartre]]. 
@@ -52,9 +52,4 @@ Science can think difference too, where it is a matter of understanding systems 
 
 He was going to write a book about [[Marx]]. 
 
-
-## Reading list
-
-* I've loosely been following [The Beginner’s Guide to Deleuze](http://htmlgiant.com/random/the-beginners-guide-to-deleuze/) to learn more about him. 
-* [The Deleuze Seminars](https://deleuze.cla.purdue.edu/)
-
+I get the sense that Deleuze would like [[Metamorphoses]] a lot. 

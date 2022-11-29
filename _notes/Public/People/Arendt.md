@@ -5,7 +5,7 @@ tags:
 - philosopher
 ---
 
-Hannah Arendt (1906-1975) was an influential political philosopher from [[Germany]] and a [[Sage]]. She had a background in the classics. A Jewish woman, she survived the Holocaust. She studied under and had an affair with [[Heidegger]]. She wrote her dissertation on [[Augustine]]. She writes about [[Marx]]. 
+Hannah Arendt (1906-1975) was an influential political philosopher. She had a background in the classics. A Jewish woman, she survived the Holocaust. She studied under and had an affair with [[Heidegger]]. She wrote her dissertation on [[Augustine]]. She writes about [[Marx]]. 
 
 ## Reading list
 

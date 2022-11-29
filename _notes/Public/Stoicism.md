@@ -13,7 +13,7 @@ In a sense, Stoicism builds from the remainders of [[Socrates]]' thought. In par
 5. The virtues are courage, justice, temperance, and wisdom.
 6. There is a structured study of virtue.
 
-The other popular school of philosophy was Epicureanism. For the Stoics, happiness consists in following nature, which will make us virtuous ([[Nietzsche]] will question this idea later). The Stoics had a model of the perfect behavior in the Stoic [[Sage]]. Strangely, the Stoics believed all vices are equally bad (Cicero writes about this). Whatever the Sage does would by definition, be good, but if a non-Sage does it, we can't say the same. 
+The other popular school of philosophy was Epicureanism. For the Stoics, happiness consists in following nature, which will make us virtuous ([[Nietzsche]] will question this idea later). The Stoics had a model of the perfect behavior in the Stoic sage. Strangely, the Stoics believed all vices are equally bad (Cicero writes about this). Whatever the Sage does would by definition, be good, but if a non-Sage does it, we can't say the same. 
 
 The Sage can live life more or less like a normal person. The difference is that they are indifferent to pleasure or pain. Instead of desire or fear, there is the selection of a promoted or disselection of a demoted. 
 

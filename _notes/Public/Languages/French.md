@@ -1,5 +1,0 @@
----
-title: "French"
-feed: hide
----
-

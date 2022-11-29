@@ -5,7 +5,7 @@ tags:
 - writer
 ---
 
-Vladimir Nabokov from [[Russia]] was a writer of [[Literature]]. He grew up trilingual, speaking Russian, [[French]], and [[Public/English]]. He went to [[Cambridge]]. 
+Vladimir Nabokov grew up in Russia speaking Russian, [[French]], and [[Public/English]]. He went to [[Cambridge]]. 
 
 He writes about [[Shakespeare]]. 
 

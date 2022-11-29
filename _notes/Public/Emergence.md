@@ -18,14 +18,10 @@ What emerges is either: structure, [[Computation]], or functionality.
 
 [^spectrum]: Section 2 of ‘‘Emergent Colonization in an Artificial Ecology,’’ in F. Varela and P. Bourgine (eds.), Towards a Practice of Autonomous Systems: Proceedings of the First European Conference on Artifical Life, pp. 143–152, Cambridge, MA: The MIT Press, 1992
 
-_Example_. In [[Biology]], the Miller-Urey experiment.
+_Example_. The Miller-Urey experiment.
 
 ## Reading list
 
 Emergence: Contemporary Readings in Philosophy and Science
 
 [The Biggest Ideas in the Universe | 21. Emergence](https://www.youtube.com/watch?v=0_PdLja-eGQ)
-
-
-
-----
