@@ -3,7 +3,7 @@ title: "Habit"
 feed: hide
 ---
 
-A habit is an action an organism has learned to repeat to achieve some end. It's a [[Technology]], of a kind.
+A habit is a technology an organism develops as a response from the environment to achieve some end.
 
 In _Atomic Habits_, James Clear argues that
 

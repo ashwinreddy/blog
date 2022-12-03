@@ -3,4 +3,4 @@ title: "Final vocabulary"
 feed: hide
 ---
 
-[[Rorty]]'s Final vocabulary is [[Language]] someone uses to understand themselves. [[Relativism]]. TODO
+Final vocabulary is a [[concept]] from [[Rorty]] about the [[language]] someone uses to understand themselves. 

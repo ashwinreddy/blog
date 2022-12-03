@@ -4,7 +4,7 @@ feed: hide
 tags: writer
 ---
 
-Jordan Peterson (1962-) is a Professor of [[Psychology]] from Canada. Although I have found his ideas intellectually interesting, I have come to the soft conclusion that he is a [[Sophist]], that he dresses them up in rhetoric and that there are other thinkers who can say the important things he has to say better than he can.
+Jordan Peterson (1962-) is a professor of psychology from Canada. 
 
 Peterson's mother is a librarian, and he studied in a great books program (source needed). A majority of Peterson's philosophy comes straight out of the [[Literature]] and Philosophy of the [[Western canon]], which he recommends to people. For example, he often cites or talks about the [[Bible]], which he has lectured on, in many of his discussions. His thought more generally is rooted in [[Christianity]]. He likes to use examples like [[Paradise Lost]] or [[Dostoevsky]]. Naturally, the fact that he's so entrenched in this mode of thought draws him into problems in the criticism of [[Literature]].
 

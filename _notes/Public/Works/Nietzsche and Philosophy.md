@@ -4,6 +4,6 @@ feed: hide
 tags: book
 ---
 
-_Nietzsche et la Philosophie_
+_Nietzsche et la Philosophie_ is a book by [[Deleuze]] about [[Nietzsche]].  
 
 TODO.

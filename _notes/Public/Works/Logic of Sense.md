@@ -4,7 +4,7 @@ feed: hide
 tags: book
 ---
 
-_Logique du sens_ (1969) is a [[French]] book by [[Deleuze]] about [[Language]], Ethics, Sense, [[Psychoanalysis]]. 
+_Logique du sens_ (1969) is a French book by [[Deleuze]] about [[Language]], Ethics, Sense, Psychoanalysis. 
 
 1. How do events relate to the world and language? _[[Being]]_ and _[[Event]]s_
 2. What makes language and thought possible? _sex_ and _surfaces_

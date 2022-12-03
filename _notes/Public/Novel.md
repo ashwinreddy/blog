@@ -3,4 +3,4 @@ title: "Novel"
 feed: hide
 ---
 
-The novel is a [[Medium]] of [[Literature]]. 
+The novel is a [[Medium]] of literature. 

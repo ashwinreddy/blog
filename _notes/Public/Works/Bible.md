@@ -3,4 +3,4 @@ title: "Bible"
 feed: hide
 ---
 
-Bible [[Book]] of [[Christianity]] written in Hebrew and [[Greek]]. 
+The Bible is the religious [[Book]] of [[Christianity]] written in Hebrew and Greek. 

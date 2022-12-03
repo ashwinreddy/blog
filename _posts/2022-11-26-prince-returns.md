@@ -2,7 +2,7 @@
 title: "The Prince Returns"
 ---
 
-I've read a decent number of stories in [Proto-Indo-European mythology](https://www.wikipedia.com/en/Proto-Indo-European_mythology), and I've noticed a common story pattern I like a lot. I call it _The Prince Returns_. I'd say it's the most well-known kind of [[Hero's Journey]]: a prince, i.e. a young or middle-aged man of noble character, finds himself lost in the world and must complete a voyage home, usually guided by a sage. Here are my favorite examples:
+I've read a decent number of stories in [Proto-Indo-European mythology](https://en.wikipedia.org/wiki/Proto-Indo-European_mythology?oldformat=true) and noticed a story pattern I like a lot. I call it _The Prince Returns_, but it's just a type of [[Hero's Journey]]: a prince, i.e. a young or middle-aged man of noble character, finds himself lost in the world and must complete a voyage home, usually guided by a sage figure. Here are my favorite examples:
 
 1. In Homer's _Odyssey_, Odysseus's _nostos_ takes him from Calypso's Ogygia to Ithaca, where his wife Penelope and son Telemachus await him. Athena guides Telemachus in the form of Mentor. 
 2. In Virgil's _Aeneid_, Aeneas is prince of Troy, displaced from his home when it is burned down by the Greeks. He must find his new home in Italy.

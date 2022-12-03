@@ -3,7 +3,7 @@ title: "Process philosophy"
 feed: hide
 ---
 
-Process philosophy contrasts [[Ontology]] in that it focuses on [[Becoming]].
+Process philosophy contrasts [[Ontology]] in that it focuses on Becoming.
 
 ## Reading list
 
