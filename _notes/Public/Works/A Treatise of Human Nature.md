@@ -7,7 +7,7 @@ tags:
 
 _A Treatise of Human Nature_ is a book by [[Hume]]. 
 
-1. What can science can discover depends on what humans can know.
+1. What science can discover depends on what humans can know.
 2. We need to observe how humans come to knowledge carefully.
 3. That happens through experience.
 

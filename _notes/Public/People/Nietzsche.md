@@ -13,7 +13,7 @@ In _On the Genealogy of Morality_ and _The Will to Power_, Nietzsche develops th
 
 Nietzsche sees [[Play]] as cosmic.
 
-He was connected to [[Nazism]]. TODO
+He was (somewhat unfairly) connected to Nazism. 
 
 He said [[God]] is dead. 
 

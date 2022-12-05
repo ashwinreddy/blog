@@ -4,7 +4,7 @@ feed: hide
 tags: book
 ---
 
-_Through the Looking-Glass_ is an [[Public/English]] book by [[Carroll]] and the sequel to [[Alice in Wonderland]] about [[Game]]s. 
+_Through the Looking-Glass_ is an book by [[Carroll]] and the sequel to [[Alice in Wonderland]] about [[Game]]s. 
 
 
 - Humpty-Dumpty and [[Conversation]]

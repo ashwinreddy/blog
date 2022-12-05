@@ -1,6 +1,6 @@
 ---
 title: "Book"
-feed: hide
+feed: show
 ---
 
 > Books may well be the only true magic.

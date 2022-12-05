@@ -10,7 +10,6 @@ Ferdinand de Saussure
 $$
 \text{Sign} = \text{Signifier} + \text{Signified}
 $$
-
  Charles Peirce
 
 $$

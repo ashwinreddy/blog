@@ -1,6 +1,6 @@
 ---
 title: "Art"
-feed: hide
+feed: show
 ---
 
 > All art is quite useless. -- Oscar Wilde

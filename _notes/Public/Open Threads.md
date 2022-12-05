@@ -1,6 +1,6 @@
 ---
 title: "Open Threads"
-feed: show
+feed: hide
 ---
 
 * What specifically do I find interesting about the work of [[Deleuze]]? 
