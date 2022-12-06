@@ -4,4 +4,4 @@ feed: hide
 tags: scientist
 ---
 
-Claude Shannon [[USA]] [[MIT]] developed a theory of [[Information]]. 
+Claude Shannon was an engineer from the US. He studied at UMich and MIT. He developed a theory of [[Information]]. 

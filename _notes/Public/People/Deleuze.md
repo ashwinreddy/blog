@@ -8,7 +8,7 @@ tags:
 
 Gilles Deleuze (1925-95) was a French philosopher. His work grapples with Difference, [[Creativity]], and Becoming and references a diverse set of works. 
 
-Deleuze thinks of himself as a classic philosopher and works with [[Ontology]]. He wants to know what the forms and beings in life are. He wants to use philosophy to create [[concept]]s and disturb the nature of things. Concepts link together on a plane of immanence, palpating difference. Deleuze cares about _thought_ more than _knowledge_. He was influenced by [[May 68]] and [[Sartre]]. 
+Deleuze thinks of himself as a classic philosopher and works with ontology. He wants to know what the forms and beings in life are. He wants to use philosophy to create [[concept]]s and disturb the nature of things. Concepts link together on a plane of immanence, palpating difference. Deleuze cares about _thought_ more than _knowledge_. He was influenced by [[May 68]] and [[Sartre]]. 
 
 ## Apprenticeships
 
@@ -42,6 +42,4 @@ Science can think difference too, where it is a matter of understanding systems 
 
 ## Misc.
 
-He was going to write a book about [[Marx]]. 
-
-I get the sense that Deleuze would like [[Metamorphoses]] a lot. 
+He was going to write a book about [[Marx]].  I get the sense that Deleuze would like [[Metamorphoses]] a lot. 

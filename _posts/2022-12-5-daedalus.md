@@ -27,12 +27,12 @@ Ovid tells the story of Daedalus and Icarus in _Metamorphoses_ 8.183-235. The tr
 |_imposita est, geminas opifex libravit in alas_|Was set down, the workman balanced into twin wings|
 |_ipse suum corpus motaque pependit in aura._|His own body and he hung in the stirring wind.|
 |_Instruit et natum "medio" que "ut limite curras,_|He teaches also his son, "You should run in the middle as the path,"|
-|_Icare," ait, "moneo, ne, si demissior ibis_|"Icarus," he says, "I warn you, if lower, you fly|
-|_unda gravet pennas, si celsior, ignis adurat_|The wave will weigh down the feathers, if higher, the sun would scorch them|
-|_Inter utrumque vola. Nec te spectare Booten_|Fly between either. And that you not look at Bootes|
+|_Icare," ait, "moneo, ne, si demissior ibis_|"Icarus," he says, "I warn you, if you fly the lower path,|
+|_unda gravet pennas, si celsior, ignis adurat_|The waves will weigh down the feathers, and if higher, the sun will scorch them|
+|_Inter utrumque vola. Nec te spectare Booten_|So fly between the two. And that you not look at Bootes,|
 |_aut Helicen iubeo strictumque Orionis ensem:_|Or Helicen, I ask, or the sword of Orion|
-|_me duce carpe viam." Pariter praecepta volandi_|With me as leader, take the way." Equally, the lessons of flying|
-|_tradit et ignotas umeris accomodat alas_.|He hands over and adjusts the unknown wings onto the shoulders.|
+|_me duce carpe viam." Pariter praecepta volandi_|With me as leader, take the way." Likewise, the lessons of flying|
+|_tradit et ignotas umeris accomodat alas_.|He hands over and adjusts the unknown wings onto shoulders.|
 |_Inter opus monitusque genae maduere seniles_|During the work and the warnings, the old cheeks dripped with tears|
 |_et patriae temuere manus. Dedit oscula nato_|And the hands of the father trembled. He gave kisses to his son|
 |_non iterum repetenda suo, pennisque levatus_|That would not be returned to him again, and supported by wings|
