@@ -1,6 +1,6 @@
 ---
 title: "Abstraction"
-feed: hide
+feed: show
 tags: concept
 ---
 

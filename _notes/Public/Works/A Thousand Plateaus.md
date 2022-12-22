@@ -9,11 +9,10 @@ _Mille plateaux_ is the second volume of [[Capitalism and Schizophrenia]]. It is
 - [[Freud]]
 - [[Rhizome]]
 - [[Language]]
-- [[PIE]]
 - [[Body without organs]]
 - [[Becoming]]
 - [[Machine]]
 
 From SEP
 
-> To over-simplify, Deleuze and Guattari take up the insights of [[dynamical system]]s theory, which explores the various thresholds at which material systems self-organize (that is, reduce their degrees of freedom, as in our previous example of convection currents).
+> To over-simplify, Deleuze and Guattari take up the insights of dynamical systems theory, which explores the various thresholds at which material systems self-organize (that is, reduce their degrees of freedom, as in our previous example of convection currents).

@@ -22,4 +22,4 @@ Peterson believes [[Capitalism]] is the only economic solution that works becaus
 
 Peterson has engaged in dialogues with [[Zizek]] and [[Vervaeke]]. 
 
-[[Meaningness]] TODO
+[[Meaningness]], [[Intelligence]] TODO

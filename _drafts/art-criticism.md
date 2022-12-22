@@ -1,5 +1,5 @@
 ---
-title: "Art Criticism"
+title: "What kind of literature is criticism?"
 ---
 
 https://www.nytimes.com/interactive/2020/05/28/arts/design/thomas-eakins-gross-clinic.html
@@ -13,3 +13,5 @@ What does a critic do?
 _The Great Gatsby_. https://www.theparisreview.org/blog/2021/01/11/why-do-we-keep-reading-the-great-gatsby/
 
 https://www.bbc.com/culture/article/20210209-the-worlds-most-misunderstood-novel
+
+https://lithub.com/actually-criticism-is-literature/

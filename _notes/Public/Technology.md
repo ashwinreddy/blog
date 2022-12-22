@@ -3,4 +3,4 @@ title: "Technology"
 feed: hide
 ---
 
-Technology is a response to _Chaos sive Natura_. 
+Technology is a response to _[[Chaos]] sive Natura_. 

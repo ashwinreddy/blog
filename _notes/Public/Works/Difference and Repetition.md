@@ -8,11 +8,27 @@ _Différence et répétition_ (1968) is [[Deleuze]]'s _magnum opus_, which one c
 
 |Aspect|Hegel|Deleuze|
 |-------|------|--------|
-|[[Being]]|Identity|Difference
+|Being|Identity|Difference
 |[[Time]]|Negation|Repetition|
 
-Deleuze wants to think difference in itself. We usually say that _A_ and _B_ are different when we perceive first that they belong to the same category, i.e. they are the same except for their differences. That tends to imply there is some underlying persistence in terms of categories and the objects that belong to them. Then, difference is seen through that lens. Is it possible to think about difference without relying on sameness?
+Deleuze wants to think difference in itself. We usually say that _A_ and _B_ are different when we perceive first that they belong to the same category, i.e. they are the same except for their differences. That tends to imply there is some underlying persistence in terms of categories and the objects that belong to them. Then, difference is seen through that lens. Is it possible to think about difference without relying on sameness? It would mean thinking about each individual's becoming.
 
-It would mean thinking about each individual's becoming.
+## Introduction
 
-References to [[Aristotle]] and [[Hamlet]]. 
+- Repetition according to [[Kierkegaard]], [[Nietzsche]], [[Peguy]]
+
+## Difference in Itself
+
+- [[Aristotle]]'s logic of difference
+- Univocal: [[Duns Scotus]], [[Spinoza]], [[Nietzsche]]
+- Difference according to [[Hegel]], [[Leibniz]], [[Plato]]
+
+## Repetition for Itself
+
+[[Hamlet]]
+
+## Image of Thought
+
+## Ideas and the Synthesis of Difference
+
+## Asymmetrical Synthesis of the Sensible

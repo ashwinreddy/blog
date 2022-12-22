@@ -9,4 +9,4 @@ The Greeks spoke of art as mimesis, mimicking nature. The German idealists ([[Ka
 
 > Art is a human activity, consisting in this, that one man consciously, by means of certain external signs, hands on to others feelings he has lived through, and that other people are infected by these feelings, and also experience them. -- Tolstoy
 
-In [[What is Philosophy?]], Deleuze and Guattari suggest that art is a response to [[Chaos]].
+[[What is Philosophy?]] says art is a response to [[Chaos]].

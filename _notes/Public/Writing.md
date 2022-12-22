@@ -17,3 +17,4 @@ Writing is [[Language]] recorded with signs.
 * In _Clear and Simple as the Truth_, Francis-Noel Thomas and Mark Turner define classic style. 
 * Several Short Sentences About Writing
 * Farnsworth's Classical English Style
+* [Handbook for Writers](https://saylordotorg.github.io/text_handbook-for-writers/index.html)

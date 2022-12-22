@@ -1,14 +1,16 @@
 ---
 title: "Zizek"
 feed: hide
+tags:
+- writer
 ---
 
-Zizek from [[Yugoslavia]] combines [[Hegel]] and the [[Psychoanalysis]] of [[Lacan]] to talk about [[Ideology]] and [[Desire]] and [[Film]] and [[Marxism]]. 
+Zizek is a philosopher from Yugoslavia who combines [[Hegel]] and the psychoanalysis of [[Lacan]] to talk about [[Ideology]] and [[Desire]] and [[Film]] and [[Marxism]]. 
 
 
 TODO
 
-- [[Postmodernism]]
+- Postmodernism
 - [[Freud]]
-- [[Communism]]
+- Communism
 - [[Capitalism]]

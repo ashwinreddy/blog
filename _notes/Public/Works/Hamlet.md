@@ -3,7 +3,7 @@ title: "Hamlet"
 tags: book
 ---
 
-_The Tragedy of Hamlet, Prince of Denmark_ is an English [[Tragedy]] by [[Shakespeare]]. One of his longest and most complex plays, it has been an enduring staple of English literature and literary criticism. The critic Harold Bloom calls the play a "Poem Unlimited."
+_The Tragedy of Hamlet, Prince of Denmark_ is an English [[Tragedy]] by [[Shakespeare]]. One of his longest and most complex plays, it has been an enduring staple of English literature and literary criticism. The critic Harold Bloom calls the play "Poem Unlimited," which comes from Polonius, a character in the play.
 
 _Hamlet_ is a story about a troubled family. The father, king Hamlet, has mysteriously died, leaving uncle Claudius to take the throne and marry the mother Gertrude. The son, prince Hamlet, has a clear call to action here. But what makes Hamlet interesting and frustrating is his inability to act: his intellect, his seeming awareness that he is in a play, his self-reflexivity all get in the way. He may be the first individual.
 

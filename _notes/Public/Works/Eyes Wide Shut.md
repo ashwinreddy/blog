@@ -4,7 +4,7 @@ feed: hide
 tags: book
 ---
 
-_[Eyes Wide Shut](https://www.imdb.com/title/tt0120663/?ref_=nv_sr_srsg_0)_ is a 1999 [[film]] by Stanley Kubrick, based on a novel by Arthur Schnitzler, friend of [[Freud]]. 
+_[Eyes Wide Shut](https://www.imdb.com/title/tt0120663/?ref_=nv_sr_srsg_0)_ is a 1999 [[film]] by Stanley Kubrick, based on _Traumnovelle_ by Arthur Schnitzler. 
 
 ## Plot
 

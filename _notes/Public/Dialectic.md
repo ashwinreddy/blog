@@ -3,4 +3,4 @@ title: "Dialectic"
 feed: hide
 ---
 
-Dialectic is used by [[Plato]] and [[Hegel]]. 
+The dialectic is used by [[Plato]] and [[Hegel]]. 
