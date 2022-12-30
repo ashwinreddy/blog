@@ -5,4 +5,4 @@ tags:
 - philosopher
 ---
 
-Plato was a philosopher from [[Athens]], disciple of [[Socrates]]. 
+Plato was a philosopher from Athens, a disciple of [[Socrates]]. 

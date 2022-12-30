@@ -3,30 +3,14 @@ title: "Interpretation"
 feed: hide
 ---
 
-Interpretation is the act of making [[Meaningness]] of any system that shows [[Emergence]]. 
+Interpretation is the act of making [[Meaningness]] of any system that shows [[Emergence]]. It is related to [[Explanation]]. 
 
 In Edward Tufte's _Visual Explanations_, he uses John Snow's visual analysis of the cholera outbreak from _On the Mode of Communication of Cholera_, which helped solve the cholera epidemic. On the other hand, the Challenger disaster showed how the displays need to tell a clear story.
 
 > There are right ways and wrong ways to show data; there are displays that reveal the truth and displays that do not. -- Tufte
 
-## Against Interpretation
+Here is what [[Deleuze]] had to say about interpretation and [[sign]]s. 
 
-In "Against Interpretation," Sontag describes how she sees the activity pertaining art.
+> There are, you see, two ways of reading a book: you either see it as a box with something inside and start looking for what it signifies, and then if you're even more perverse or depraved you set off after signifiers. And you treat the next book like a box contained in the first or containing it. And you annotate and interpret and question, and write a book about the book, and so on and on. Or there's the other way: you see the book as a little non-signifying machine, and the only question is "Does it work, and how does it work?" How does it work for you? If it doesn't work, if nothing comes through, you try another book. This second way of reading's intensive: something comes through or it doesn't. There's nothing to explain, nothing to understand, nothing to interpret.
 
-> By interpretation, I mean here a conscious act of the mind which illustrates a certain code, certain “rules” of interpretation. Directed to art, interpretation means plucking a set of elements (the X, the Y, the Z, and so forth) from the whole work. The task of interpretation is virtually one of translation. The interpreter says, Look, don’t you see that X is really— or, really means—A? That Y is really B? That Z is really C?
-
-However, interpretation can also involve a synthetic act of connecting things together. Sontag claims that interpretation begins around the time of the [[Stoic]]s. 
-
-> Interpretation thus presupposes a discrepancy between the clear meaning of the text and the demands of (later) readers. It seeks to resolve that discrepancy. The situation is that for some reason a text has become unacceptable; yet it cannot be discarded. Interpretation is a radical strategy for conserving an old text, which is thought too precious to repudiate, by revamping it. The interpreter, without actually erasing or rewriting the text, is altering it. But he can’t admit to doing this. He claims to be only making it intelligible, by disclosing its true meaning
-
-The hermeneutics of suspicion (Freud, Marx) tell us to be suspicious of meanings from appearance. So we don't leave art alone, we have to incessantly prod and poke it and think about subterranean (or astrological) meanings, ignoring the earthly ones. 
-
-> Interpretation, based on the highly dubious theory that a work of art is composed of items of content, violates art. It makes art into an article for use, for arrangement into a mental scheme of categories.
-
-Sontag would prefer more attention to form. 
-
-> In place of a hermeneutics we need an erotics of art.
-
-David Solway responds to Sontag.
-
-> Even at \[interpretation's] worse, in its pedagogical or allegorical mode, it involves the presentation of ideas that may not have occurred to one and that – rejected, accepted, or modified – enrich the experience of a work of art. At its best, as it seems to me, its function is anamorphoscopic, disclosing views and perspectives previously unguessed at and lobbying, so to speak, for their integration. 
+This is a stance close to [[Pragmatism]].

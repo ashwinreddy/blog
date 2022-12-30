@@ -5,7 +5,7 @@ tags:
 - philosopher
 ---
 
-Seneca was a Roman philosopher of [[Stoicism]] and writer of [[Tragedy]]. 
+Seneca was a Roman [[Stoic]] and writer of [[Tragedy]]. 
 
 |Latin|English|
 |-----|-------|

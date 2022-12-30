@@ -1,6 +1,7 @@
 ---
 title: "Lavoisier"
 feed: hide
+tags: scientist
 ---
 
-Lavoisier Chemist. [[Enlightenment]]. [[French Revolution]]. [[France]]. TODO
+Lavoisier was a French Chemist who lived during the [[Enlightenment]] and [[French Revolution]]. 

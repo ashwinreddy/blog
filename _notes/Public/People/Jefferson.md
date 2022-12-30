@@ -24,4 +24,4 @@ Jefferson's recommended readings.
 - [[Milton]]
 - [[Horace]]
 - [[Swift]]
-- [[Pope]]
+- [[Alexander Pope]]

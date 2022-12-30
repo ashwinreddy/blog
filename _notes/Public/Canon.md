@@ -1,0 +1,5 @@
+---
+title: "Canon"
+feed: hide
+---
+

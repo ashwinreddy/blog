@@ -24,4 +24,4 @@ Mithridatization
 : Exposure from small to increasingly larger doses of an immunizing substance 
 
 
-TODO Taleb connects to [[Seneca]] and [[Stoicism]]. 
+TODO Taleb connects to [[Seneca]] and [[Stoic]]. 

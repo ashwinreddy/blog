@@ -8,7 +8,7 @@ Play is a difficult concept to get a grip on, and Randolph Feezell has a [paper]
 * behavior or activity,
 * motive, attitude, or state of mind,
 * form or structure
-* meaningful experience
+* meaningful experience (see [[Meaningness]])
 * ontologically distinctive phenomenon
 
 I like to think play is, as Brian Upton says, free movement within a system of constraints. A [[game]] is the clearest instantiation of play, one that can be analyzed and understood more rationally. Thinkers of play (and games) include
@@ -17,10 +17,10 @@ I like to think play is, as Brian Upton says, free movement within a system of c
 * Roger Caillois, who wrote _Man, Play and Games_ (1958). He used the taxonomy of _agon_, _alea_, _mimicry_, _ilinx_. He points out that play is free and not obligatory, separate from the real world, governed by rules, with outcomes uncertain in advance. 
 * [[Kant]], propagated into literature by Romantics like Coleridge
 * [[Schiller]]
-* Gadamer
+* [[Gadamer]]
 * [[Nietzsche]] -- the _kosmos_ is in aesthetic play. _The Birth of Tragedy_, _Thus Spake Zarathustra_. 
-* Oscar Wilde
-* Herbert Spencer in _Principles of Psychology_
+* Oscar [[Wilde]]
+* Herbert [[Spencer]] in _Principles of Psychology_
 * [[Wittgenstein]]
 * Vladimir [[Nabokov]]
 * Lewis [[Carroll]]

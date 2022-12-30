@@ -3,6 +3,6 @@ title: "Simulacrum"
 feed: hide
 ---
 
-[[Plato]]
+[[Plato]]'s simulacrum is taken up by [[Deleuze]]. 
 
 TODO

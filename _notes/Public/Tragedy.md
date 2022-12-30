@@ -4,4 +4,4 @@ feed: hide
 tags: concept
 ---
 
-Tragedy is a work of [[Theater]] that ends with death.
+Tragedy is a work of theater that ends with death.

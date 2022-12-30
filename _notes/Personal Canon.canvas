@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"732d4c6e095898fd","x":-200,"y":-200,"width":400,"height":400,"type":"file","file":"Public/Works/Paradise Lost.md"},
+		{"id":"db7d8d0a14d3a8b8","x":-653,"y":-81,"width":400,"height":400,"type":"file","file":"Public/Works/Hamlet.md"},
+		{"id":"3a0f416a59cc79ff","x":367,"y":398,"width":400,"height":400,"type":"file","file":"Public/Works/Moby-Dick.md"},
+		{"id":"5dabbbe6fe5e1c10","x":-823,"y":767,"width":400,"height":400,"type":"file","file":"Public/Works/A Clockwork Orange.md"},
+		{"id":"61876f9079b4f115","x":-105,"y":831,"width":400,"height":400,"type":"file","file":"Public/Works/Eyes Wide Shut.md"},
+		{"id":"ab685e74d30625ad","x":-200,"y":-830,"width":400,"height":400,"type":"file","file":"Public/Works/Metamorphoses.md"},
+		{"id":"303872d7d88b8953","x":-623,"y":1288,"width":400,"height":400,"type":"file","file":"Public/Works/Pale Fire.md"},
+		{"id":"85cb17d84cd8dd15","x":636,"y":967,"width":400,"height":400,"type":"file","file":"Public/Works/Alice in Wonderland.md"},
+		{"id":"6b5b2983a3290c4b","x":318,"y":-1394,"width":400,"height":400,"type":"file","file":"Public/Works/Aeneid.md"},
+		{"id":"2627102314991b31","x":-296,"y":-1858,"width":400,"height":400,"type":"file","file":"Public/Works/Odyssey.md"},
+		{"id":"e2e9564cee567880","x":666,"y":-1953,"width":400,"height":400,"type":"file","file":"Public/Works/Iliad.md"},
+		{"id":"730d5bd1179f5e83","x":-1023,"y":-685,"width":400,"height":400,"type":"file","file":"Public/Works/Gesta Danorum.md"},
+		{"id":"e912ea65ac8a7a43","x":-743,"y":-1308,"width":400,"height":400,"type":"file","file":"Public/Works/De rerum natura.md"}
+	],
+	"edges":[
+		{"id":"9627c1203ca10455","fromNode":"732d4c6e095898fd","fromSide":"right","toNode":"3a0f416a59cc79ff","toSide":"top"},
+		{"id":"86da29f5d9114c67","fromNode":"ab685e74d30625ad","fromSide":"bottom","toNode":"732d4c6e095898fd","toSide":"top"},
+		{"id":"dcb25938b1614365","fromNode":"6b5b2983a3290c4b","fromSide":"bottom","toNode":"ab685e74d30625ad","toSide":"top"},
+		{"id":"a501208de9af2d85","fromNode":"6b5b2983a3290c4b","fromSide":"bottom","toNode":"732d4c6e095898fd","toSide":"right"},
+		{"id":"8474644cdc69f9db","fromNode":"2627102314991b31","fromSide":"right","toNode":"6b5b2983a3290c4b","toSide":"top"},
+		{"id":"4e9032e51f468a9d","fromNode":"e2e9564cee567880","fromSide":"bottom","toNode":"6b5b2983a3290c4b","toSide":"top"},
+		{"id":"f5f5312fbdb14693","fromNode":"e2e9564cee567880","fromSide":"left","toNode":"2627102314991b31","toSide":"right"},
+		{"id":"f40dd5a89e30c550","fromNode":"730d5bd1179f5e83","fromSide":"bottom","toNode":"db7d8d0a14d3a8b8","toSide":"top"}
+	]
+}

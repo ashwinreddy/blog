@@ -9,7 +9,7 @@ _Hamlet_ is a story about a troubled family. The father, king Hamlet, has myster
 
 To avoid detection by Claudius, Hamlet also pretends to be mad. It is a perennial question whether Hamlet is indeed mad or only putting on an act. In Saxo Grammaticus's _Gesta Danorum_, which contains the basic story of Amleth (his original name), Hamlet's madness is only an act. _[The Northman](https://www.imdb.com/title/tt11138512/)_ is a sibling work to _Hamlet_ because it derives from _[[Gesta Danorum]]_.
 
-There's influence of [[Stoicism]] in it. 
+There's influence of the [[Stoic]]s and a good dose of [[Existentialism]] in it as well as connections to the Protestant Reformation in it. 
 
 ## Sources
 

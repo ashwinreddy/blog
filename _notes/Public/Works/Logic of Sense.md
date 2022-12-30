@@ -28,7 +28,7 @@ A linguistic claim or proposition has three dimensions which require a fourth.
 
 
 
-If that were it, we'd still be in the dogmatic image of thought. Deleuze wants to talk about the sense of the proposition. [[Stoicism]] discovered it along with the event. Sense is where language and the world meet. The boundary between propositions and things. The sense is the expressed of the proposition and the attribute of the state of affairs. When substance is expressed in its attributes and modes, it inheres in them. 
+If that were it, we'd still be in the dogmatic image of thought. Deleuze wants to talk about the sense of the proposition. [[Stoic]] discovered it along with the event. Sense is where language and the world meet. The boundary between propositions and things. The sense is the expressed of the proposition and the attribute of the state of affairs. When substance is expressed in its attributes and modes, it inheres in them. 
 
 The event subsists in language, but happens to things by means of verbs in the infinitive form. 
 

@@ -13,4 +13,4 @@ He believes in Individualism, hates [[Fascism]] and Communism.
 
 He liked chess, boxing, tennis, football, lepidopterology. He wrote translations of [[Carroll]]'s novels [[Alice in Wonderland]] and [[Through the Looking-Glass]].
 
-Some of Nabokov's influences include Pushkin, [[Bergson]], [[Borges]], [[Emerson]], Hawthorne, [[Kafka]], [[Melville]], [[Milton]], [[Shakespeare]]. 
+Some of Nabokov's influences include Pushkin, [[Bergson]], [[Borges]], [[Emerson]], Hawthorne, [[Kafka]], [[Melville]], [[Milton]], [[Shakespeare]]. He loves [[Tolstoy]] but has a more difficult relationship with [[Dostoevsky]]. 

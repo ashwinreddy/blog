@@ -1,6 +1,6 @@
 ---
 title: "Deleuze"
-feed: hide
+feed: show
 tags:
 - philosopher
 - writer
@@ -8,7 +8,7 @@ tags:
 
 Gilles Deleuze (18 January 1925 - 95) was a French philosopher. His work grapples with Difference, [[Creativity]], and Becoming and references a diverse set of works. 
 
-Deleuze's older brother George was a big influence on him. Georges Deleuze joined the Resistance but died en route to a concentration camp after being caught. Apparently, his brother was the hero, and Gilles was neglected to some extent. At 15, he was sent to boarding school in Brittany. His literature professor Pierre Halbwachs introduced him to literature, of which he couldn't get enough. He was introduced to philosophy by his friend Michel Tournier and a philosophy class in his last year of high school. He was excited by [[Sartre]]'s _Being and Nothingness_, which he read in a week. He and Tournier were upset by his lecture "Existentialism Is a Humanism." As early as 1947, he saw [[Bergson]] as a great philosopher.
+Deleuze's older brother George was a big influence on him. Georges Deleuze joined the Resistance but died en route to a concentration camp after being caught, making him a hero while Gilles was neglected to some extent. At 15, Gilles was sent to boarding school in Brittany. His literature professor Pierre Halbwachs introduced him to literature, and he couldn't get enough. He was introduced to philosophy by his friend Michel Tournier and a philosophy class in his last year of high school. He was excited by [[Sartre]]'s _Being and Nothingness_, which he read in a week. He and Tournier were upset by his lecture "Existentialism Is a Humanism." As early as 1947, he saw [[Bergson]] as a great philosopher.
 
 Deleuze thinks of himself as a classic philosopher and works with ontology. He wants to know what the forms and beings in life are. He wants to use philosophy to create [[concept]]s and disturb the nature of things. Concepts link together on a plane of immanence, palpating difference. Deleuze cares about _thought_ more than _knowledge_.
 
@@ -40,7 +40,7 @@ Abandon the dogmatic image of thought, which operates with common sense and good
 
 How do we consider new possibilities? We have to think in terms of problems. "For the dogmatic image of thought, being is defined in terms of actuality rather than virtuality. It is a matter of stable identities rather than difference. To think ontologically in terms of stable identities is to read solutions back into problems, to approach problems in terms of solutions."
 
-Science can think difference too, where it is a matter of understanding systems of difference in dynamic relation. Here, Deleuze looks to [[Simondon]]'s preindividual state. Biological individuals actualize a virtual intensive state. For example, the genes are a virtual field of intensities that actualize into specific concrete beings. This preindividual state is a multiplicity. The process is primary. Deleuze and Guattari also pick up on Jacques Monod's _Chance and Necessity_ which shows that some enzymes already have a self-ordering behavior. Or there's Prigogine and Stengers _Order Out of Chaos_, which looks at Emergence. They also look at chaos in terms of bifurcations. This is Nietzsche's dice throw. 
+Science can think difference too, where it is a matter of understanding systems of difference in dynamic relation. Here, Deleuze looks to Simondon's preindividual state. Biological individuals actualize a virtual intensive state. For example, the genes are a virtual field of intensities that actualize into specific concrete beings. This preindividual state is a multiplicity. The process is primary. Deleuze and Guattari also pick up on Jacques Monod's _Chance and Necessity_ which shows that some enzymes already have a self-ordering behavior. Or there's Prigogine and Stengers _Order Out of Chaos_, which looks at Emergence. They also look at chaos in terms of bifurcations. This is Nietzsche's dice throw. 
 
 ## Influences
 
@@ -54,4 +54,4 @@ Science can think difference too, where it is a matter of understanding systems 
 - [[Foucault]]
 
 
-I get the sense that Deleuze would have liked aspects of Ovid's [[Metamorphoses]]. 
+I get the sense that Deleuze would have liked aspects of Ovid's [[Metamorphoses]] and the work of [[Nabokov]].
