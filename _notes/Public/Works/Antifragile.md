@@ -6,7 +6,7 @@ tags: book
 
 > I want to live happily in a world I don't understand. -- Taleb
 
-_Antifragile: Things That Gain from Disorder_ is a book by Nassim Taleb, about how systems deal with [[Chaos]] and [[Black Swan]]s. Broadly, there are three categories of [[system]]s on a spectrum.
+_Antifragile: Things That Gain from Disorder_ is a book by Nassim Taleb, about how systems deal with [[Chaos]] and Black Swans. Broadly, there are three categories of systems on a spectrum.
 
 |Type|Figure|Meaning|
 |-------|-----|--------|
@@ -22,6 +22,3 @@ Antifragile systems need some stressors to thrive.
 
 Mithridatization
 : Exposure from small to increasingly larger doses of an immunizing substance 
-
-
-TODO Taleb connects to [[Seneca]] and [[Stoic]]. 

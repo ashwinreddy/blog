@@ -4,7 +4,7 @@ feed: hide
 tags: book
 ---
 
-_Kafka: pour une littérature mineure_ is a book by [[Deleuze]] and [[Guattari]] about [[Kafka]]. 
+_Kafka: pour une littérature mineure_ is a book by [[Gilles Deleuze]] and [[Guattari]] about [[Kafka]]. 
 
 ## Content and Expression
 

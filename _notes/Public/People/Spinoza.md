@@ -5,11 +5,10 @@ tags:
 - philosopher
 ---
 
-Baruch[^names] Spinoza (1632-1677) was a Philosopher who wrote _Tractatus Theologico-Politicus_ and _Ethica_, both in Latin. Because he didn't believe in the traditional religion of his time, he was cast out of Amsterdam's Jewish community in 1656. Spinoza's thinking was clearly influenced by [[Descartes]]. 
+Baruch[^names] Spinoza (1632-1677) was a philosopher who wrote _Tractatus Theologico-Politicus_ and _Ethica_, both in Latin. Because he didn't believe in the traditional religion of his time, he was cast out of Amsterdam's Jewish community in 1656. Spinoza's thinking was clearly influenced by [[Descartes]]. 
 
 
-
-[[Deleuze]] says Spinoza was accused of materialism, immoralism, and atheism.  
+[[Gilles Deleuze]] says Spinoza was accused of materialism, immoralism, and atheism.  
 
 _Materialist_. Through his idea of parallelism, Spinoza puts the body and mind on equal terms. But Spinoza invites us to take the body as a model. The body surpasses our knowledge of it, so too does thought surpass our consciousness of it. We only know the effects of what happens to our body or happens to our mind, we're not in the position to say what the direct causes are. So Adam imagines himself happy and perfect from the illusion of final causes, free decrees, and theology. Consciousness will take effects for causes, it will invoke its power over the body, and it will invoke God where it cannot imagine itself to be the first cause or organizer of ends. 
 

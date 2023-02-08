@@ -3,7 +3,7 @@ title: "Deleuze Connections"
 feed: hide
 ---
 
-_Deleuze Connections_ is a book by John Rajchman about [[Deleuze]].
+_Deleuze Connections_ is a book by John Rajchman about [[Gilles Deleuze]].
 
 ## Connections
 

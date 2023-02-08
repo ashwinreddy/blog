@@ -3,4 +3,4 @@ title: "Zen"
 feed: hide
 ---
 
-Zen is a school of [[Buddhism]] (a misprounciation of Chan) combined with [[Taoism]]. 
+Zen (a misprounciation of Chan, itself a transliteration of _dhyana_ for Sanskrit meditation) is a school of [[Buddhism]] combined with [[Taoism]]. Zen is big on [[Meditation]]. 

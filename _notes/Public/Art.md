@@ -7,6 +7,6 @@ feed: show
 
 The Greeks spoke of art as mimesis, mimicking nature. The German idealists ([[Kant]] and [[Schiller]]) saw art as a form of [[Play]]. 
 
-> Art is a [[human]] [[activity]], consisting in this, that one man consciously, by means of certain external [[sign]]s, hands on to others feelings he has lived through, and that other people are infected by these feelings, and also experience them. -- Tolstoy
+> Art is a [[human]] activity, consisting in this, that one man consciously, by means of certain external [[sign]]s, hands on to others feelings he has lived through, and that other people are infected by these feelings, and also experience them. -- Tolstoy
 
-[[What is Philosophy?]] says art is a response to [[Chaos]].
+[[What is Philosophy?]] says art is a response to [[Chaos]]. For [[Gilles Deleuze]], art produces sensations, affects, and intensities, but it also deals with [[Problem]]s.

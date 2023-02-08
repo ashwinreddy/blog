@@ -1,5 +1,5 @@
 ---
-title: "Camus"
+title: "Albert Camus"
 feed: hide
 ---
 

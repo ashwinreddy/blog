@@ -3,7 +3,7 @@ title: "Emergence"
 feed: hide
 ---
 
-Emergence is when a self-organizing [[System]] displays more complex properties than its constituents contain. In this way, emergent phenomena are not easily reducible to their parts. Emergence is antithetical to reductionism, which is a bedrock of the classical methods of [[Science]]. 
+Emergence is when a self-organizing [[System]] displays more complex properties than its constituents. Hence, emergentism is antithetical to reductionism, i.e. emergent phenomena are not easily reducible to their parts. This poses a difficulty for classical methods of [[Science]]. 
 
 Andrew Assad and Norman H. Packard argue that emergence is a spectrum. We could imagine roughly sketching the axis like so.[^spectrum]
 
@@ -14,7 +14,7 @@ Andrew Assad and Norman H. Packard argue that emergence is a spectrum. We could 
 |Strongly emergent|Behavior is deducible in theory, but its elucidation is prohibitively difficult.|
 |Maximally emergent|Behavior is impossible to deduce from the specification.|
 
-What emerges is either: structure, [[Computation]], or functionality.
+What emerges is either: structure, computation, or functionality.
 
 [^spectrum]: Section 2 of ‘‘Emergent Colonization in an Artificial Ecology,’’ in F. Varela and P. Bourgine (eds.), Towards a Practice of Autonomous Systems: Proceedings of the First European Conference on Artifical Life, pp. 143–152, Cambridge, MA: The MIT Press, 1992
 

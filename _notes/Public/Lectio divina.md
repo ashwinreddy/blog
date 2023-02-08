@@ -9,3 +9,5 @@ _Lectio divina_ (Latin for divine [[reading]]) is a practice of reading that ori
 2. Meditate
 3. Pray
 4. Contemplate
+
+We can trace it back to [[Augustine]]. 

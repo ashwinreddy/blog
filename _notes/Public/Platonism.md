@@ -9,8 +9,14 @@ Platonism starts with the theory of [[Plato]]'s forms. You ask the question _wha
 - _morphe_ - "shape"
 - _phainomena_ - "appearances"
 
-## Reversal
+## [[Aristotle]]
 
-[[Deleuze]] works on the _renversement_ of Platonism, which imposes a transcendent representation of Idea -- an image of thought -- at the cost of difference in itself. Wasn't the abolition of essences attempted by [[Kant]] and [[Hegel]]? Yes, but we want to dismantle Platonism from the inside. Don't overturn it, overcome it. Produce the simulacrum of Platonism using Platonism. 
+Aristotle wants to differentiate the genus into a species with differentiation. Plato doesn't do this, not because he's less developed, but actually because he's leaving a space open. 
 
-[[Aristotle]] wants to differentiate the genus into a species with differentiation. Plato doesn't do this, not because he's less developed, but actually because he's leaving a space open. 
+## [[Gilles Deleuze]]
+
+From _Deleuze's Philosophical Lineage_.
+
+Deleuze wants to overthrow Plato. As [[Foucault]] said, "Overturn Platonism: what philosophy has not tried?" Both [[Hegel]] and [[Kant]] wanted to abolish the world of essences and the world of appearances. But this is trying to over-_come_, not over-_turn_. 
+
+Rather, in returning to Plato, we need to bypass Aristotle and overturn Platonism from the inside, as if a sophist. Overturning Platonism means producing simulacra, beginning with a simulacra of Platonism itself. Overturning "can only occur by virtue of denying the primacy of original over copy, of model over image; glorifying the reign of simulacra and reflections" ([[Difference and Repetition]]). The overturning will conserve many Platonic characteristics. He introduced transcendence, but not completely, for he left a possibility of the insubordination of difference since the Idea belongs to a field of immanence. It has not yet calcified into the structure and powers of the One, the Analogous, the Similar, and the Negative.

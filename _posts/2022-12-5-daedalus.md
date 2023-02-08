@@ -93,3 +93,11 @@ There's a famous painting _Landscape with the Fall of Icarus_ based on this poem
 This painting shows up in W.H. Auden's "Musee des Beaux Arts."
 
 [^joyce]: The epigraph of James Joyce's _A Portrait of the Artist as a Young Man_.
+
+## Resources
+
+- [Whitaker's Words](https://latin-words.com/)
+- [Wikitionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page)
+- [Lewis & Short](https://alatius.com/ls/index.php)
+- [Perseus](http://www.perseus.tufts.edu/hopper/)
+- [Allen and Greenough](https://dcc.dickinson.edu/grammar/latin/index)

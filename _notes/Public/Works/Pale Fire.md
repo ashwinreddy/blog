@@ -10,4 +10,4 @@ It is a meditation on [[Reading]] and [[Meaningness]], [[Existentialism]] / [[Ab
 
 ## Influences
 
-It is influenced by [[Alexander Pope]] and [[Swift]] and [[Hamlet]] and [[Eliot]] and [[Proust]] and [[Joyce]] and [[Samuel Johnson]] and [[Brothers Karamazov]]. 
+It is influenced by [[Alexander Pope]] and [[Jonathan Swift]] and [[Hamlet]] and [[T.S. Eliot]] and [[Proust]] and [[James Joyce]] and [[Samuel Johnson]] and [[Brothers Karamazov]]. 

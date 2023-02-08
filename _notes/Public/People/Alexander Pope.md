@@ -7,4 +7,4 @@ Alexander Pope was an English poet during the Restoration. He wrote _The Rape of
 
 He produced a translation of the [[Iliad]] and an edition on [[Shakespeare]]. Studied [[Horace]], [[Juvenal]], [[Shakespeare]], [[Homer]], [[Virgil]]. 
 
-He was friends with [[Swift]]. 
+He was friends with [[Jonathan Swift]]. 

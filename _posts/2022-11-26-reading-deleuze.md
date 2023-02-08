@@ -9,7 +9,7 @@ Gilles Deleuze's ouevre is difficult to penetrate precisely because you can star
     - "Desert Islands"
     - "Instincts and Institutions"
     - "Letter to a Harsh Critic"
-3. _L'Abécédaire de Gilles Deleuze_. 26 interviews with Deleuze from "Animal" to "Zigzag." _Mirabile visu_.
+3. _L'Abécédaire de Gilles Deleuze_. 26 interviews with Deleuze from "Animal" to "Zigzag."
 5. Will Durant's _Story of Philosophy_. Deleuze is apprentice to three figures covered in this book: [[Spinoza]], [[Nietzsche]], [[Bergson]]. Plus, you learn about [[Plato]], [[Kant]], and [[Hegel]], who are also key.
 6. Spinoza's _Ethics_. (I own [this edition](https://www.worldcat.org/title/spinozas-ethics/oclc/859948295) and highly recommend [this video](https://www.youtube.com/watch?v=8-vNQhMCm_A).) I couldn't make sense of it all in one read. Plan to return to this one.
 7. _Spinoza: Practical Philosophy_

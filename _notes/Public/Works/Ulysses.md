@@ -4,4 +4,4 @@ feed: hide
 tags: book
 ---
 
-_Ulysses_ is a [[novel]] written to follow the [[Odyssey]] (which makes [[Joyce]] like [[Homer]])
+_Ulysses_ is a [[novel]] written to follow the [[Odyssey]] (which makes [[James Joyce]] like [[Homer]])

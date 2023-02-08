@@ -5,15 +5,13 @@ tags:
 - philosopher
 ---
 
-Karl Popper was a philosopher of [[science]]. 
+Karl Popper worked on the [[Philosophy]] of [[Science]]. 
 
-What makes [[Einstein]] more scientific than [[Freud]]?
+_Example_: What makes Einstein more scientific than [[Freud]]?
 
-In one of his essays, he proposes that all [[Life]] is [[problem solving]]. 
+In one of his essays, he proposes that all [[Life]] is [[Problem]]-solving.
 
 ## Reading List
 
 * All life is problem solving
 * Of clouds and clocks
-
-TODO

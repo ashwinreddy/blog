@@ -2,7 +2,7 @@
 title: "The Prince Returns"
 ---
 
-I call my favorite story pattern _The Prince Returns_, but it's just a type of [[Hero's Journey]]. In it, a prince, usually a young or middle-aged man of noble character, finds himself lost in the world and must complete a voyage home, guided by a sage.
+_The Prince Returns_ is my favorite story pattern, but it is only a special case of the [[Hero's Journey]]. In it, a prince, usually a young or middle-aged man of noble character, finds himself lost in the world and must complete a voyage home, guided by a sage.
 
 1. In Homer's _Odyssey_, Odysseus's _nostos_ takes him from Calypso's Ogygia to Ithaca, where his wife Penelope and son Telemachus await him. Athena guides Telemachus in the form of Mentor. 
 2. In Virgil's _Aeneid_, Aeneas is prince of Troy, displaced from his home when it is burned down by the Greeks. He must find his new home in Italy.

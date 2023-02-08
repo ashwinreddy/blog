@@ -3,4 +3,4 @@ title: "Yeats"
 feed: hide
 ---
 
-Yeats was an Irish poet. He liked [[Mysticism]]. 
+Yeats was an Irish writer of [[Poem]]s. He liked [[Mysticism]]. TODO

@@ -1,0 +1,5 @@
+---
+title: "Buddha"
+feed: hide
+---
+

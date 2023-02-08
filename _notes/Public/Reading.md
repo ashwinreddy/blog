@@ -3,15 +3,15 @@ title: "Reading"
 feed: hide
 ---
 
-Reading is a [[Technology]] of retrieving [[Information]] from [[Writing]] through [[Interpretation]]. [[Nabokov]] says a good reader needs 4 things: imagination, memory, a dictionary, some artistic sense.
+Reading is a [[Technology]] of retrieving [[Information]] from [[Writing]] through [[Interpretation]]. [[Nabokov]] says a good reader needs 4 things: imagination, memory, a dictionary, some [[Art]]istic sense.
 
 ## Advice
 
 It only accrues benefits in the long run, and since our time is limited, we must [read a lot with a strong filter](https://www.collaborativefund.com/blog/how-to-read-lots-of-inputs-and-a-strong-filter/) (tl;dr: start 10 times more books than you finish). The goal is to find a book that you need.
 
-> There are, you see, two ways of reading a book: you either see it as a box with something inside and start looking for what it signifies, and then if you're even more perverse or depraved you set off after signifiers. And you treat the next book like a box contained in the first or containing it. And you annotate and interpret and question, and write a book about the book, and son and on. Or there's the other way: you see the book as a little non-signifying machine, and the only question for you is "Does it work? How does it work?" How does it work for you? If it doesn't work, if nothing comes through, you try another book. This second way of reading's intensive: something comes through or it doesn't. There's nothing to explain, nothing to understand, nothing to interpret. It's like plugging into an electric circuit. -- [[Deleuze]]
+> There are, you see, two ways of reading a book: you either see it as a box with something inside and start looking for what it signifies, and then if you're even more perverse or depraved you set off after signifiers. And you treat the next book like a box contained in the first or containing it. And you annotate and interpret and question, and write a book about the book, and son and on. Or there's the other way: you see the book as a little non-signifying machine, and the only question for you is "Does it work? How does it work?" How does it work for you? If it doesn't work, if nothing comes through, you try another book. This second way of reading's intensive: something comes through or it doesn't. There's nothing to explain, nothing to understand, nothing to interpret. It's like plugging into an electric circuit. -- [[Gilles Deleuze]]
 
-Naturally, one needs a library to keep books for reading, an [antilibrary](https://en.wikipedia.org/wiki/Antilibrary) to keep books which will be considered, and a large trash can for the rest.
+Naturally, one needs a [[Library]] to keep books for reading.
 
 I take recommendations from [Five Books](https://fivebooks.com/) and [The Marginalian](https://www.themarginalian.org/). 
 

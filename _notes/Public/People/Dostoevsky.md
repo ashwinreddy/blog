@@ -3,4 +3,4 @@ title: "Dostoevsky"
 feed: hide
 ---
 
-Dostoevsky wrote [[Russian]] [[Novel]]s from [[Russia]]. [[Existentialism]]. [[Christianity]]. 
+Dostoevsky was a Russian writer. He was engaged in [[Existentialism]] and with [[Christianity]]. 

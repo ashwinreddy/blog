@@ -5,4 +5,4 @@ feed: hide
 
 Kafka was a writer.
 
-According to Shimon Sandback, Kafka is an influence on [[Borges]], [[Camus]], and [[Sartre]]. 
+According to Shimon Sandback, Kafka is an influence on [[Borges]], [[Albert Camus]], and [[Sartre]]. 

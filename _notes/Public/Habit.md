@@ -3,7 +3,7 @@ title: "Habit"
 feed: hide
 ---
 
-A habit is a technology an organism develops as a response from the environment to achieve some end.
+A habit is a [[Technology]] an organism develops as a response from the environment to achieve some end.
 
 In _Atomic Habits_, James Clear argues that
 

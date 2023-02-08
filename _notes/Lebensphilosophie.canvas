@@ -10,7 +10,8 @@
 		{"id":"86ecf1b3ca1ce59c","x":747,"y":-1349,"width":440,"height":2372,"color":"5","type":"group","label":"Sages"},
 		{"id":"e51c6895732507f4","x":767,"y":-1329,"width":400,"height":400,"type":"file","file":"Public/People/Spinoza.md"},
 		{"id":"2617715ab73a8b65","x":767,"y":-889,"width":400,"height":400,"type":"file","file":"Public/People/Vervaeke.md"},
-		{"id":"0aa561e5e4204e36","x":767,"y":-449,"width":400,"height":400,"type":"file","file":"Public/People/Deleuze.md"}
+		{"id":"0aa561e5e4204e36","x":767,"y":-449,"width":400,"height":400,"type":"file","file":"Public/People/Gilles Deleuze.md"},
+		{"id":"084e7af0044b166e","x":-1242,"y":-889,"width":400,"height":400,"type":"file","file":"Public/Chaos.md"}
 	],
 	"edges":[
 		{"id":"fda35f749be25d96","fromNode":"1981fbe28f1e1a5a","fromSide":"bottom","toNode":"58f0f56f52776305","toSide":"top"},

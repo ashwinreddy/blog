@@ -7,3 +7,5 @@ Intelligence is related to [[Rationality]] and [[Wisdom]] somehow. Yi Ma thinks 
 
 * Parsimony
 * Self-consistency
+
+Maybe one definition is, "deducing new truths from old truths in pursuit of a goal" according to [[Pinker]] and [[James]]. 

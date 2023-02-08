@@ -1,5 +1,5 @@
 ---
-title: "Jung"
+title: "Carl Jung"
 feed: hide
 ---
 

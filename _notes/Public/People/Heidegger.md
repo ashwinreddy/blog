@@ -9,4 +9,4 @@ Martin Heidegger (1889-1976) was a philosopher from Germany who did work in [[Ph
 
 His thesis was on [[Duns Scotus]]. 
 
-He also writes about [[Technology]], [[Language]], [[Art]], Poetry. He is influenced by [[Aristotle]], [[Nietzsche]], [[Kierkegaard]], [[Kant]]. He uses a lot of Greek and German words.
+He also writes about [[Technology]], [[Language]], [[Art]], [[Poem]]. He is influenced by [[Aristotle]], [[Nietzsche]], [[Kierkegaard]], [[Kant]]. He uses a lot of Greek and German words.

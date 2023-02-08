@@ -1,5 +1,6 @@
 ---
-title: "What I believe in"
+title: "Observations"
+published: false
 ---
 
 I just read my friend Sarv's [post](https://sarvasvkulpati.com/blog/believe) of this same name and felt like I needed one of my own as well.
@@ -15,7 +16,14 @@ Creation and experimentation require both theory and practice in the right propo
 
 > The first principle is that you must not fool yourself, and you are the easiest person to fool. -- Feynman
 
+## Virtues
 
+- Fluency
+- Dexterity
+- Curiosity
+- Grace
+- Simplicity
+- Precision
 
 ## What do I like?
 
@@ -39,12 +47,3 @@ Creation and experimentation require both theory and practice in the right propo
 - The value and celebration of [[Play]] and [fun](https://www.lesswrong.com/posts/qZJBighPrnv9bSqTZ/31-laws-of-fun).
 - Calibrated uncertainty, i.e. calculated risk.
 
-## Quotes
-
-> What we do may be small, but it has a certain character of permanence; and to have produced anything of the slightest permanent interest, whether it be a copy of verses or a geometrical theorem, is to have done something utterly beyond the powers of the vast majority of men. --- Mathematician G.H. Hardy
-
-> I am not a donkey, I don't have a field -- Max Weber
-
-> I am not a thing -- a noun. I seem to be a verb, an evolutionary process -- an integral function of the universe --- Buckminster Fuller
-
-> Do I contradict myself? / Very well then I contradict myself / (I am large, I contain multitudes.) -- Walt Whitman

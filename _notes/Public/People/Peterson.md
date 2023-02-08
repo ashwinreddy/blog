@@ -10,7 +10,7 @@ Peterson's mother is a librarian, and he studied in a great books program (sourc
 
 As a result, he attacks Relativism and Postmodernism (which he also associates with [[Marxism]]), especially [[Foucault]] and [[Derrida]], whom he doesn't seem to have read. 
 
-In psychology, Peterson has studied alcohol abuse, [[Personality]], and [[Myth]]. His influces include [[Freud]], [[Jung]], [[Nietzsche]]. He talks about the [[Oedipus complex]] a lot. 
+In psychology, Peterson has studied alcohol abuse, [[Personality]], and [[Myth]]. His influces include [[Freud]], [[Carl Jung]], [[Nietzsche]]. He talks about the [[Oedipus complex]] a lot. 
 
 One of the questions that drives Peterson is how [[Ideology]] led to [[Fascism]] (i.e. [[Nazism]] in Germany) and Communism in Russia. 
 
