@@ -8,4 +8,10 @@ There is a school of philosophical and scientific thought that sees Chaos and In
 
 A question to answer: what exactly does this Chaos look like? Is it more or less the same one as Ovid? It definitely is not Milton's Chaos. How does Deleuze's Chaos compare with Ovid's? What about Joyce's chaosmos?
 
+A style: not written in archaic language or scientific jargon or in Latinate. Simple, refined English.
+
+A starting point: Chaos decomposes into Entropy and Mutability. Seen from an angle, we have Cosmos split into Predictability and Stability. Together, we have Chaosmos.
+
 An idea worth exploring: flood myths. Both Ovid and Moses give us flood myths. The modern flood is not one of water, however, but of information. How can we make that idea clear?
+
+A theme to include: that humans are special because they play games and solve problems (these are one and the same). We are technical creatures, we repond to Chaos. But we're not _that_ special. Might be interesting to think about [names for the human species](https://en.wikipedia.org/wiki/Names_for_the_human_species). 
