@@ -5,4 +5,4 @@ tags:
 - philosopher
 ---
 
-St. Augustine is a Philosopher of [[Christianity]] who wrote _Confessions_. He liked [[Platonism]] but wanted the Christian embodiment. 
+st. augustine was a philosopher of [[christianity]] who wrote _confessions_. He liked [[platonism]] but wanted the Christian embodiment. 

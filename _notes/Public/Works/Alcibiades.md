@@ -1,6 +1,6 @@
 ---
-title: "Alcibiades"
+title: "alcibiades"
 feed: hide
 ---
 
-_Alcibiades_ is a dialogue by [[Plato]]. [[Foucault]] says those in [[Neoplatonism]] considered it the first dialogue. 
+_alcibiades_ is a dialogue by [[plato]]. [[michel foucault]] says those in [[neoplatonism]] considered it the first dialogue. 

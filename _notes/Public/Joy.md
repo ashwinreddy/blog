@@ -1,6 +1,6 @@
 ---
-title: "Joy"
+title: "joy"
 feed: hide
 ---
 
-[[Gilles Deleuze]] and [[Spinoza]] have much to tell us about joy. 
+[[deleuze]] and [[spinoza]] have much to tell us about joy. 

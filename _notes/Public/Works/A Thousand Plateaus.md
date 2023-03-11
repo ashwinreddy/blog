@@ -1,17 +1,17 @@
 ---
-title: "A Thousand Plateaus"
+title: "a thousand plateaus"
 feed: hide
 tags: book
 ---
 
-_Mille plateaux_ is the second volume of [[Capitalism and Schizophrenia]]. It is about
+_mille plateaux_ is the second volume of [[capitalism and schizophrenia]]. It is about
 
-- [[Freud]]
-- [[Rhizome]]
-- [[Language]]
-- [[Body without organs]]
-- [[Becoming]]
-- [[Machine]]
+- [[freud]]
+- [[rhizome]]
+- [[language]]
+- [[BwO]]
+- [[becoming]]
+- [[machine]]
 
 From SEP:
 

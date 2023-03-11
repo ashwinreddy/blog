@@ -1,6 +1,6 @@
 ---
-title: "Literary device"
+title: "literary device"
 feed: hide
 ---
 
-A literary device is a [[Technology]] inside [[Language]] or [[Literature]] that accomplishes some effect. 
+a literary device is a [[technology]] inside [[language]] or [[literature]] that accomplishes some effect. 

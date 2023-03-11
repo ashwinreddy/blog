@@ -1,7 +1,7 @@
 ---
-title: "Lavoisier"
+title: "lavoisier"
 feed: hide
 tags: scientist
 ---
 
-Lavoisier was a French Chemist who lived during the [[Enlightenment]] and [[French Revolution]]. 
+lavoisier was a French Chemist who lived during the [[enlightenment]] and [[french revolution]]. 

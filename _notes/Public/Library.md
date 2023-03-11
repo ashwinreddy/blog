@@ -1,6 +1,6 @@
 ---
-title: "Library"
+title: "library"
 feed: hide
 ---
 
-A library is a collection of [[Book]]s. But Umberto Eco and Nassim Taleb advocate for the [antilibrary](https://en.wikipedia.org/wiki/Antilibrary) as well.
+a library is a collection of [[book]]s. But Umberto Eco and Nassim Taleb advocate for the [antilibrary](https://en.wikipedia.org/wiki/Antilibrary) as well.

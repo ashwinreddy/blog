@@ -1,5 +1,6 @@
 ---
 title: "Reading List for Deleuze"
+published: false
 ---
 
 Gilles Deleuze's ouevre is difficult to penetrate precisely because you can start from almost anywhere. I'll be updating this post with the reading order that makes the most sense to me. My sense is that each person will have to find their own way in, but I figure it's helpful to record what I've found works. 

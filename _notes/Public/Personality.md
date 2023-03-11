@@ -1,5 +1,5 @@
 ---
-title: "Personality"
+title: "personality"
 feed: hide
 ---
 

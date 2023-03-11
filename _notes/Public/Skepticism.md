@@ -1,6 +1,6 @@
 ---
-title: "Skepticism"
+title: "skepticism"
 feed: hide
 ---
 
-Skepticism is a school of [[Philosophy]] that questions what [[Knowledge]] a [[Human]] can have. 
+skepticism is a school of [[philosophy]] that questions what [[knowledge]] a [[human]] can have. 

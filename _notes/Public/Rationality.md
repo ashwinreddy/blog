@@ -1,5 +1,5 @@
 ---
-title: "Rationality"
+title: "rationality"
 feed: hide
 ---
 

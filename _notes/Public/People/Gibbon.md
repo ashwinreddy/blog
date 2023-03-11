@@ -1,5 +1,0 @@
----
-title: "Gibbon"
-feed: hide
----
-

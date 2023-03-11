@@ -1,13 +1,14 @@
 ---
-title: "Meno"
+title: "meno"
 feed: hide
 ---
 
-_Meno_ is a dialogue by [[Plato]]. 
+_meno_ is a dialogue by [[plato]]. 
 
 
-Meno's paradox. 
+## meno's paradox
 
-1. If you know what you're looking for, inquiry is unnecessary 
-2. If you don't know what you're looking for, inquiry is impossible.
-3. Therefore, inquiry is either unnecessary or impossible.
+1. if you know what you're looking for, inquiry is unnecessary 
+2. if you don't know what you're looking for, inquiry is impossible.
+3. therefore, inquiry is either unnecessary or impossible.
+

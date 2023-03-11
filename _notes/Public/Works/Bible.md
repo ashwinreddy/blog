@@ -1,6 +1,6 @@
 ---
-title: "Bible"
+title: "bible"
 feed: hide
 ---
 
-The Bible is the religious [[Book]] of [[Christianity]] written in Hebrew and Koine Greek. 
+the bible is the religious [[book]] of [[christianity]] written in hebrew and koine greek. 

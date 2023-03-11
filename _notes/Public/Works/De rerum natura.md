@@ -1,6 +1,6 @@
 ---
-title: "De rerum natura"
+title: "de rerum natura"
 feed: hide
 ---
 
-_De rerum natura_ is a Latin [[Epic poem]] by [[Lucretius]] about [[Epicureanism]]. 
+_de rerum natura_ is an [[epic poem]] in [[latin]] by [[lucretius]] about [[epicureanism]]. 

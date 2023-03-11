@@ -1,9 +1,9 @@
 ---
-title: "Cooperation"
+title: "cooperation"
 feed: hide
 ---
 
-Cooperation is when agents work together to achieve a goal.
+cooperation is when agents work together to achieve a goal.
 
 ## Reading List
 

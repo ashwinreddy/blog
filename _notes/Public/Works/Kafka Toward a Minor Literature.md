@@ -1,10 +1,10 @@
 ---
-title: "Kafka Toward a Minor Literature"
+title: "kafka toward a minor literature"
 feed: hide
 tags: book
 ---
 
-_Kafka: pour une littérature mineure_ is a book by [[Gilles Deleuze]] and [[Guattari]] about [[Kafka]]. 
+_kafka: pour une littérature mineure_ is a book by [[deleuze]] and [[guattari]] about [[kafka]]. 
 
 ## Content and Expression
 
@@ -14,7 +14,7 @@ _Kafka: pour une littérature mineure_ is a book by [[Gilles Deleuze]] and [[Gua
 
 ## The Components of Expression
 
-## [[Immanence]] and [[Desire]]
+## [[immanence]] and [[desire]]
 
 ## Proliferation of Series
 
@@ -22,4 +22,4 @@ _Kafka: pour une littérature mineure_ is a book by [[Gilles Deleuze]] and [[Gua
 
 ## Blocks, Series, Intensities
 
-## What is an [[Assemblage]]? 
+## What is an [[assemblage]]? 

@@ -1,6 +1,4 @@
 ---
-title: "French Revolution"
+title: "french revolution"
 feed: hide
 ---
-
-The French Revolution depended on [[Enlightenment]] values and ideals. 

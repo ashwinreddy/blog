@@ -1,6 +1,6 @@
 ---
-title: "Beyond Good and Evil"
+title: "beyond good and evil"
 feed: hide
 ---
 
-_Jenseits von Gut und Böse: Vorspiel einer Philosophie der Zunkuft_ is a book by [[Nietzsche]]. 
+_jenseits von gut und böse: vorspiel einer philosophie der zunkuft_ is a book by [[nietzsche]]. 

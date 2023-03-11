@@ -1,5 +1,0 @@
----
-title: "Artaud"
-feed: hide
----
-

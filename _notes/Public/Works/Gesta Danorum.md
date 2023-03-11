@@ -1,6 +1,6 @@
 ---
-title: "Gesta Danorum"
+title: "gesta danorum"
 feed: hide
 ---
 
-_Gesta Danorum_ (Deeds of the Danes) is a book about Danish history.
+_gesta danorum_ is a book about danish history by saxo grammaticus.

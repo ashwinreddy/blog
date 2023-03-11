@@ -1,9 +1,9 @@
 ---
-title: "Sign"
+title: "sign"
 feed: hide
 ---
 
-Sign vs [[Symbol]] in [[Semiotics]]. 
+Sign vs [[symbol]] in [[semiotics]]. 
 
 ## Ferdinand de Saussure
 
@@ -12,7 +12,7 @@ $$
 $$
 
 
-## [[Peirce]]
+## [[peirce]]
 
 $$
 \text{Sign} = \text{Representamen} + \text{Interpretant} + \text{Object}

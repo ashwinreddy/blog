@@ -1,6 +1,6 @@
 ---
-title: "Alexander the Great"
+title: "alexander the great"
 feed: hide
 ---
 
-Alexander was the disciple of [[Aristotle]]. 
+alexander was the disciple of [[aristotle]]. he was said to keep a copy of the [[iliad]] by his bedside. 

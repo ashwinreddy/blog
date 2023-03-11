@@ -3,6 +3,6 @@ title: "Gadamer"
 feed: hide
 ---
 
-Gadamer was a student of [[Heidegger]], I believe.
+gadamer was a student of [[heidegger]], I believe.
 
 TODO

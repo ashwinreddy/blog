@@ -3,12 +3,12 @@ title: "Satire"
 feed: hide
 ---
 
-Satire is a type of [[Literature]]. It uses [[Irony]] and parody, etc. Writers include
+satire is a type of [[literature]]. it uses [[irony]] and parody, etc. Writers include
 
-- [[Horace]]
-- [[Juvenal]]
+- [[horace]]
+- [[juvenal]]
 - Menippeus
-- [[Jonathan Swift]]
-- [[Samuel Johnson]]
-- [[Alexander Pope]]
-- [[T.S. Eliot]]
+- [[jonathan swift]]
+- [[samuel johnson]]
+- [[alexander pope]]
+- [[t.s. eliot]]

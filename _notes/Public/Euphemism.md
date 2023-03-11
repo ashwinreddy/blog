@@ -1,6 +1,6 @@
 ---
-title: "Euphemism"
+title: "euphemism"
 feed: hide
 ---
 
-Euphemism is a [[Literary device]]. 
+euphemism is a [[literary device]]. 

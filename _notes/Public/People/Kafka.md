@@ -1,8 +1,6 @@
 ---
-title: "Kafka"
+title: "kafka"
 feed: hide
 ---
 
-Kafka was a writer.
-
-According to Shimon Sandback, Kafka is an influence on [[Borges]], [[Albert Camus]], and [[Sartre]]. 
+kafka was a writer.

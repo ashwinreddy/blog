@@ -1,6 +1,6 @@
 ---
-title: "Dostoevsky"
+title: "dostoevsky"
 feed: hide
 ---
 
-Dostoevsky was a Russian writer. He was engaged in [[Existentialism]] and with [[Christianity]]. 
+fyodor dostoevsky was a russian writer. he was engaged with [[existentialism]] and [[christianity]]. 

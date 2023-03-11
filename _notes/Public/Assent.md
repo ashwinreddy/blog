@@ -1,6 +1,6 @@
 ---
-title: "Assent"
+title: "assent"
 feed: hide
 ---
 
-Assent is a [[Concept]] in [[Stoic]] philosophy. TODO
+assent is a [[concept]] in [[stoic]] philosophy. TODO

@@ -1,8 +1,8 @@
 ---
-title: "Ortega y Gasset"
+title: "ortega y gasset"
 feed: hide
 ---
 
-Jose Ortega y Gasset.
+> _yo so yo y mi circunstancia_
 
-_Yo so yo y mi circunstancia_
+jose ortega y gasset.

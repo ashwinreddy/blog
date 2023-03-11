@@ -1,6 +1,6 @@
 ---
-title: "Jonathan Swift"
+title: "jonathan swift"
 feed: hide
 ---
 
-Jonathan Swift was an Irish writer. He wrote _Gulliver's Travels_, etc. He was good friends with [[Alexander Pope]]. 
+jonathan swift was an Irish writer. He wrote _Gulliver's Travels_, etc. He was good friends with [[alexander pope]]. 

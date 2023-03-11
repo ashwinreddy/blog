@@ -1,12 +1,12 @@
 ---
-title: "The Question Concerning Technology"
+title: "the question concerning technology"
 feed: hide
 tags: book
 ---
 
-_The Question Concerning Technology_ is an essay in [[Phenomenology]] by [[Heidegger]] about [[Technology]]. 
+_die frage nach der technik_ is an essay in [[phenomenology]] by [[heidegger]] about [[technology]]. 
 
-Heidegger starts by saying that the essence of technology is not something technological.  The usual definition of technology is one of instrumentation (a human activity as well as a means to an end). Since we're talking about means and ends, causality is already in play. In technology, we think of efficient causes and not final causes (or material or formal causes). But remember, Aristotle's causes aren't really causes but explanations.
+heidegger starts by saying that the essence of technology is not something technological.  The usual definition of technology is one of instrumentation (a human activity as well as a means to an end). Since we're talking about means and ends, causality is already in play. In technology, we think of efficient causes and not final causes (or material or formal causes). But remember, Aristotle's causes aren't really causes but explanations.
 
 |Cause|Responsibility|
 |------|---------------|

@@ -1,6 +1,6 @@
 ---
-title: "Genealogy of Morals"
+title: "genealogy of morals"
 feed: hide
 ---
 
-_Zur Genealogie der Moral: Eine Streitschrift_ is a book by [[Nietzsche]] about the [[Genealogy]] of morality in [[Christianity]]. It contains three [[Essay]]s. 
+_zur genealogie der moral: eine streitschrift_ is a book by [[nietzsche]] about the [[genealogy]] of morality in [[christianity]]. It contains three [[essay]]s. 

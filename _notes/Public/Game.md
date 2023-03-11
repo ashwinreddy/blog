@@ -1,5 +1,5 @@
 ---
-title: "Game"
+title: "game"
 feed: hide
 ---
 

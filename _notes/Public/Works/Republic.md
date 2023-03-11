@@ -1,7 +1,7 @@
 ---
-title: "Republic"
+title: "republic"
 feed: hide
 tags: book
 ---
 
-_Republic_ is a dialogue by [[Plato]] involving [[Socrates]]. 
+_republic_ is a dialogue by [[plato]] involving [[socrates]]. 

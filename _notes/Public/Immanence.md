@@ -1,6 +1,6 @@
 ---
-title: "Immanence"
+title: "immanence"
 feed: hide
 ---
 
-Immanence holds that there is nothing outside and other to itself, against transcendence. It is the view adopted by [[Gilles Deleuze]] and [[Spinoza]]. 
+immanence (from [[latin]] _in_ + _manere_) holds that there is nothing outside and other to itself, against [[transcendence]]. It is the view adopted by [[deleuze]] and [[spinoza]].

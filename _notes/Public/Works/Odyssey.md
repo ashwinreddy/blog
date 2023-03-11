@@ -1,12 +1,10 @@
 ---
-title: "Odyssey"
+title: "odyssey"
 feed: hide
 tags: book
 ---
 
-The _Odyssey_ is one of the two Homeric [[Epic poem]]s of [[Greek mythology]].
-
-- [[Proteus]]
+the _odyssey_ is a [[greek]] [[epic poem]] by [[homer]]. 
 
 ## Reading
 

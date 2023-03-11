@@ -1,6 +1,6 @@
 ---
-title: "Flow"
+title: "flow"
 feed: hide
 ---
 
-Flow is a peak state between boredom and anxiety. It is connected to [[Meaningness]] and  [[Play]]. 
+flow is a peak state between boredom and anxiety. it is connected to [[meaningness]] and [[play]]. 

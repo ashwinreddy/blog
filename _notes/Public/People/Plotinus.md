@@ -1,5 +1,0 @@
----
-title: "Plotinus"
-feed: hide
----
-

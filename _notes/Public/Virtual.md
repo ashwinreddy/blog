@@ -1,9 +1,9 @@
 ---
-title: "Virtual"
+title: "virtual"
 feed: hide
 ---
 
-[[Gilles Deleuze]] uses an actual-virtual distinction rather than real-possible. Deleuze thinks possible is a bad [[Concept]] because it presupposes everything real is possible and can't explain why the possible hasn't come into being.[^source] The virtual is potential, e.g. the genotype compared to the phenotype. 
+[[deleuze]] uses an actual-virtual distinction rather than real-possible. Deleuze thinks possible is a bad [[concept]] because it presupposes everything real is possible and can't explain why the possible hasn't come into being.[^source] The virtual is potential, e.g. the genotype compared to the phenotype. 
 
 
 

@@ -1,6 +1,6 @@
 ---
-title: "Kyoto School"
+title: "kyoto school"
 feed: hide
 ---
 
-The Kyoto School was a school of [[Philosophy]] that combined [[Zen]] and [[Heidegger]], [[Nietzsche]], etc.
+the kyoto school was a school of [[philosophy]] that combined [[zen]] and [[heidegger]], [[nietzsche]], etc.

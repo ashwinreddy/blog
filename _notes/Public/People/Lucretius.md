@@ -1,6 +1,6 @@
 ---
-title: "Lucretius"
+title: "lucretius"
 feed: hide
 ---
 
-Lucretius was a Roman poet. 
+titus lucretius carus was a roman poet. he believed in [[epicureanism]].

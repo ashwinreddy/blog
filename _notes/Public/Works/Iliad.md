@@ -1,6 +1,6 @@
 ---
-title: "Iliad"
+title: "iliad"
 feed: hide
 ---
 
-The _Iliad_ is a Greek [[Epic poem]] by [[Homer]]. Characters include Aeneas, Odysseus, etc.
+the _iliad_ is a [[greek]] [[epic poem]] by [[homer]]. it predates the [[odyssey]].

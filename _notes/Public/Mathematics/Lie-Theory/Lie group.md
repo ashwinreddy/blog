@@ -1,0 +1,1 @@
+A **Lie group** is a [[group]] $G$ which is also a [[manifold]]. A Lie group has a [[Lie algebra]].

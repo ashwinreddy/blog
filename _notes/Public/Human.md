@@ -1,5 +1,5 @@
 ---
-title: "Human"
+title: "human"
 feed: hide
 ---
 

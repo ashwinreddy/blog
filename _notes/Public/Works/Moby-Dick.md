@@ -1,11 +1,11 @@
 ---
-title: "Moby-Dick"
+title: "moby-dick"
 feed: hide
 tags: book
 ---
 
-_Moby-Dick_ is a [[novel]] written by Herman Melville (although I think it has elements of both [[Poem]], perhaps [[Epic poem]] and [[Essay]]). The novel follows Ishmael, who, along with harpooner Queequeg, decides to join the _Pequod_ on a whaling expedition. But the ship is led by Captain Ahab, whose only goal is to find and kill Moby-Dick, the whale that bit him years ago.
+_moby-dick_ is a [[novel]] written by herman [[melville]] following ishmael, who, along with harpooner queequeg, decides to join the _pequod_ on a whaling expedition. but the ship is led by captain ahab, whose only goal is to find and kill moby-dick, the whale that bit him years ago.
 
-To my mind, the novel is significant not only for combining the forms of [[Epic poem]] and essay but also for its deep symbolism and spiritual disposition.
+To my mind, the novel is significant not only for combining the forms of [[epic poem]] and [[essay]] but also for its deep symbolism and spiritual disposition.
 
-Moby-Dick is greatly inspired by [[Paradise Lost]] and the language of [[Shakespeare]] and the [[Bible]]. 
+moby-dick is greatly inspired by [[paradise lost]] and the language of [[shakespeare]] and the [[bible]]. 

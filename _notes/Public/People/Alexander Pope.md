@@ -1,10 +1,10 @@
 ---
-title: "Alexander Pope"
+title: "alexander pope"
 feed: hide
 ---
 
-Alexander Pope was an English poet during the Restoration. He wrote _The Rape of the Lock_, _An Essay on Man_, _Dunciad_.
+alexander pope was an english poet during the Restoration. He wrote _The Rape of the Lock_, _An Essay on Man_, _Dunciad_.
 
-He produced a translation of the [[Iliad]] and an edition on [[Shakespeare]]. Studied [[Horace]], [[Juvenal]], [[Shakespeare]], [[Homer]], [[Virgil]]. 
+He produced a translation of the [[iliad]] and an edition on [[shakespeare]]. Studied [[horace]], [[juvenal]], [[shakespeare]], [[homer]], [[virgil]]. 
 
-He was friends with [[Jonathan Swift]]. 
+He was friends with [[jonathan swift]]. 

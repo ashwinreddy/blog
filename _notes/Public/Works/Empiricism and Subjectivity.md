@@ -1,12 +1,12 @@
 ---
-title: "Empiricism and Subjectivity"
+title: "empiricism and subjectivity"
 feed: hide
 tags: book
 ---
 
-_Empiricism and Subjectivity: An Essay on Hume's Theory of Human Nature_, published in 1953, is [[Gilles Deleuze]]'s _diplôme d’études supérieures_ (roughly master's) on [[Hume]]'s [[Empiricism]]. What follows are notes from Jon Roffe's _The Works of Gilles Deleuze_.
+_empiricism and subjectivity: an essay on hume's theory of human nature_, published in 1953, is [[deleuze]]'s _diplôme d’études supérieures_ (roughly master's) on [[hume]]'s [[empiricism]]. What follows are notes from Jon Roffe's _The Works of Gilles Deleuze_.
 
-In the [[Kant]]ian reading of Hume, one examines how knowledge is drawn from experience and realizes that it depends on causality (or lack thereof). Then, we realize that the solution is to consider human nature, and not nature in itself. The Kantian takes up Hume's problem of induction. Along this line of thinking, we look at beliefs rather than knowledge.
+In the [[kant]]'s reading of hume, one examines how knowledge is drawn from experience and realizes that it depends on causality (or lack thereof). Then, we realize that the solution is to consider human nature, and not nature in itself. The Kantian takes up Hume's problem of induction. Along this line of thinking, we look at beliefs rather than knowledge.
 
 Deleuze disagrees.
 
@@ -21,3 +21,7 @@ Epistemology (the theory of knowledge) is not the important question. The import
 5. How is the subject constituted inside the given?
 
 Deleuze's answer is that the mind is affected by the passional and social. 
+
+## Misc
+
+Deleuze describes [[william james]]'s work as exemplifying Hume's thesis that relations are external to their terms. 

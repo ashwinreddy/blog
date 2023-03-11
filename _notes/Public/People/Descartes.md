@@ -1,6 +1,6 @@
 ---
-title: "Descartes"
+title: "descartes"
 feed: hide
 ---
 
-Descartes was a French philosopher and mathematician. In England, he was received as something of a successor to [[Bacon]]. He's not technically a part of [[Skepticism]] but he has influences of its thought. 
+descartes was a french philosopher and mathematician. he's not technically a part of [[skepticism]] but he has influences of its thought. 

@@ -1,6 +1,6 @@
 ---
-title: "Apology"
+title: "apology"
 feed: hide
 ---
 
-_Apology_ (Greek for speech of defense) is a dialogue by [[Plato]] about the trial of [[Socrates]]. 
+_apology_ ([[greek]] for speech of defense) is a dialogue by [[plato]] about the trial of [[socrates]]. 

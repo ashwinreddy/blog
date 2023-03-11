@@ -1,8 +1,8 @@
 ---
-title: "Simulacrum"
+title: "simulacrum"
 feed: hide
 ---
 
-[[Plato]]'s simulacrum is taken up by [[Gilles Deleuze]]. 
+[[plato]]'s simulacrum is taken up by [[deleuze]]. 
 
 TODO

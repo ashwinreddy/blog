@@ -1,6 +1,6 @@
 ---
-title: "Rhizome"
+title: "rhizome"
 feed: hide
 ---
 
-The rhizome is a [[Concept]] developed in [[A Thousand Plateaus]]
+the rhizome is a [[concept]] developed in [[a thousand plateaus]]. 

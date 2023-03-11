@@ -1,6 +1,6 @@
 ---
-title: "James Joyce"
+title: "james joyce"
 feed: hide
 ---
 
-James Joyce was an Irish writer. He wrote _[[Ulysses]]_. Influenced by [[Shakespeare]], [[Aristotle]], [[Dante]], [[Homer]], [[Yeats]], [[Horace]], [[Shelley]]. 
+james joyce was an irish writer. He wrote _[[ulysses]]_. Influenced by [[shakespeare]], [[aristotle]], [[dante]], [[homer]], [[w.b. yeats]], [[horace]], [[shelley]]. 

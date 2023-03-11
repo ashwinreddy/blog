@@ -1,12 +1,11 @@
 ---
-title: "Paradise Lost"
+title: "paradise lost"
 feed: hide
 tags: book
 ---
 
-_Paradise Lost_ is an English [[Epic poem]] written by [[Milton]]. Suffused in allusions to [[Bible]] and [[Christianity]]'s [[Myth]] and thinking, the poem covers in 12 books,[^number-books] the story of Satan, having fallen from God, attempting to revenge himself by assuming the form of a serpent and tempting Adam and Eve, the first humans, from the book of Genesis in the Old Testament. Paradise Lost is Milton's attempt to create a great epic poem in the English language and to "justify the ways of God to men". The poem is notable for its use of blank verse rather than rhyme. 
+_paradise lost_ is an [[epic poem]] in english by [[john milton]]. suffused in allusions to [[bible]] and [[christianity]]'s [[myth]] and thinking, the poem covers in 12 books,[^number-books] the story of satan's fall from grace, his attempt at revenge by assuming the form of a serpent, and the temptation of adam and eve. _paradise lost_ is milton's attempt to create a great epic poem in the english language and to "justify the ways of God to men". the poem is notable for its use of blank verse rather than rhyme. 
 
-[^number-books]: It was originally 10 books. The choice of 12 books reminds us of the structure of the [[Aeneid]].
+[^number-books]: it was originally 10 books. the choice of 12 books recalls the [[aeneid]].
 
 
----

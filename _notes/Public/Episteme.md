@@ -1,6 +1,8 @@
 ---
-title: "Episteme"
+title: "episteme"
 feed: hide
 ---
 
-The episteme is a [[Concept]] from [[Foucault]] is the set of presuppositions in a discourse in a particular time. It is similar to a [[Paradigm]]. 
+episteme is a [[greek]] word related to knowledge.
+
+it is also a [[concept]] from [[michel foucault]] is the set of presuppositions in a discourse in a particular time. it is similar to a [[paradigm]]. 

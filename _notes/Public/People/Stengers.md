@@ -1,6 +1,6 @@
 ---
-title: "Stengers"
+title: "stengers"
 feed: hide
 ---
 
-Stengers is an influential interpreter of [[Whitehead]] and writer of a book on [[Chaos]]. She once spoke to [[Gilles Deleuze]] about the nature of the [[Event]].
+Stengers is an influential interpreter of [[alfred north whitehead]] and writer of a book on [[chaos]]. She once spoke to [[deleuze]] about the nature of the [[event]].

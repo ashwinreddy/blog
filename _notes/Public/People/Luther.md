@@ -1,5 +1,5 @@
 ---
-title: "Luther"
+title: "luther"
 feed: hide
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Genealogy"
+title: "genealogy"
 feed: hide
 ---
 
-Genealogy is technique developed by [[Nietzsche]] in [[Genealogy of Morals]] and later used by [[Foucault]]. 
+genealogy is a technique developed by [[nietzsche]] in _[[genealogy of morals]]_ and later used by [[michel foucault]]. it is concerned with the origin of values and the value of origins. it means neither absolute nor relative/utilitarian values. 

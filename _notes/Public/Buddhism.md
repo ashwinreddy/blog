@@ -1,10 +1,10 @@
 ---
-title: "Buddhism"
+title: "buddhism"
 feed: hide
 ---
 
-Buddhism is a religion and [[Philosophy]] started by Siddhartha Gautama, the [[Buddha]]. Buddhism has much to say about [[Consciousness]] among other things. 
+buddhism is a religion and [[philosophy]] started by Siddhartha Gautama, the [[buddha]]. Buddhism has much to say about [[consciousness]] among other things. 
 
-[[Vervaeke]] reads the first noble truth not as the idea that one is always in pain but as the fact that the threat of self-deception always looms over us. 
+[[vervaeke]] reads the first noble truth not as the idea that one is always in pain but as the fact that the threat of self-deception always looms over us. 
 
-There is Mahayana and Theravada schools.
+There are the Mahayana and Theravada schools.

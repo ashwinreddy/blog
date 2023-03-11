@@ -1,5 +1,0 @@
----
-title: "Proust"
-feed: hide
----
-

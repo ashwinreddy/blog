@@ -1,0 +1,1 @@
+The **tangent space** $T_p \mathcal{M}$ of a [[manifold]] $\mathcal{M}$ collects the [[tangent vector]]s at $p$. The [[dual space]] is the [[cotangent space]].

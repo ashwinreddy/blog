@@ -1,6 +1,6 @@
 ---
-title: "Literature"
+title: "literature"
 feed: hide
 ---
 
-Literature is a type of [[Art]] associated with [[Writing]] and [[Language]]. 
+Literature is a type of [[art]] associated with [[Writing]] and [[language]]. 

@@ -1,6 +1,6 @@
 ---
-title: "The Sophist"
+title: "the sophist"
 feed: hide
 ---
 
-_The Sophist_ is a dialogue by [[Plato]]. 
+_the sophist_ is a dialogue by [[plato]] about distinguishing [[philosophy]] from sophistry. dramatis personae include the visitor from elea. 

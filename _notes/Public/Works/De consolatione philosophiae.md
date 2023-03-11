@@ -1,9 +1,6 @@
 ---
-title: "De consolatione philosophiae"
+title: "de consolatione philosophiae"
 feed: hide
 ---
 
-_De consolatione philosophiae_ is a work of [[Philosophy]] by Boethius written in 523. It touches on [[Stoic]] thought and [[Plato]] and [[Homer]] and [[Free Will]], etc.
-
-
-It influenced [[Dante]] in the [[Divina Commedia]]. 
+_de consolatione philosophiae_ is a work of [[philosophy]] by boethius written in 523. It touches on [[stoic]] thought and [[plato]] and [[homer]] and [[free will]], etc.

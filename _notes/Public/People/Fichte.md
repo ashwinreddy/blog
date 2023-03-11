@@ -1,9 +1,9 @@
 ---
-title: "Fichte"
+title: "fichte"
 feed: hide
 tags: philosopher
 ---
 
-Fichte from [[Germany]]. 
+fichte from [[Germany]]. 
 
 TODO

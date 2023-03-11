@@ -1,15 +1,11 @@
 ---
-title: "Amor fati"
+title: "amor fati"
 feed: hide
 ---
 
-_Amor fati_ is Latin for "love of fate." It is an idea espoused in [[Stoic]] philosophy from the likes [[Epictetus]] and Marcus Aurelius as well as [[Nietzsche]] and [[Albert Camus]] and [[Gilles Deleuze]]. 
+_amor fati_ is [[latin]] for love of fate, an idea espoused in [[stoic]] philosophy from the likes [[epictetus]] and marcus aurelius as well as [[nietzsche]] and [[albert camus]] and [[deleuze]]. 
 
-## Deleuze
-
-For Deleuze, it has to do with the [[Event]], something he talks about in [[Logic of Sense]]. 
-
-## Quotes
+## quotes
 
 
 > Instead of wishing that things would happen as you'd like, wish that they would happen as they do, and then you'll be content. (_Enchiridion_ 8)

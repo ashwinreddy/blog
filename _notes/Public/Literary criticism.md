@@ -3,4 +3,4 @@ title: "Literary criticism"
 feed: hide
 ---
 
-Literary criticism is the [[Art]] of [[Reading]] with [[Creativity]]. 
+literary criticism is the [[art]] of [[reading]] with [[creativity]]. 

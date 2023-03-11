@@ -1,8 +1,8 @@
 ---
-title: "Shakespeare"
+title: "shakespeare"
 feed: hide
 tags:
 - writer
 ---
 
-Shakespeare was a poet and a playwright of both [[Comedy]] and [[Tragedy]]. He wrote [[Hamlet]]. He was inspired by [[Ovid]] and [[Seneca]] and [[Plutarch]].
+shakespeare was a poet and a playwright of both [[Comedy]] and [[tragedy]]. He wrote _[[hamlet]]_ and _[[the tempest]]_. he was inspired by [[ovid]], [[seneca]], [[plutarch]], and [[montaigne]].

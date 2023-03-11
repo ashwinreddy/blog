@@ -1,6 +1,6 @@
 ---
-title: "Plane of immanence"
+title: "plane of immanence"
 feed: hide
 ---
 
-The plane of immanence in the vocabulary of [[Gilles Deleuze]] is the foundation or [[Deterritorialization]] on which philosophy creates [[Concept]]s. 
+the plane of immanence in the vocabulary of [[deleuze]] is the foundation or [[deterritorialization]] on which philosophy creates [[concept]]s. 

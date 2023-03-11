@@ -1,7 +1,7 @@
 ---
-title: "Existentialism"
+title: "existentialism"
 feed: hide
 tags: school
 ---
 
-Existentialism is a [[Stance]] regarding the [[Meaningness]] of the human condition as a response to [[Nihilism]] from Jean-Paul [[Sartre]] and others, coming from [[Nietzsche]], [[Kierkegaard]], [[Heidegger]]. [[Absurdism]] is closely related, if not a part of it. 
+existentialism is a [[stance]] regarding the [[meaningness]] of the human condition as a response to [[nihilism]] from Jean-Paul [[sartre]] and others, coming from [[nietzsche]], [[kierkegaard]], [[heidegger]]. 

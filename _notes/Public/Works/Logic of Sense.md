@@ -1,10 +1,10 @@
 ---
-title: "Logic of Sense"
+title: "logic of sense"
 feed: hide
 tags: book
 ---
 
-_Logique du sens_ is a book by [[Gilles Deleuze]] published in 1969 consisting of 34 series (rather than chapters). Jon Roffe treats it three parts.
+_logique du sens_ is a book by [[deleuze]] published in 1969 consisting of 34 series (rather than chapters). Jon Roffe treats it three parts.
 
 # The Event in the World and in Language
 
@@ -40,13 +40,13 @@ Sense is the concept that Deleuze substitutes for correspondence. But sense is p
 
 
 
-He looks at the work of [[Carroll]] in [[Alice in Wonderland]] and [[Through the Looking-Glass]]. In an **event** like Alice growing bigger, there is actually a paradox. You could choose to see her getting bigger with one direction of time or getting smaller in the other. The direction of time is a choice, just as a battle is a win for one side and a loss for the other, depending on perspective. This paradox will demand an extension of language. 
+He looks at the work of [[carroll]] in [[alice in wonderland]] and [[through the looking-glass]]. In an **event** like Alice growing bigger, there is actually a paradox. You could choose to see her getting bigger with one direction of time or getting smaller in the other. The direction of time is a choice, just as a battle is a win for one side and a loss for the other, depending on perspective. This paradox will demand an extension of language. 
 
 A linguistic claim or proposition has three dimensions which require a fourth.
 
 
 
-If that were it, we'd still be in the dogmatic image of thought. Deleuze wants to talk about the sense of the proposition. The [[Stoic]]s discovered it along with the event. Sense is where language and the world meet. The boundary between propositions and things. The sense is the expressed of the proposition and the attribute of the state of affairs. When substance is expressed in its attributes and modes, it inheres in them. 
+If that were it, we'd still be in the dogmatic image of thought. Deleuze wants to talk about the sense of the proposition. The [[stoic]]s discovered it along with the event. Sense is where language and the world meet. The boundary between propositions and things. The sense is the expressed of the proposition and the attribute of the state of affairs. When substance is expressed in its attributes and modes, it inheres in them. 
 
 The event subsists in language, but happens to things by means of verbs in the infinitive form. 
 
@@ -55,13 +55,13 @@ The event subsists in language, but happens to things by means of verbs in the i
 > To green, to be a stickup, is to orient bodies in certain ways, to create new lines of engagement among things, to cut a trajectory through the world, a trajectory in which both oneself and the world are affected. It is not a matter of representation but of an event that occurs both within and through language, at its point of intersection with the world.  -- Todd May
 
 
-This goes back to Saussurean linguistics, in which language depends on difference. So being is difference and language is a system of differences. "To speak, then, is to bring two series of differences into contact: being and language." Nonsense like in [[Carroll]] points to something essential about language. "It is only because there can be paradoxical elements that both bringing language and world together and keep them separate that there can be linguistic meaning at all." Sense is produced by nonsense; names are both signifying and signified. Deleuze says, "In short, sense is always an effect. Is it not an effect merely in the causal sense; it is also an effect in the sense of an 'optical effect' or a 'sound effect,' or, even better, a surface effect, a position effect, and a language effect." Sense is incorporeal, it is not inserted into the causal order of material things. To affirm language is to affirm becoming. It is to palpate that in language which is beyond representation.
+This goes back to Saussurean linguistics, in which language depends on difference. So being is difference and language is a system of differences. "To speak, then, is to bring two series of differences into contact: being and language." Nonsense like in [[carroll]] points to something essential about language. "It is only because there can be paradoxical elements that both bringing language and world together and keep them separate that there can be linguistic meaning at all." Sense is produced by nonsense; names are both signifying and signified. Deleuze says, "In short, sense is always an effect. Is it not an effect merely in the causal sense; it is also an effect in the sense of an 'optical effect' or a 'sound effect,' or, even better, a surface effect, a position effect, and a language effect." Sense is incorporeal, it is not inserted into the causal order of material things. To affirm language is to affirm becoming. It is to palpate that in language which is beyond representation.
 
 Learning consists in abandoning bad habits, then conjugating our thoughts thoughts and our world, our thought and our language. 
 
 It's about the relation of events and series. An event runs through a series and is transformed by it. It doesn't have a clear start or end. 
 
-The ideal [[Game]] for Deleuze, drawing on Carroll and [[Borges]] and Mallarme is opposed to the known game in which (quoting from James Williams):
+The ideal [[game]] for Deleuze, drawing on Carroll and [[borges]] and Mallarme is opposed to the known game in which (quoting from James Williams):
 
 1. There is a prior set of categorical rules
 2. The rules determine hypotheses diving chance into gains and losses
@@ -75,4 +75,4 @@ But the ideal one has
 3. Each play is a series as a distribution of singularities, but the set of plays is itself a play of all the singularities.
 4. Such a game is the reality of thought rather than any actual reality. 
 
-The book ends with an appendix on [[Plato]] and [[Lucretius]] and [[Simulacrum]]. 
+The book ends with an appendix on [[plato]] and [[lucretius]] and [[simulacrum]]. 

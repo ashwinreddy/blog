@@ -1,7 +1,7 @@
 ---
-title: "Samuel Johnson"
+title: "samuel johnson"
 feed: hide
 tags: writer
 ---
 
-Samuel Johnson was an English writer. His _London_ is an imitation of [[Juvenal]]. He also produced an edition of [[Shakespeare]]. 
+samuel johnson was an English writer. his _london_ is an imitation of [[juvenal]]. he also produced an edition of [[shakespeare]]. 

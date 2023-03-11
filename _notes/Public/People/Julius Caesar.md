@@ -1,10 +1,6 @@
 ---
-title: "Julius Caesar"
+title: "julius caesar"
 feed: hide
 ---
 
-Julius Caesar was a Roman general. 
-
-
-
-He was influenced by [[Alexander the Great]]. 
+julius caesar was a roman general. he was influenced by [[alexander the great]]. 

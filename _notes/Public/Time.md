@@ -1,10 +1,10 @@
 ---
-title: "Time"
+title: "time"
 feed: hide
 ---
 
-Time lays out a sequence of [[Event]]s. 
+time lays out a sequence of [[event]]s. 
 
-The physicist, like [[Newton]], looks at time through the [[Metaphor]] of [[Space]].
+The physicist, like [[isaac newton]], looks at time through the [[metaphor]] of [[Space]].
 
-The account of time in [[Phenomenology]] is different from that of [[Bergson]] (by extension, [[Gilles Deleuze]]). 
+The account of time in [[phenomenology]] is different from that of [[bergson]] (by extension, [[deleuze]]). 

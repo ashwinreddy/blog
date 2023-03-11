@@ -1,6 +1,6 @@
 ---
-title: "Berkeley"
+title: "berkeley"
 feed: hide
 ---
 
-George Berkeley (1685-1753) was an idealist. 
+george berkeley (1685-1753) was an idealist. 

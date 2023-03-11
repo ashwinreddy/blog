@@ -1,7 +1,7 @@
 ---
-title: "Paradigm"
+title: "paradigm"
 feed: hide
 tags: concept
 ---
 
-Paradigm is an idea from Thomas Kuhn about [[Science]]. TODO
+paradigm is an idea from thomas kuhn about [[science]]. 

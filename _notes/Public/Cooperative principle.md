@@ -1,9 +1,9 @@
 ---
-title: "Cooperative principle"
+title: "cooperative principle"
 feed: hide
 ---
 
-The cooperative principle (Grice's maxims) in [[Pragmatics]] is the set of assumptions or directives which undergird [[Conversation]] as an activity of [[Cooperation]].  
+The cooperative principle (Grice's maxims) in [[pragmatics]] is the set of assumptions or directives which undergird [[conversation]] as an activity of [[cooperation]].  
 
 1. Be informative.
 2. Be truthful.

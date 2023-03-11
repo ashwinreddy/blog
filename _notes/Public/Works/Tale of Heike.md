@@ -4,4 +4,4 @@ feed: hide
 tags: book
 ---
 
-Tale of Heike is a Japanese [[Epic poem]] like the [[Iliad]] with [[Buddhism]]. 
+_the tale of heike_ is a japanese [[epic poem]]. it has themes from [[buddhism]]. 

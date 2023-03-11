@@ -1,6 +1,6 @@
 ---
-title: "Affirmation"
+title: "affirmation"
 feed: hide
 ---
 
-Affirmation for [[Nietzsche]] and [[Gilles Deleuze]]. 
+Affirmation for [[nietzsche]] and [[deleuze]]. 

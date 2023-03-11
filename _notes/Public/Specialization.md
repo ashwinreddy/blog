@@ -1,5 +1,5 @@
 ---
-title: "Specialization"
+title: "specialization"
 feed: hide
 ---
 

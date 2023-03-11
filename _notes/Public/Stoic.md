@@ -1,19 +1,19 @@
 ---
-title: "Stoic"
+title: "stoic"
 feed: show
 ---
 
-A Stoic is one who practices Stoicism, the [[Hellenistic philosophy]] founded by Zeno of Citium (c. 335-252 BC) who studied with [[Plato]]'s successors at the Academy in Athens. Zeno taught at the _stoa_, meaning portico or porch. He was succeeded by Cleanthes, then Chrysippus. Only later on do we hear the more famous names of Musonius Rufus, [[Epictetus]], [[Seneca]], Marcus Aurelius. [[Cicero]], though not a Stoic himself, was familiar enough with the school to write _Paradoxa Stoicorum_. 
+a stoic practices stoicism, the [[hellenistic philosophy]] founded by zeno of citium (c. 335-252 bc) who studied with [[plato]]'s successors at the academy in athens. zeno taught at the _stoa_, meaning portico or porch and was succeeded by cleanthes, then chrysippus. only later on do we hear the more famous names of musonius rufus, [[epictetus]], [[seneca]], Marcus Aurelius. [[cicero]], though not a Stoic himself, was familiar enough with the school to write _Paradoxa Stoicorum_. 
 
-Stoicism builds from [[Socrates]]' thought. In particular,
-1. There is such a thing as _eudaimonia_.
-2. Goodness of a thing is measured by its contribution to _eudaimonia_.
-3. _Eudaimonia_ is mostly about the soul, not the body or material wealth.
-4. In particular, virtue matters the most.
-5. The virtues are courage, justice, temperance, and wisdom.
-6. There is a structured study of virtue.
+stoicism builds from [[socrates]]' thought. In particular,
+1. there is such a thing as _eudaimonia_.
+2. goodness of a thing is measured by its contribution to _eudaimonia_.
+3. _eudaimonia_ is mostly about the soul, not the body or material wealth.
+4. in particular, virtue matters the most.
+5. the virtues are courage, justice, temperance, and wisdom.
+6. there is a structured study of virtue.
 
-The other popular and rival school of philosophy was [[Epicureanism]]. For the Stoics, happiness consists in following nature, which will make us virtuous ([[Nietzsche]] will question this idea later). The Stoics had a model of the perfect behavior in the Stoic sage. Strangely, the Stoics believed all vices are equally bad (Cicero writes about this). Whatever the Sage does would by definition, be good, but if a non-Sage does it, we can't say the same. 
+the other popular and rival school of philosophy was [[epicureanism]]. For the Stoics, happiness consists in following nature, which will make us virtuous ([[nietzsche]] will question this idea later). The Stoics had a model of the perfect behavior in the Stoic sage. Strangely, the Stoics believed all vices are equally bad (Cicero writes about this). Whatever the Sage does would by definition, be good, but if a non-Sage does it, we can't say the same. 
 
 The Sage can live life more or less like a normal person. The difference is that they are indifferent to pleasure or pain. Instead of desire or fear, there is the selection of a promoted or disselection of a demoted. 
 
@@ -29,8 +29,8 @@ Impulses can also be true or false, and, as you might expect, _kataleptic_. The 
 
 > Virtue is an unshakeable and consistent disposition to assent only to katalpetic impulsive impressions.
 
-The Stoics believed in the model of life as a [[Game]]. 
+the stoics believed in the model of life as a [[game]]. 
 
 They believed the nature of the cosmos is determined by Zeus/Fate/Reason.
 
-Stoicism definitely believes in [[Logos]] and [[Rationality]]. 
+stoicism definitely believes in [[logos]] and [[rationality]]. 

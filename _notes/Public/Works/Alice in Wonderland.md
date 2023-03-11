@@ -1,8 +1,8 @@
 ---
-title: "Alice in Wonderland"
+title: "alice in wonderland"
 feed: hide
 tags:
 - book
 ---
 
-_Alice in Wonderland_ is an English [[Novel]] about [[Play]] written by [[Carroll]]. 
+_alice in wonderland_ is an english [[novel]] about [[play]] written by [[carroll]]. 

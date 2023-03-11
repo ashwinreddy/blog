@@ -1,5 +1,5 @@
 ---
-title: "Mysticism"
+title: "mysticism"
 feed: hide
 ---
 

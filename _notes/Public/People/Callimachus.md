@@ -1,7 +1,7 @@
 ---
-title: "Callimachus"
+title: "callimachus"
 feed: hide
 tags: writer
 ---
 
-Callimachus was a Greek poet and scholar in the Alexandrian [[Library]]. 
+callimachus was a greek poet and scholar in the alexandrian [[library]]. 

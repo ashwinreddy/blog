@@ -1,7 +1,7 @@
 ---
-title: "Homer"
+title: "homer"
 feed: hide
 tags: writer
 ---
 
-Homer was the blind bard who authored [[Iliad]] and [[Odyssey]]. 
+homer was the blind bard who authored [[iliad]] and [[odyssey]]. 

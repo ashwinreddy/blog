@@ -1,6 +1,6 @@
 ---
-title: "Jesus"
+title: "jesus"
 feed: hide
 ---
 
-Jesus was a [[Human]] who is also the son of [[God]] in [[Christianity]]. 
+jesus was a [[human]] who is also the son of [[god]] in [[christianity]]. 

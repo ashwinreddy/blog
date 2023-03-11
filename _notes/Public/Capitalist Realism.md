@@ -1,6 +1,6 @@
 ---
-title: "Capitalist Realism"
+title: "capitalist realism"
 feed: hide
 ---
 
-Capitalist realism is about counteracting [[Capitalism]] with a call to [[Creativity]]. It's an idea by Mark Fisher with influences from [[Zizek]] and perhaps [[Gilles Deleuze]]. 
+capitalist realism is about counteracting [[capitalism]] with a call to [[creativity]]. It's an idea by Mark Fisher with influences from [[zizek]] and perhaps [[deleuze]]. 

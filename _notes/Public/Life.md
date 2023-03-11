@@ -1,5 +1,0 @@
----
-title: "Life"
-feed: hide
----
-

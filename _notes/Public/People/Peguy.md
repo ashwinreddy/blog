@@ -1,5 +1,5 @@
 ---
-title: "Peguy"
+title: "peguy"
 feed: hide
 ---
 

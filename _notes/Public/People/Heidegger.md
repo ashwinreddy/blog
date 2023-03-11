@@ -1,12 +1,12 @@
 ---
-title: "Heidegger"
+title: "heidegger"
 feed: hide
 tags:
 - philosopher
 ---
 
-Martin Heidegger (1889-1976) was a philosopher from Germany who did work in [[Phenomenology]] and being. His major work is _[[Sein und Zeit]]_. He began in a seminary, but then became a student of Husserl. By way of biography, he was a Nazi supporter, and he was involved in an affair with [[Arendt]]. 
+martin heidegger (1889-1976) was a philosopher from germany who did work in [[phenomenology]] and being. his major work is _[[sein und zeit]]_. he began in a seminary, but then became a student of [[husserl]]. By way of biography, he was a nazi supporter, and he was involved in an affair with [[hannah arendt]]. 
 
-His thesis was on [[Duns Scotus]]. 
+His thesis was on [[duns scotus]]. 
 
-He also writes about [[Technology]], [[Language]], [[Art]], [[Poem]]. He is influenced by [[Aristotle]], [[Nietzsche]], [[Kierkegaard]], [[Kant]]. He uses a lot of Greek and German words.
+He also writes about [[technology]], [[language]], [[art]], [[poem]]. He is influenced by [[aristotle]], [[nietzsche]], [[kierkegaard]], [[kant]]. He uses a lot of [[greek]] and german words.

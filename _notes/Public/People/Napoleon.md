@@ -1,6 +1,6 @@
 ---
-title: "Napoleon"
+title: "napoleon"
 feed: hide
 ---
 
-Napoleon was the French emperor after the [[French Revolution]]. He was influenced by [[Julius Caesar]] and [[Alexander the Great]]. There's an interesting question to be asked about his connection to the [[Enlightenment]]. [Apparently](https://shannonselin.com/2015/02/napoleon-like-read/ ), he liked to read [[Plutarch]] and [[Goethe]] and [[Homer]], etc. 
+napoleon was the French emperor after the [[french revolution]]. He was influenced by [[julius caesar]] and [[alexander the great]]. There's an interesting question to be asked about his connection to the [[enlightenment]]. [Apparently](https://shannonselin.com/2015/02/napoleon-like-read/ ), he liked to read [[plutarch]] and [[goethe]] and [[homer]], etc. 

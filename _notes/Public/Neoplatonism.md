@@ -1,6 +1,6 @@
 ---
-title: "Neoplatonism"
+title: "neoplatonism"
 feed: hide
 ---
 
-Neoplatonism is a school of thought reviving [[Platonism]]. 
+neoplatonism is a school of thought reviving [[platonism]]. 

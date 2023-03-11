@@ -1,29 +1,29 @@
 ---
-title: "Thomas Jefferson"
+title: "thomas jefferson"
 feed: hide
 tags: writer
 ---
 
-Thomas Jefferson was an American statesman and scholar, well-read in the [[Classics]]. He wrote the Declaration of Independence. 
+thomas jefferson was an american statesman and scholar, well-read in the [[classics]]. He wrote the declaration of independence. 
 
-Jefferson's [[Library]] was organized into Reason ([[Philosophy]]), Memory ([[History]]), and Imagination (Fine Arts), following [[Bacon]]. 
+Jefferson's [[library]] was organized into Reason ([[philosophy]]), Memory ([[history]]), and Imagination (Fine Arts), following [[francis bacon]]. 
 
 TODO
 
 Jefferson's recommended readings.
 
-- [[Plato]]
-- [[Cicero]]
-- [[Seneca]]
-- [[De rerum natura]]
-- [[Hume]]
+- [[plato]]
+- [[cicero]]
+- [[seneca]]
+- [[de rerum natura]]
+- [[hume]]
 - Voltaire
-- [[Ovid]]
-- [[Aristotle]]
-- [[Augustine]]
-- [[Homer]]
-- [[Virgil]]
-- [[Milton]]
-- [[Horace]]
-- [[Jonathan Swift]]
-- [[Alexander Pope]]
+- [[ovid]]
+- [[aristotle]]
+- [[augustine]]
+- [[homer]]
+- [[virgil]]
+- [[john milton]]
+- [[horace]]
+- [[jonathan swift]]
+- [[alexander pope]]

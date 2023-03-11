@@ -1,7 +1,7 @@
 ---
-title: "Capitalism and Schizophrenia"
+title: "capitalism and schizophrenia"
 feed: hide
 tags: book
 ---
 
-_Capitalisme et Schizophrénie_ is a two-volume work in [[French]] by [[Gilles Deleuze]] and [[Guattari]]. It consists of [[Anti-Oedipus]] and [[A Thousand Plateaus]]. 
+_capitalisme et schizophrénie_ is a two-volume work by [[deleuze]] and [[guattari]]. it consists of [[anti-oedipus]] and [[a thousand plateaus]]. 

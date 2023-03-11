@@ -1,6 +1,6 @@
 ---
-title: "Film"
+title: "film"
 feed: hide
 ---
 
-Film is a visual, [[Time]]-shifting [[Medium]] of [[Art]] and [[Literature]]. It can include [[Music]]. 
+film is a visual, [[time]]-shifting [[medium]] of [[art]] and [[literature]]. It can include [[Music]]. 

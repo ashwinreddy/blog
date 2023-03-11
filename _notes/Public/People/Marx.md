@@ -1,8 +1,8 @@
 ---
-title: "Marx"
+title: "marx"
 feed: hide
 tags:
 - philosopher
 ---
 
-Karl Marx was influenced by [[Hegel]] and [[Kant]], apparently. His view of [[Marxism]] was influential. 
+karl marx was an economist and philosopher influenced by [[hegel]].

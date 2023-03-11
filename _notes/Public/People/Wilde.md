@@ -1,6 +1,6 @@
 ---
-title: "Wilde"
+title: "wilde"
 feed: hide
 ---
 
-Oscar Wilde was a poet, playwright, and novelist, trained in the [[Classics]]. 
+Oscar Wilde was a poet, playwright, and novelist, trained in the [[classics]]. 

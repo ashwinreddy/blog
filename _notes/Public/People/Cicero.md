@@ -4,6 +4,6 @@ feed: hide
 tags: writer
 ---
 
-Cicero was a Roman lawyer, scholar, politician, statesman. He was familiar with [[Hellenistic philosophy]] but was an academic skeptic himself.
+cicero was a roman lawyer, scholar, politician, statesman. He was familiar with [[hellenistic philosophy]] but was an academic skeptic himself.
 
-He wrote _Paradoxa stoicorum_ about [[Paradox]]es of the [[Stoic]].
+he wrote _paradoxa stoicorum_ about [[paradox]]es of the [[stoic]].

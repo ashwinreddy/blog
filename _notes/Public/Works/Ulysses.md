@@ -1,7 +1,7 @@
 ---
-title: "Ulysses"
+title: "ulysses"
 feed: hide
 tags: book
 ---
 
-_Ulysses_ is a [[novel]] written to follow the [[Odyssey]] (which makes [[James Joyce]] like [[Homer]])
+_ulysses_ is a [[novel]] by [[james joyce]]. 

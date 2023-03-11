@@ -1,6 +1,6 @@
 ---
-title: "System"
+title: "system"
 feed: hide
 ---
 
-A system is a set of objects connected in [[Space]] or [[Time]]. 
+a system is a set of objects connected in [[Space]] or [[time]]. 

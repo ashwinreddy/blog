@@ -1,5 +1,5 @@
 ---
-title: "Sartre"
+title: "sartre"
 feed: hide
 tags:
 - philosopher
@@ -7,8 +7,8 @@ tags:
 
 > Existence precedes essence. -- Sartre
 
-Jean-Paul Sartre (1905-80) was a philosopher from France who worked on [[Existentialism]]. His work _Being and Nothingness_ is seen as a misreading of [[Sein und Zeit]]. 
+jean-paul sartre (1905-80) was a philosopher from france who worked on [[existentialism]]. his work _being and nothingness_ is seen as a brilliant misreading of [[sein und zeit]]. 
 
 ## Reading list
 
-* The novel _[Grendel](https://en.wikipedia.org/wiki/Grendel_(novel))_ apparently embodies Sartre's thought through the eponymous character.
+* the novel _[grendel](https://en.wikipedia.org/wiki/Grendel_(novel))_ apparently embodies sartre's thought through the eponymous character.

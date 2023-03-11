@@ -1,6 +1,6 @@
 ---
-title: "Evolution"
+title: "evolution"
 feed: hide
 ---
 
-Evolution is a theory of biology established by [[Darwin]].
+evolution is a theory of biology established by [[charles darwin]].

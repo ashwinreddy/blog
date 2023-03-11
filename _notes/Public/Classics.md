@@ -1,6 +1,6 @@
 ---
-title: "Classics"
+title: "classics"
 feed: hide
 ---
 
-The classics are the study of the Greek and Latin [[Language]]s and culture.
+the classics are the study of greek and [[latin]].

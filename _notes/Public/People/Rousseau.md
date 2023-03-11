@@ -1,5 +1,0 @@
----
-title: "Rousseau"
-feed: hide
----
-

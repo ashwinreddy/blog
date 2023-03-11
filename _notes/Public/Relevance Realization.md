@@ -1,6 +1,6 @@
 ---
-title: "Relevance Realization"
+title: "relevance realization"
 feed: hide
 ---
 
-Relevance Realization is the core theory from [[Vervaeke]]. 
+relevance realization is the core theory from [[vervaeke]]. 

@@ -1,5 +1,5 @@
 ---
-title: "Whitman"
+title: "whitman"
 feed: hide
 ---
 

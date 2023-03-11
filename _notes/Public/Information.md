@@ -1,25 +1,15 @@
 ---
-title: "Information"
-feed: hide
+title: "information"
+feed: show
 tags: concept
 ---
 
-Information. It could be a quality, a quantity, a relation, a modality. But it is certainly a rather abstract idea. 
+information is [[meaningness]] in a signal. It could be a quality, a quantity, a relation, a modality. But it is certainly a rather abstract idea. the information revolution allowed us to quantify information. 
 
+## reading list
 
-
-is [[Meaningness]] in a signal. 
-
-
-The information revolution allowed us to quantify information. 
-
-## Theorists
-
-- [[Shannon]]
-- [[Gilles Deleuze]]
+- [[claude shannon]]
+- [[deleuze]] (v. see chapter called deleuze contra cybernetics)
 - Fisher
-- [[Cybernetics]]
-
-## Reading List
-
+- [[cybernetics]]
 * James Gleick's _Information_

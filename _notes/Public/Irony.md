@@ -1,6 +1,6 @@
 ---
-title: "Irony"
+title: "irony"
 feed: hide
 ---
 
-Irony is a [[literary device]] wherein one says something they don't mean. 
+irony is a [[literary device]] wherein one says something they don't mean. 

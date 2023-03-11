@@ -1,8 +1,8 @@
 ---
-title: "Epicurus"
+title: "epicurus"
 feed: hide
 tags:
 - philosopher
 ---
 
-Epicurus was a philosopher from [[Greece]]. 
+epicurus was a philosopher from [[Greece]]. 

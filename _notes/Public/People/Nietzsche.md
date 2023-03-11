@@ -1,26 +1,26 @@
 ---
-title: "Nietzsche"
+title: "nietzsche"
 feed: hide
 tags:
 - philosopher
 ---
 
-Friedrich Wilhelm Nietzsche (1844-1900) was a philosopher from Germany. In 1869, at the age of 24, he became a professor. His first book was _The Birth of Tragedy_, published in 1872, about Greek tragedies. In _Beyond Good and Evil_ (1886), Nietzsche points out that philosophers have assumed an equality between Truth and the Good. He developed a kind of proto-[[Existentialism]] and [[Process philosophy]] by attacking [[Christianity]]. 
+friedrich wilhelm nietzsche (1844-1900) was a philosopher from germany. in 1869, at the age of 24, he became a professor. his first book was _The Birth of Tragedy_, published in 1872, about greek tragedies. In _[[beyond good and evil]]_ (1886), nietzsche points out that philosophers have assumed an equality between truth and the good. he developed a kind of proto-[[existentialism]] and [[process philosophy]] by attacking [[christianity]]. 
 
-[[Gilles Deleuze]] sees Nietzsche's project as introducing sense and value into philosophy. Nietzsche sees himself as the "first tragic philosopher" and tries to go back to pre-Socratics like Heraclitus. He is opposed to decadence and _ressentiment_. 
+[[deleuze]] sees nietzsche's project as introducing sense and value into philosophy. nietzsche sees himself as the "first tragic philosopher" and tries to go back to pre-socratics like [[heraclitus]]. He is opposed to decadence and _ressentiment_. 
 
-In _On the Genealogy of Morality_ and _The Will to Power_, Nietzsche develops the idea of active and reactive forces. 
+In _[[genealogy of morals]]_ and _[[will to power]]_, nietzsche develops the idea of active and reactive forces. 
 
-Nietzsche sees [[Play]] as cosmic.
+nietzsche sees [[play]] as cosmic.
 
 He was (somewhat unfairly) connected to Nazism. 
 
-He said [[God]] is dead. 
+He said [[god]] is dead. 
 
-Nietzsche was planning to write a book called [[Homer]]'s Contest (_Homers Wettkampf_)
+nietzsche was planning to write a book called [[homer]]'s Contest (_homers wettkampf_)
 
 ## Influences
 
-- [[Schopenhauer]]
-- [[Emerson]]
-- He said [[Dostoevsky]] was the only novelist that would understand him, or something to that effect. 
+- [[schopenhauer]]
+- [[emerson]]
+- He said [[dostoevsky]] was the only novelist that would understand him, or something to that effect. 

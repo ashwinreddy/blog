@@ -1,5 +1,5 @@
 ---
-title: "Buddha"
+title: "buddha"
 feed: hide
 ---
 

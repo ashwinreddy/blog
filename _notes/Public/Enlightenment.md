@@ -1,12 +1,12 @@
 ---
-title: "Enlightenment"
+title: "enlightenment"
 feed: hide
 ---
 
-The Enlightenment was a progressive [[Event]] of [[Rationality]] and [[Intelligence]] and Humanism in Europe driven by
+the enlightenment was a progressive [[event]] of [[rationality]] and [[Intelligence]] and Humanism in Europe driven by
 
-- [[Descartes]]
-- [[Leibniz]]
-- [[Spinoza]]
-- [[Hume]]
-- [[Kant]]
+- [[descartes]]
+- [[leibniz]]
+- [[spinoza]]
+- [[hume]]
+- [[kant]]

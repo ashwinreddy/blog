@@ -1,16 +1,16 @@
 ---
-title: "Hamlet"
+title: "hamlet"
 tags: book
 feed: show
 ---
 
-_The Tragedy of Hamlet, Prince of Denmark_ is an English [[Tragedy]] by [[Shakespeare]]. One of his longest and most complex plays, it has been an enduring staple of English [[Literature]] and [[Literary criticism]]. The critic Harold Bloom calls the play "Poem Unlimited," a phrase which comes from Polonius, a character in the play.
+_the tragedy of hamlet, prince of denmark_ is an english [[tragedy]] by [[shakespeare]]. one of his longest and most complex plays, it has been an enduring staple of english [[literature]] and [[literary criticism]]. the critic harold bloom calls the play "poem unlimited," a phrase of polonius.
 
-_Hamlet_ is a story about a troubled family. The father, king Hamlet, has mysteriously died, leaving uncle Claudius to take the throne and marry the mother Gertrude. The son, prince Hamlet, has a clear call to action here. But what makes Hamlet interesting and frustrating is his inability to act: his intellect, his seeming awareness that he is in a play, his self-reflexivity all get in the way. He may be the first modern individual.
+_hamlet_ is a story about a troubled family. the father, king hamlet, has mysteriously died, leaving uncle claudius to take the throne and marry the mother gertrude. The son, prince hamlet, has a clear call to action here. but what makes Hamlet interesting and frustrating is his inability to act: his intellect, his seeming awareness that he is in a play, his self-reflexivity all get in the way. he may be the first modern individual.
 
-To avoid detection by Claudius, Hamlet also pretends to be mad. It is a perennial question whether Hamlet is indeed mad or only putting on an act. In Saxo Grammaticus's _[[Gesta Danorum]]_, which contains the basic story of Amleth (his original name), Hamlet's madness is only an act. Incidentally, _[The Northman](https://www.imdb.com/title/tt11138512/)_ is a sibling work to _Hamlet_ because it derives from that book.
+to avoid detection by claudius, hamlet also pretends to be mad. it is a perennial question whether hamlet is indeed mad or only putting on an act. In _[[gesta danorum]]_, which contains the basic story of amleth (his original name), hamlet's madness is only an act. incidentally, _[the northman](https://www.imdb.com/title/tt11138512/)_ is a sibling work to _hamlet_ because it derives from that book.
 
-There's influence of the [[Stoic]]s and a good dose of [[Existentialism]] in it as well as connections to the Protestant Reformation in it (see [[Technologies of the Self]]). 
+there's influence of the [[stoic]]s and a good dose of [[existentialism]] in it as well as connections to the Protestant Reformation in it (see [[technologies of the self]]). 
 
 ## Sources
 

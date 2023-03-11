@@ -1,6 +1,6 @@
 ---
-title: "Albert Camus"
+title: "albert camus"
 feed: hide
 ---
 
-Albert Camus was a writer and philosopher from Algeria. He wrote _Le Mythe de Sisyphe_, an essay about [[Absurdism]] influenced by [[Nietzsche]], [[Kierkegaard]], etc.
+albert camus was a writer and philosopher from algeria. He wrote _le mythe de sisyphe_, an essay about [[Absurdism]] influenced by [[nietzsche]], [[kierkegaard]], etc.

@@ -1,11 +1,11 @@
 ---
-title: "Classic"
+title: "classic"
 feed: hide
 ---
 
-A classic is a work of [[Art]] (e.g. a [[Book]]) that belongs to a [[Canon]]. A classic is revealed by age, esteem, effect, and complexity.
+a classic is a work of [[art]] (e.g. a [[book]]) that belongs to a [[canon]]. A classic is revealed by age, esteem, effect, and complexity.
 
-## Brenzel
+## brenzel
 
   
 |Criterion/Desideratum|Benefit|
@@ -16,7 +16,7 @@ A classic is a work of [[Art]] (e.g. a [[Book]]) that belongs to a [[Canon]]. A 
 |Respected by experts|Not necessarily a sign of correctness, rather it indicates there is knowledge in this book you should know because it captures what people were thinking at the time.|
 |Challenging yet rewarding|A classic will reward you for even a minimal amout of time put in, and it will force you to improve your reading skills.|
 
-## Calvino
+## calvino
 
 In _Why Read the Classics?_ Calvino provides a few definitions. 
 
@@ -35,13 +35,13 @@ In _Why Read the Classics?_ Calvino provides a few definitions.
 13.  A classic is a work which relegates the noise of the present to a background hum, which at the same time the classics cannot exist without.
 14.  A classic is a work which persists as a background noise even when a present that is totally incompatible with it holds sway.
 
-Notice that a recurring theme is how people come back to a classic because it supplies them endlessly renewable (pointing at an evolving [[Transformative Experience]]). 
+Notice that a recurring theme is how people come back to a classic because it supplies them endlessly renewable (pointing at an evolving [[transformative experience]]). 
 
-## Eliot
+## eliot
 
-In "What is a Classic?" addressed to the [[Virgil]] society in 1944, [[T.S. Eliot]] says that Virgil is obviously a classical poet. But, he says, a classic can be only be known in hindsight. For him, 'classic' means maturity. There is the universal classic and the classic in its [[Language]] or in its [[Time]]. 
+In "What is a Classic?" addressed to the [[virgil]] society in 1944, [[t.s. eliot]] says that Virgil is obviously a classical poet. But, he says, a classic can be only be known in hindsight. For him, 'classic' means maturity. There is the universal classic and the classic in its [[language]] or in its [[time]]. 
 
-> A classic can only occur when a civilisation is mature; when a language and a [[Literature]] are mature; and it must be the work of a mature mind. 
+> A classic can only occur when a civilisation is mature; when a language and a [[literature]] are mature; and it must be the work of a mature mind. 
 
 And he continues:
 

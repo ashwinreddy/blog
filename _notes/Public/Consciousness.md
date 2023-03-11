@@ -1,13 +1,13 @@
 ---
-title: "Consciousness"
+title: "consciousness"
 feed: hide
 ---
 
-Consciousness
+consciousness
 
-- [[Human]]
-- [[Free Will]]
-- [[Habit]]
-- [[Meditation]]
+- [[human]]
+- [[free will]]
+- [[habit]]
+- [[meditation]]
 
 [The Politics of Consciousness](https://www.youtube.com/watch?v=1rtS2OEV6bM)

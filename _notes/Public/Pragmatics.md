@@ -1,6 +1,6 @@
 ---
-title: "Pragmatics"
+title: "pragmatics"
 feed: hide
 ---
 
-Pragmatics is a field of linguistics that looks at [[Cooperation]] in [[Language]] ([[Pragmatism]]). 
+pragmatics is a field of linguistics that looks at [[cooperation]] in [[language]] ([[pragmatism]]). 

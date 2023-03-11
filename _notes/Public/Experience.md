@@ -1,6 +1,6 @@
 ---
-title: "Experience"
+title: "experience"
 feed: hide
 ---
 
-Experience [[Consciousness]]. 
+experience is related to [[consciousness]]. 

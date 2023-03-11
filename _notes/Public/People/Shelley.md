@@ -1,6 +1,6 @@
 ---
-title: "Shelley"
+title: "shelley"
 feed: hide
 ---
 
-Shelley was a poet who belongs to the school of [[Skepticism]]. 
+percy bysshe shelley was a writer of [[poem]]s who belongs to the school of [[skepticism]]. 

@@ -1,19 +1,29 @@
 ---
-title: "Aeneid"
+title: "aeneid"
 feed: hide
 tags:
 - book
 ---
 
-The _Aeneid_ is a Latin [[Epic poem]] written by [[Virgil]] telling the founding [[Myth]] of Rome by the Trojan prince Aeneas. When the ploy of the Trojan horse succeeds and the Greeks set fire to the city, Aeneas flees with his father Anchises and son Ascanius, also known as Iulus. In the first half of the poem, Aeneas and his crew find their way to Italy, similar to the _[[Odyssey]]_. In the second half, he prepares for war with the Latins, similar to the _[[Iliad]]_. If the _Iliad_ is about the wrath of Achilles and the _Odyssey_ the cunning of Odysseus, the _Aeneid_ is about the piety of Aeneas.
+the _aeneid_ is a [[epic poem]] written by [[virgil]] in [[latin]] telling the founding [[myth]] of rome by the trojan prince aeneas. when the ploy of the trojan horse succeeds and the greeks set fire to the city, aeneas flees with his father anchises and son ascanius, also known as iulus. in the first half of the poem, aeneas and his crew find their way to italy, similar to the _[[odyssey]]_. In the second half, he prepares for war with the latins, similar to the _[[iliad]]_. If the _iliad_ is about the wrath of achilles and the _odyssey_ the cunning of odysseus, the _aeneid_ is about the piety of aeneas.
 
-Book 1 opens with the invocation to the muse and introduces Juno as a kind of antagonist. 
+## book 1
 
-[This site](https://aeneid.co/) seems helpful.
+- invocation to the muse
+- introduce juno as antagonist
+- juno asks aeolus to use the winds against aeneas
+- neptune calms the storm
+- _forsan haec olim meminisse iuvabit_
 
-## Reading list
+## book 2
 
-* Lavinia, Ursula K LeGuin
+* aeneas tells the story of troy's fall
 
+## book 4
 
----
+* dido speaks to anna
+* juno speaks to venus
+
+## book 6
+
+* descent into underworld

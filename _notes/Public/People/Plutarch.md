@@ -4,4 +4,4 @@ feed: hide
 tags: writer
 ---
 
-Plutarch was a Greek writer. He was influenced by [[Stoic]]ism. 
+plutarch was a [[greek]] writer. He was influenced by [[stoic]]ism. 

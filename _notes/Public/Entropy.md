@@ -1,6 +1,6 @@
 ---
-title: "Entropy"
-feed: hide
+title: "entropy"
+feed: show
 ---
 
-Entropy is both a measure of [[Information]] and disorder. 
+Entropy is both a measure of [[information]] and disorder. 

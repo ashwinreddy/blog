@@ -1,6 +1,6 @@
 ---
-title: "Goethe"
+title: "goethe"
 feed: hide
 ---
 
-Goethe was a German writer of plays and [[Poem]]s. He was influenced by [[Shakespeare]]. 
+goethe was a writer of plays and [[poem]]s in [[german]]. He was influenced by [[shakespeare]]. 

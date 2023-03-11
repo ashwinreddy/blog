@@ -1,6 +1,6 @@
 ---
-title:"Hermeneutics of suspicion"
+title: "hermeneutics of suspicion"
 feed:hide
 ---
 
-The hermeneutics of suspicion is a concept in [[Literary criticism]] using [[Marx]], [[Freud]], and [[Nietzsche]] by Paul Ricoeur.
+the hermeneutics of suspicion is a concept in [[literary criticism]] using [[marx]], [[freud]], and [[nietzsche]] by paul ricoeur.

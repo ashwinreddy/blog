@@ -1,8 +1,6 @@
 ---
-title: "Brothers Karamazov"
+title: "brothers karamazov"
 feed: hide
 ---
 
-_The Brothers Karamazov_ is a Russian [[Novel]] by [[Dostoevsky]] about [[Existentialism]] and [[Christianity]]. 
-
-It seems to have had a big influence on [[Wittgenstein]] and [[Heidegger]] and [[Peterson]]. 
+_the brothers karamazov_ is a russian [[novel]] by [[dostoevsky]] about [[existentialism]] and [[christianity]]. It seems to have had a big influence on [[wittgenstein]] and [[heidegger]] and [[jordan peterson]]. 

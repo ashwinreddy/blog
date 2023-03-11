@@ -1,6 +1,6 @@
 ---
-title: "Mindfulness"
+title: "mindfulness"
 feed: hide
 ---
 
-[[Vervaeke]] says mindfulness is a practice of [[Attention]] to alter [[Relevance Realization]]. 
+[[vervaeke]] says mindfulness is a practice of [[attention]] to alter [[relevance realization]]. 

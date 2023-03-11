@@ -1,5 +1,5 @@
 ---
-title: "Peirce"
+title: "peirce"
 feed: hide
 ---
 

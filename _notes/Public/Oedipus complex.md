@@ -1,6 +1,6 @@
 ---
-title: "Oedipus complex"
+title: "oedipus complex"
 feed: hide
 ---
 
-The Oedipus complex comes from psychoanalysis of [[Freud]] based on [[Oedipus Rex]]. 
+the oedipus complex comes from psychoanalysis of [[freud]] based on [[oedipus rex]]. 

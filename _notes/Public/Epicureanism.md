@@ -1,6 +1,6 @@
 ---
-title: "Epicureanism"
+title: "epicureanism"
 feed: hide
 ---
 
-Epicureanism is the [[Hellenistic philosophy]] from [[Epicurus]]. It is a rival school to [[Stoic]]. 
+epicureanism is the [[hellenistic philosophy]] from [[epicurus]]. It is a rival school to [[stoic]]. 

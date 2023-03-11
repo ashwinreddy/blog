@@ -1,12 +1,12 @@
 ---
-title: "Nihilism"
+title: "nihilism"
 feed: hide
 ---
 
-Nihilism is the view that nothing matters. 
+nihilism is the view that nothing matters. 
 
-> Nihilism as an “ideology of nothing” would mean not that we adhere to a discernible system of beliefs about nothingness, but rather that the beliefs we have, or think we have, are equivalent to nothing. -- Nolen Gertz
+> nihilism as an “ideology of nothing” would mean not that we adhere to a discernible system of beliefs about nothingness, but rather that the beliefs we have, or think we have, are equivalent to nothing. -- nolen gertz
 
-Gertz says nihilism starts with [[Plato]]'s allegory of the cave, which is the possibility of a completely illusory life. The cave is dangerous. Gertz sees [[Descartes]] as picking up that thread as well, then [[Hume]] who challenges the typical notions of seeing through reality. This brings [[Kant]] into the picture, rescuing knowledge from Hume. [[Nietzsche]] then comes in to diagnose the whole problem. 
+gertz says nihilism starts with [[plato]]'s allegory of the cave, which is the possibility of a completely illusory life. The cave is dangerous. Gertz sees [[descartes]] as picking up that thread as well, then [[hume]] who challenges the typical notions of seeing through reality. This brings [[kant]] into the picture, rescuing knowledge from [[hume]]. [[nietzsche]] then comes in to diagnose the whole problem. 
 
-TODO: [[Gilles Deleuze]] also writes about nihilism.
+TODO: [[deleuze]] also writes about nihilism.

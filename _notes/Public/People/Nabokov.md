@@ -1,16 +1,14 @@
 ---
-title: "Vladimir Nabokov"
+title: "nabokov"
 feed: hide
 tags:
 - writer
 ---
 
-Vladimir Nabokov grew up in Russia speaking Russian, French, and English. He went to Cambridge. 
+vladimir nabokov (1899 - 1977) was a writer of [[novel]]s and [[poem]]s. he grew up in russia speaking russian, [[french]], and [[english]]. he went to cambridge. 
 
-He believes in Individualism, hates [[Fascism]] and Communism. 
+[[play]] was an important part of his life and work, and the book _vladimir nabokov and the art of play_ argues it is his signature idea. 
 
-[[Play]] was an important part of his life and work, and the book _Vladimir Nabokov and the Art of Play_ argues it is his signature idea. 
+he liked chess, boxing, tennis, football, lepidopterology. he wrote translations of [[carroll]]'s novels _[[alice in wonderland]]_ and _[[through the looking-glass]]_.
 
-He liked chess, boxing, tennis, football, lepidopterology. He wrote translations of [[Carroll]]'s novels [[Alice in Wonderland]] and [[Through the Looking-Glass]].
-
-Some of Nabokov's influences include Pushkin, [[Bergson]], [[Borges]], [[Emerson]], Hawthorne, [[Kafka]], [[Melville]], [[Milton]], [[Shakespeare]]. He loves [[Tolstoy]] but has a more difficult relationship with [[Dostoevsky]]. 
+Some of nabokov's influences include pushkin, [[bergson]], [[borges]], [[emerson]], Hawthorne, [[kafka]], [[melville]], [[john milton]], [[shakespeare]]. He loves [[tolstoy]] but has a more difficult relationship with [[dostoevsky]]. 

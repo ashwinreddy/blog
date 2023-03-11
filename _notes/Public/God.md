@@ -1,10 +1,10 @@
 ---
-title: "God"
+title: "god"
 feed: hide
 ---
 
-Definitions and proofs of God may vary.
+definitions and proofs of god vary.
 
-- For [[Aquinas]], God is the uncaused causer, unmoved mover, etc.
-- For [[Descartes]], the guarantor that he sees the truth.
-- For [[Spinoza]], God is _Deus sive natura_. 
+- For [[thomas aquinas]], god is the uncaused causer, unmoved mover, etc.
+- For [[descartes]], the guarantor that he sees the truth.
+- For [[spinoza]], god is _deus sive natura_. 

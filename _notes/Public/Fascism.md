@@ -1,5 +1,5 @@
 ---
-title: "Fascism"
+title: "fascism"
 feed: hide
 ---
 

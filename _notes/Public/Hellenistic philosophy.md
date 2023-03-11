@@ -1,6 +1,6 @@
 ---
-title: "Hellenistic philosophy"
+title: "hellenistic philosophy"
 feed: hide
 ---
 
-Hellenistic philosophy consists in reconstructions of [[Socrates]] in [[Stoic]] and [[Epicureanism]] and [[Aristotle]]. 
+hellenistic philosophy consists in reconstructions of [[socrates]] in [[stoic]] and [[epicureanism]] and [[aristotle]]. 

@@ -1,15 +1,17 @@
 ---
-title: "Philosophy"
+title: "philosophy"
 feed: show
 ---
 
-> Philosophy must constitute itself as a theory of what we are doing, not as a theory of what there is.
+philosophy happens when [[friend]]s of wisdom create [[concept]]s ([[socrates]]; [[deleuze]]) discuss ([[richard rorty]]) how to direct their lives ([[seneca]]) and dispel misconceptions that hinder them ([[wittgenstein]]). A philosopher is not necessarily a [[sage]] but a friend of the sage.
 
-Philosophy happens when friends of wisdom ([[Socrates]]) discuss ([[Rorty]]) and create concepts ([[Gilles Deleuze]]) with which to direct their lives ([[Seneca]]) and dispel misconceptions that hinder them ([[Wittgenstein]]). A philosopher is not necessarily a [[Sage]] but a friend of the sage.
+in [[epistulae morales ad lucilium]] letter 16, seneca writes
 
-In [[Empiricism and Subjectivity]], Deleuze says
+> _Non est philosophia populare artificium nec ostentationi paratum. Non in verbis, sed in rebus est. Nec in hoc adhibetur, ut cum aliqua oblectatione consumatur dies, ut dematur otio nausia. Animum format et fabricat, vitam disponit, actiones regit, agenda et omittenda demonstrat, sedet ad gubernaculum et per ancipitia fluctuantium derigit cursum. Sine hac nemo intrepide potest vivere, nemo secure. Innumerabilia accidunt singulis horis, quae consilium exigant, quod ab hac petendum est._
 
-> A philosophical theory is an elaborately developed question, and nothing else; by itself and in itself, it is not the resolution to a problem, but the elaboration, to the very end, of the necessary implications of a formulated question.
+In [[empiricism and subjectivity]], Deleuze says
+
+> a philosophical theory is an elaborately developed question, and nothing else; by itself and in itself, it is not the resolution to a problem, but the elaboration, to the very end, of the necessary implications of a formulated question.
 
 For him, there are 4 critical responses to philosophy:
 
@@ -22,11 +24,11 @@ For him, there are 4 critical responses to philosophy:
 
 Getting into philosophy is rewarding but difficult. Here are my recommendations for beginners.
 
-1. Start with what's interesting. For me, it was [[Stoic]]ism, esp. Marcus Aurelius. 
+1. Start with what's interesting. For me, it was [[stoic]]ism, esp. Marcus Aurelius. 
 2. Good general background resources are the podcast [Philosophize This](https://www.philosophizethis.org/) and Will Durant's _Story of Philosophy_, which goes through about a dozen big names in the western canon of philosophy.
 3. I'm planning to follow [Susan Rigetti's guide](https://www.susanrigetti.com/philosophy) to flesh out my understanding.
 
-Philosophy comes down to [[Reading]] a lot of the time. How can we read philosophy well?
+Philosophy comes down to [[reading]] a lot of the time. How can we read philosophy well?
 
 Ellie Anderson's [advice](https://www.youtube.com/watch?v=-Pj26s8u6Vo) is to learn from somebody who has expertise. Take a course with an expert or join a reading group. Use vetted resources like Stanford Encyclopedia of Philosophy and Internet Encyclopedia of Philosophy.
 

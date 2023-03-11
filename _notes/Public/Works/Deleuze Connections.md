@@ -1,31 +1,31 @@
 ---
-title: "Deleuze Connections"
+title: "deleuze connections"
 feed: hide
 ---
 
-_Deleuze Connections_ is a book by John Rajchman about [[Gilles Deleuze]].
+_Deleuze Connections_ is a book by John Rajchman about [[deleuze]].
 
 ## Connections
 
-Connections require [[Empiricism]] and [[Pragmatism]]. Connections and [[Assemblage]]s are taken up by thought. Thinking is understood through the connections it opens.
+Connections require [[empiricism]] and [[pragmatism]]. Connections and [[assemblage]]s are taken up by thought. Thinking is understood through the connections it opens.
 
 - The sense prior to code, to fixed subjective positions and relations.
 - A logic of converging and diverging series.
-- The grammar that [[Wittgenstein]] associates with life.
+- The grammar that [[wittgenstein]] associates with life.
 - An uncoded diagram replaces the schematism uniting sensation and cognition.
 - The _agon_ of philosophy. The _philoi_ fight against stupidity, a world without connections.
 - Stupidity is clichés which need to be broken out of by an alienation or cruelty. How to free affect from personal feeling? How to free percept from common perception? How to create a foreign language in our language?
 - Thinking is the problematization of _doxa_. 
 - By the time of _Cinema 2_, Deleuze became interested in the communicational stupidity (the power of "control") from information-machines.
 - Society is always _en fuite_ (leaking, fleeing). _fuites_ = leaks, lines of flight.
-- Deleuze finds the concepts of a zone in which connections can be made in two places: Substance from [[Spinoza]] and Life from [[Nietzsche]].  Spinoza gives him the plan of composition prior to a plan of organization or development. Nietzsche gives him an Earth in [[Deterritorialization]], prior to identities, given through a nomadic relation to borders or boundaries. 
+- Deleuze finds the concepts of a zone in which connections can be made in two places: Substance from [[spinoza]] and Life from [[nietzsche]].  Spinoza gives him the plan of composition prior to a plan of organization or development. Nietzsche gives him an Earth in [[deterritorialization]], prior to identities, given through a nomadic relation to borders or boundaries. 
 - Keep only what increases connections. 
-- Against [[Oedipus Rex]] he puts [[Hamlet]]. Instead of Antigone, Ariadne. 
+- Against [[oedipus rex]] he puts [[hamlet]]. Instead of Antigone, Ariadne. 
 - To connect is to affirm, to affirm is to connect.
 
 ## Experiment
 
-[[Hume]] is the shift from Cartesian certainty to probability. [[Kant]] will enact a reversal. Deleuze will recommend experimentation, starting with difference in [[Bergson]] (essays from 1950s). So philosophy is not then a correction of errors but a turn to what is prior to the subjects and objects in experience or life. Hume says the self is not given but formed through an artifice or fiction of habit. The constructions in experience prior to subjects and objects is the [[Plane of immanence]]. 
+[[hume]] is the shift from Cartesian certainty to probability. [[kant]] will enact a reversal. Deleuze will recommend experimentation, starting with difference in [[bergson]] (essays from 1950s). So philosophy is not then a correction of errors but a turn to what is prior to the subjects and objects in experience or life. Hume says the self is not given but formed through an artifice or fiction of habit. The constructions in experience prior to subjects and objects is the [[plane of immanence]]. 
 
 Deleuze is a pluralist, a radical empiricist a la James. The key is that there's never an organic unity. He is against Schools and their methods (Nietzsche rejected his professorship, Spinoza too)
 

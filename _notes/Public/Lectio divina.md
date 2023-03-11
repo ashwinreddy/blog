@@ -1,13 +1,11 @@
 ---
-title: "Lectio divina"
+title: "lectio divina"
 feed: hide
 ---
 
-_Lectio divina_ (Latin for divine [[reading]]) is a practice of reading that originated in [[Christianity]]. The steps are
+_lectio divina_ ([[latin]] for divine [[reading]]) is a practice of reading that originated in [[christianity]]. the steps are
 
-1. Read
-2. Meditate
-3. Pray
-4. Contemplate
-
-We can trace it back to [[Augustine]]. 
+1. [[reading]]
+2. [[meditation]]
+3. prayer
+4. contemplation

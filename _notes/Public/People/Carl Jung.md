@@ -1,11 +1,11 @@
 ---
-title: "Carl Jung"
+title: "carl jung"
 feed: hide
 ---
 
-Carl Jung was a psychologist. He grew up in [[Christianity]]. He developed a theory of the collective unconscious and archetypes, which relate to [[Myth]] and [[Personality]].  He started with [[Freud]]. 
+carl jung was a psychologist. He grew up in [[christianity]]. He developed a theory of the collective unconscious and archetypes, which relate to [[myth]] and [[personality]].  He started with [[freud]]. 
 
-Vervaeke says Jung needs to be understood as [[Kant]]ian. 
+Vervaeke says Jung needs to be understood as [[kant]]ian. 
 
 ## Reading list
 

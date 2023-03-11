@@ -1,8 +1,8 @@
 ---
-title: "Kierkegaard"
+title: "kierkegaard"
 feed: hide
 tags:
 - philosopher
 ---
 
-Soren Kierkegaard was a Danish Philosopher of [[Christianity]] and [[Existentialism]]. He wrote about [[Socrates]] and [[Irony]]. 
+soren kierkegaard was a danish philosopher of [[christianity]] and [[existentialism]]. he wrote about [[socrates]] and [[irony]]. 

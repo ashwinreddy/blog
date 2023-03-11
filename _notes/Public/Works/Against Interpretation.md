@@ -1,13 +1,13 @@
 ---
-title: "Against Interpretation"
+title: "against interpretation"
 feed: hide
 ---
 
-"Against Interpretation" is an [[Essay]] by Susan Sontag about [[Interpretation]]. 
+"against interpretation" is an [[essay]] by Susan Sontag about [[interpretation]]. 
 
-> By interpretation, I mean here a conscious act of the mind which illustrates a certain code, certain “rules” of interpretation. Directed to [[Art]], interpretation means plucking a set of elements (the X, the Y, the Z, and so forth) from the whole work. The task of interpretation is virtually one of translation. The interpreter says, Look, don’t you see that X is really— or, really means—A? That Y is really B? That Z is really C?
+> By interpretation, I mean here a conscious act of the mind which illustrates a certain code, certain “rules” of interpretation. Directed to [[art]], interpretation means plucking a set of elements (the X, the Y, the Z, and so forth) from the whole work. The task of interpretation is virtually one of translation. The interpreter says, Look, don’t you see that X is really— or, really means—A? That Y is really B? That Z is really C?
 
-However, interpretation can also involve a synthetic act of connecting things together. Sontag claims that interpretation begins around the time of the [[Stoic]]s. 
+However, interpretation can also involve a synthetic act of connecting things together. Sontag claims that interpretation begins around the time of the [[stoic]]s. 
 
 > Interpretation thus presupposes a discrepancy between the clear meaning of the text and the demands of (later) readers. It seeks to resolve that discrepancy. The situation is that for some reason a text has become unacceptable; yet it cannot be discarded. Interpretation is a radical strategy for conserving an old text, which is thought too precious to repudiate, by revamping it. The interpreter, without actually erasing or rewriting the text, is altering it. But he can’t admit to doing this. He claims to be only making it intelligible, by disclosing its true meaning
 

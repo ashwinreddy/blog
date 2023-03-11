@@ -1,0 +1,1 @@
+A **group** is a [[set]] $G$ of objects with addition and multiplication.

@@ -1,10 +1,10 @@
 ---
-title: "What is Philosophy?"
+title: "what is philosophy?"
 feed: hide
 tags: book
 ---
 
-_What is Philosophy?_ is a book by [[Gilles Deleuze]] and Felix [[Guattari]] about [[Philosophy]]. 
+_what is philosophy?_ is a book by [[deleuze]] and [[guattari]]. 
 
 ## Introduction
 
