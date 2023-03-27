@@ -12,7 +12,7 @@ As a result, he attacks Relativism and Postmodernism (which he also associates w
 
 In psychology, Peterson has studied alcohol abuse, [[personality]], and [[myth]]. His influces include [[freud]], [[carl jung]], [[nietzsche]]. He talks about the [[oedipus complex]] a lot. 
 
-One of the questions that drives Peterson is how [[Ideology]] led to [[fascism]] (i.e. [[Nazism]] in Germany) and Communism in Russia. 
+One of the questions that drives Peterson is how [[ideology]] led to [[fascism]] (i.e. [[Nazism]] in Germany) and Communism in Russia. 
 
 He is also interested in responses to relativism, [[nihilism]], and [[existentialism]]. 
 

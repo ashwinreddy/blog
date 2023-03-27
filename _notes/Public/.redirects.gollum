@@ -87,3 +87,16 @@ Statistics/Cramer-Rao inequality.md: Statistics/Cramer-Rao bound.md
 Mathematics/Probability-Theory/Probability distribution.md: Mathematics/Probability-Theory/Probability
   measure.md
 Mathematics/Measure-Theory/Measurable space.md: Mathematics/Measure-Theory/Measure.md
+Mathematics/Probability-Theory/Expected value.md: Mathematics/Probability-Theory/expected
+  value.md
+Mathematics/Set-Theory/Function.md: Mathematics/Set-Theory/function.md
+Mathematics/Set-Theory/Set.md: Mathematics/Set-Theory/set.md
+Mathematics/Probability-Theory/Law of large numbers.md: Mathematics/Probability-Theory/law
+  of large numbers.md
+Statistics/Distributions/Normal distribution.md: Statistics/Distributions/normal distribution.md
+Mathematics/Probability-Theory/Conditional probability.md: Mathematics/Probability-Theory/conditional
+  probability.md
+Mathematics/Calculus of variations/Noether's theorem.md: Mathematics/Calculus of variations/noether's
+  theorem.md
+Mathematics/Calculus/Integral.md: Mathematics/Calculus/iontegral.md
+Mathematics/Calculus/iontegral.md: Mathematics/Calculus/integral.md

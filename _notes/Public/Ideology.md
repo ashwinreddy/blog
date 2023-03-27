@@ -1,5 +1,5 @@
 ---
-title: "Ideology"
+title: "ideology"
 feed: hide
 ---
 

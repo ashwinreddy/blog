@@ -3,6 +3,4 @@ title: "fascism"
 feed: hide
 ---
 
-Fascism is an [[Ideology]]. TODO
-
-Umberto Eco's _Ur-Fascism_
+fascism is an [[ideology]]. [[eco]] wrote an essay called _ur-fascism_.

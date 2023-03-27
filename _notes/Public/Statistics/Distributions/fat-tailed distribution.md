@@ -1,0 +1,1 @@
+a fat-tailed distribution. [[taleb]] uses fat tail to mean much higher kurtosis than [[normal distribution]] or it is a power law distribution, which he argues cannot be disentagled.

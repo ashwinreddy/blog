@@ -1,1 +1,1 @@
-A **dynamical system**
+a dynamical system
