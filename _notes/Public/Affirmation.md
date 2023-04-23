@@ -3,4 +3,4 @@ title: "affirmation"
 feed: hide
 ---
 
-Affirmation for [[nietzsche]] and [[deleuze]]. 
+affirmation is a concept for [[nietzsche]] and [[deleuze]]. 

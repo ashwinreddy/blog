@@ -4,7 +4,7 @@ $$
 A = U\Sigma V^\mathsf{T},
 $$
 
-where $U$ and $V$ are [[Orthogonal matrix]] and $\Sigma$ is a [[Diagonal matrix]]. 
+where $U$ and $V$ are [[orthogonal matrix]] and $\Sigma$ is a [[Diagonal matrix]]. 
 
 $$
 \underbrace{A}\_{m \times n} = \underbrace{U}\_{m \times m}\cdot\underbrace{\Sigma}\_{m \times n}\cdot \underbrace{V^\mathsf{T}}_{n \times n},

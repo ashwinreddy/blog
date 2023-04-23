@@ -5,7 +5,7 @@ tags:
 - book
 ---
 
-_all things shining_ is a book about [[meaningness]], relying on the works of the western [[canon]], written by [[hubert dreyfus]] and sean kelly. They want to combat [[nihilism]] by taking a close look at the great books in literature and philosophy. They point out that in the modern world, we have a lot of uncertainty, too much freedom, all kinds of neuroses (e.g. [[the love song of j. alfred prufrock]]). one solution, obtaining a monomaniacal self-confidence like captain ahab or citizen kane, isn't an effective one. nor is trying to lose ourselves in entertainment, temptations, and hedonism. 
+_all things shining_ is a book by [[hubert dreyfus]] and sean kelly about [[meaningness]], relying on the [[classic]] works from the [[canon]]. they want to combat [[nihilism]] by taking a close look at the great books in literature and philosophy. They point out that in the modern world, we have a lot of uncertainty, too much freedom, all kinds of neuroses (e.g. [[the love song of j. alfred prufrock]]). one solution, obtaining a monomaniacal self-confidence like captain ahab or citizen kane, isn't an effective one. nor is trying to lose ourselves in entertainment, temptations, and hedonism. 
 
 do we have any sense left of what is sacred? is it possible to become the kind of person who could act in a moment of certainty with bravery and heroism? to attain a greatness? how can we live a meaningful life? 
 
@@ -23,7 +23,7 @@ There's a scene in the [[odyssey]], parallel but unlike the scene in which Alice
 
 For Homer, the gods are attuning moods. "Human greatness, for Homer, was to let oneself be attuned to the moods a god set for a situation." And each god has their own domain.
 
-We have neither progressed nor should we have nostalgic regret for that past. In the Oresteia, the gods are now a unity that say what is sensible for each situation. "The drama ... consists in the fact that the old and new accounts of justice are completely opposed." The old gods of revenge and the new gods of universal law. "The Oresteia manifested and focused for all Athenians what they were up to as Athenians. [[heidegger]] calls anything that performs this focusing function a work of art." A work of art is supposed to do the work of disclosing the world, in that world. "A work of art embodies the truth of its world." "To bring out a culture in its best light, we can say, is to _articulate_ the culture." Or they can go further, and transform and reconfigure the culture. 
+We have neither progressed nor should we have nostalgic regret for that past. In the [[oresteia]], the gods are now a unity that say what is sensible for each situation. "The drama ... consists in the fact that the old and new accounts of justice are completely opposed." The old gods of revenge and the new gods of universal law. "The Oresteia manifested and focused for all Athenians what they were up to as Athenians. [[heidegger]] calls anything that performs this focusing function a work of art." A work of art is supposed to do the work of disclosing the world, in that world. "A work of art embodies the truth of its world." "To bring out a culture in its best light, we can say, is to _articulate_ the culture." Or they can go further, and transform and reconfigure the culture. 
 
 [[augustine]] and [[aquinas]] used Greek concepts to understand Christianity, but they didn't work. Paul tries to describe how Christians should live. For the Greeks, humans were at their best being rational and doing [[philosophy]]. 
 

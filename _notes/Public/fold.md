@@ -1,0 +1,1 @@
+folds are important to [[deleuze]] in [[the fold]]. it has to do with [[being]] and [[event]]s. 

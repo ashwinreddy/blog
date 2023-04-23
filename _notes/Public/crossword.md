@@ -1,0 +1,1 @@
+a crossword is a kind of [[game]]. david mckay uses [[information theory]] to think about it. 

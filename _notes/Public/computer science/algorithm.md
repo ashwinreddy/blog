@@ -1,0 +1,1 @@
+an algorithm is a sequence of instructions.

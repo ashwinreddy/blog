@@ -13,3 +13,5 @@ henri bergson (1859-1941) was a french philosopher. he wants to distinguish obje
 * freedom
 
 Influences include [[spinoza]], [[kant]], [[schopenhauer]], [[charles darwin]], [[william james]]
+
+bergson debated [[einstein]]. 

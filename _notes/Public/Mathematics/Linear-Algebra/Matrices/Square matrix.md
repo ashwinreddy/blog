@@ -1,1 +1,1 @@
-A **square matrix** is an $n\times n$ matrix.
+a square matrix is an $n\times n$ [[matrix]].

@@ -1,1 +1,1 @@
-A **probability space** is $(\Omega, \mathcal{F}, P)$ with sample space $X$, $\sigma$-algebra $\mathcal{F}$, and measure $P$ (usually the [[Lebesgue measure]])
+a probability space is a space for doing [[probability]]. $(\Omega, \mathcal{F}, P)$ with sample space $X$, [[sigma-algebra]] $\mathcal{F}$, and measure $P$ (usually the [[lebesgue measure]])

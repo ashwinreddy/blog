@@ -1,1 +1,1 @@
-**Fisher information metric** is a metric on a [[Riemannian manifold]]
+**Fisher information metric** is a metric on a [[public/mathematics/Differential-Geometry/Riemannian manifold]]

@@ -1,0 +1,1 @@
+a graph $G$ is a [[set]] of nodes or vertices $V$ with edges $E$. 

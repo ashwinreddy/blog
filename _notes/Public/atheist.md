@@ -1,0 +1,1 @@
+an atheist does not believe in god. 

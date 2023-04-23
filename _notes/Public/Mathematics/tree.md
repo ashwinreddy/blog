@@ -1,0 +1,1 @@
+a tree is a connected and acyclic [[graph]]. 

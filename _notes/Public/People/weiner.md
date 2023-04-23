@@ -1,0 +1,1 @@
+norbert weiner worked on [[cybernetics]]. he knew [[t.s. eliot]]

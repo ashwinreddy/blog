@@ -1,0 +1,1 @@
+moravec's paradox is about what an [[algorithm]] can do.

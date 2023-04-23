@@ -1,5 +1,5 @@
 ---
-title: "post-structuralism"
+title: "post-structural"
 feed: hide
 ---
 

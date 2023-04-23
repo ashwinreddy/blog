@@ -1,1 +1,1 @@
-A **statistical manifold** is a [[Riemannian manifold]] where points are [[Probability distribution]].
+A **statistical manifold** is a [[public/mathematics/Differential-Geometry/Riemannian manifold]] where points are [[Probability distribution]].

@@ -3,5 +3,4 @@ title: "game"
 feed: hide
 ---
 
-I have written about games in [Ludonomy](https://ashwinreddy.github.io/writeups/ludonomy.html). 
-
+a game is an [[institution]] for [[play]]. $G = (S, \{P_i\}_{i=1}^{n}, \{\Omega_{P_i}\}_{i=1}^{n})$ 

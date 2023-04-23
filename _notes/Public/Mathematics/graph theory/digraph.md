@@ -1,0 +1,1 @@
+a digraph is a directed [[graph]]

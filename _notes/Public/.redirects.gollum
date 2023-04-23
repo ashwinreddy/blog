@@ -100,3 +100,10 @@ Mathematics/Calculus of variations/Noether's theorem.md: Mathematics/Calculus of
   theorem.md
 Mathematics/Calculus/Integral.md: Mathematics/Calculus/iontegral.md
 Mathematics/Calculus/iontegral.md: Mathematics/Calculus/integral.md
+Mathematics/Linear-Algebra/Matrix.md: Mathematics/Linear-Algebra/matrix.md
+people/claude shannon.md: people/shannon.md
+Mathematics/Probability-Theory/Bayes' theorem.md: Mathematics/Probability-Theory/bayes'
+  theorem.md
+Mathematics/Linear-Algebra/Matrices/Square matrix.md: Mathematics/Linear-Algebra/Matrices/square
+  matrix.md
+Mathematics/Topology/Atlas.md: Mathematics/Topology/atlas.md

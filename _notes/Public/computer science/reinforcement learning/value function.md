@@ -1,0 +1,1 @@
+the value function is a [[function]] $V: S \to \mathbf{R}$. 

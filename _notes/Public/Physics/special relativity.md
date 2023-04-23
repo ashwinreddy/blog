@@ -1,0 +1,1 @@
+special relativity is [[einstein]]'s theory of relativity.

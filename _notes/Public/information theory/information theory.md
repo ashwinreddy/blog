@@ -1,0 +1,1 @@
+information theory was created by [[shannon]] to study [[information]] with tools like [[entropy]].

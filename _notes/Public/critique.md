@@ -3,4 +3,4 @@ title: "critique"
 feed: hide
 ---
 
-critique is something [[kant]] did. 
+critique is a philosophical methodology. 

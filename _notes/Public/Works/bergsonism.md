@@ -1,0 +1,1 @@
+_le bergsonisme_ is [[deleuze]]'s book on [[bergson]]. 

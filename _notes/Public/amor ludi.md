@@ -9,7 +9,7 @@ there's something to be learned from [[existentialism]] without making [[meaning
 
 ## syllabus
 
-* [[eliot]] as the priest of high modernism. he brings with him [[dante]] and in turn [[virgil]] and [[ovid]]. 
-* [[deleuze]] as a technical thinker of [[difference]] par excellance, representing [[post-structuralism]] and [[postmodern]]ism (?)
+* [[t.s. eliot]] as the priest of high modernism. he brings with him [[dante]] and in turn [[virgil]] and [[ovid]]. 
+* [[deleuze]] as a technical thinker of [[difference]] par excellance, representing [[post-structural]] and [[postmodern]]ism (?)
 * [[eco]] for semiotics. brings with him [[borges]]
 * [[heidegger]]. [[existentialism]] and ai critiques with [[hubert dreyfus]] 

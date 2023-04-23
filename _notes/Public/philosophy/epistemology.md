@@ -1,0 +1,1 @@
+epistemology is the philosophical inquiry into knowledge.

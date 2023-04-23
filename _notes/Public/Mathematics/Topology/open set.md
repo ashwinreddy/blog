@@ -1,0 +1,1 @@
+an open set is a kind of [[set]]. 

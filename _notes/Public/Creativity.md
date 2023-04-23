@@ -20,3 +20,5 @@ creativity is the ability to come up with interesting and effective solutions. i
 
 
 it always comes back to space-time. 
+
+https://www.youtube.com/watch?v=zkhZeKKWu1Y

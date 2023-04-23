@@ -1,0 +1,1 @@
+abductive reasoning generates [[explanation]]s. 

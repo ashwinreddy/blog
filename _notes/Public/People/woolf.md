@@ -1,0 +1,3 @@
+> here was a woman about the year 1800 writing without hate, without bitterness, without fear, without protest, without preaching. that was how [[shakespeare]] wrote, i thought, looking at antony and cleopatra; and when people compare shakespeare and jane [[austen]], they may mean that the minds of both had consumed all impediments; and for that reason we do not know jane austen and we do not know shakespeare, and for that reason jane austen pervades every word that she wrote, and so does shakespeare.
+
+virginia woolf. she was acquainted with [[t.s. eliot]] and [[joyce]]. 

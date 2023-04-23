@@ -10,7 +10,7 @@ his interest started in the connection between [[buddhism]] and Cognitive Scienc
 
 vervaeke thinks of himself as part of a tradition of [[zen]] [[neoplatonism]]. For that reason, key figures for him are [[socrates]], [[plato]], [[buddha]], and the [[kyoto school]]. But he is also deeply influenced by [[spinoza]]. 
 
-he comes from a background in fundamentalist [[christianity]]. 
+he comes from a background in fundamentalist [[christian]]. 
 
 1. [[socrates]]
 2. [[plato]]
@@ -20,7 +20,7 @@ he comes from a background in fundamentalist [[christianity]].
 6. [[consciousness]]
 7. [[hellenistic philosophy]] ([[epicureanism]], [[stoic]])
 8. [[jesus]]
-9. [[christianity]]
+9. [[christian]]
 10. [[augustine]]
 11. [[aquinas]]
 12. [[descartes]]
@@ -28,7 +28,7 @@ he comes from a background in fundamentalist [[christianity]].
 14. [[symbol]]
 15. [[wisdom]]
 16. [[rationality]]
-17. [[Intelligence]]
+17. [[intelligence]]
 18. [[heidegger]]
 19. [[carl jung]]
 20. [[spinoza]]

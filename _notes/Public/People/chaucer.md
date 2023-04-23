@@ -1,0 +1,1 @@
+chaucer was an english poet. he learned to [[latin]], [[french]], [[italian]]. he liked [[virgil]], [[ovid]], [[statius]], [[seneca]], [[cicero]], and [[dante]] and [[boccaccio]] and [[petrarch]]. he also translated [[de consolatione philosophiae]]. 

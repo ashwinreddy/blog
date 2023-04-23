@@ -1,9 +1,10 @@
 ---
 title: "eco"
 feed: hide
+tags: writer
 ---
 
-umberto eco (5 january 1932) wrote about [[philosophy]], [[semiotics]], [[fascism]]. he was born in alessandria. he studied at the university of turin and wrote a thesis on [[aquinas]]. he was friends with [[barthes]]. 
+umberto eco (5 january 1932) wrote about [[philosophy]], [[semiotics]], [[fascism]]. he was born in alessandria. he studied at the university of turin and wrote a thesis on [[aquinas]]. he was friends with [[barthes]]. he was an [[atheist]]. 
 
 ## translation
 

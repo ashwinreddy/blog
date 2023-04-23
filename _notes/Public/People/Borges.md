@@ -1,6 +1,7 @@
 ---
 title: "borges"
 feed: hide
+tags: writer
 ---
 
 > _siempre imaginé que el paraíso sería algún tipo de biblioteca._
@@ -14,10 +15,10 @@ jorge luis borges (1899-1986) was a writer and librarian from buenos aires, arge
 3. remove ornament and confessionalism
 4. condense several images into one
 
-for borges, [[eliot]], esp. [[tradition and the individual talent]], and [[ezra pound]] are key figures. 
+for borges, [[t.s. eliot]], esp. [[tradition and the individual talent]], and [[ezra pound]] are key figures. 
 
 
 * In "The Library of Babel," Borges thought about an infinite [[library]].
 * He was deeply interested in the [[classic]] books and [[classics]], apparently having a complex relationship with [[homer]], [[virgil]], and [[lucretius]].
 * He influenced [[kafka]], [[Calvino]], [[Eco]], [[Walcott]], [[michel foucault]], [[Harold Bloom]].
-* In [[philosophy]], he liked [[berkeley]] and [[schopenhauer]] and [[spinoza]].
+* In [[philosophy]], he liked [[george berkeley]] and [[schopenhauer]] and [[spinoza]].

@@ -15,6 +15,10 @@ other observations about metaphors are
 * A metaphor has to have the right distance between the tenor and vehicle. If the objects are too close, the metaphor doesn't bring out any insight. If they are too far away, it feels contrived.
 * A metaphor is usually not reversible. You can say "life is a highway," but "a highway is life" sounds strange.
 
+## reading list
+
+- [The Motive for Metaphor](https://www.youtube.com/watch?v=K1WhOICr1bE)
+
 
 ## examples
 

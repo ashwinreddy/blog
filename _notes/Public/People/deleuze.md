@@ -8,13 +8,15 @@ tags:
 
 gilles deleuze (18 january 1925 - 4 november 1995) was a french philosopher and, to me, the philosopher's philosopher and a [[sage]]. his work grapples with [[difference]], [[creativity]], [[thought]], and becoming and references a diverse set of works. 
 
+although he's connected to [[post-structural]] and [[postmodern]] movement, he's more complex than that. 
+
 ## context
 
 in order to understand deleuze, it is helpful to situate him in time. deleuze comes after [[structuralism]] and [[existentialism]]. and he's also one of the writers who experienced [[may 68]]. 
 
 so deleuze's project can be seen as one that is going to dethrone representation, which depends on structure, and put difference in its place. there is not being but becoming. 
 
-why stop at the human ([[humanism]])? 
+why stop at the human ([[humanist]])? 
 
 ## problems
 
@@ -89,6 +91,8 @@ Deleuze has affinity with [[pragmatism]].
 - Deleuze thinks about philosophy as happening in [[Writing]] (?) It definitely does not happen in communication or dialectic. 
 - He thinks of himself as working in the line of [[empiricism]]. 
 - [Deleuze Dictionary](https://deleuze.en-academic.com/)
+- deleuze uses mathematics from leibniz, [[riemann]], [[poincare]], etc. 
+
 
 ---
 

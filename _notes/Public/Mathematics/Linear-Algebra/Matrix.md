@@ -1,1 +1,1 @@
-A **matrix** is a rectangular array of numbers.
+a matrix is a representation a [[linear map]] as a rectangular array of numbers.

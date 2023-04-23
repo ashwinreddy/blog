@@ -1,0 +1,1 @@
+lambda calculus. here is a good [guide](https://learnxinyminutes.com/docs/lambda-calculus/). 

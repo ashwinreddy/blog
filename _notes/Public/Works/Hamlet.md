@@ -4,7 +4,7 @@ tags: book
 feed: show
 ---
 
-_the tragedy of hamlet, prince of denmark_ is an english [[tragedy]] by [[shakespeare]]. one of his longest and most complex plays, it has been an enduring staple of english [[literature]] and [[literary criticism]]. the critic harold bloom calls the play "poem unlimited," a phrase of polonius.
+_the tragedy of hamlet, prince of denmark_ is an english [[tragedy]] by [[shakespeare]]. one of his longest and most complex plays, it has been an enduring staple of english [[literature]] and [[literary critic]]. the critic harold bloom calls the play "poem unlimited," a phrase of polonius.
 
 _hamlet_ is a story about a troubled family. the father, king hamlet, has mysteriously died, leaving uncle claudius to take the throne and marry the mother gertrude. The son, prince hamlet, has a clear call to action here. but what makes Hamlet interesting and frustrating is his inability to act: his intellect, his seeming awareness that he is in a play, his self-reflexivity all get in the way. he may be the first modern individual.
 

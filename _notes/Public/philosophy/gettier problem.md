@@ -1,0 +1,1 @@
+the gettier problem in [[epistemology]] contests the notion of justified true belief (jtb) as knowledge.

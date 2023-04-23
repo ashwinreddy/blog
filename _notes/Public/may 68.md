@@ -17,5 +17,5 @@ she also describes the usual account of the problem of may 68 for [[philosophy]]
 3. [[phenomenology]] said the world depends on our own senses and meaning.
 4. thus, life seemed a creative, historical project compatible with [[marxism]].
 5. so we'd have to recognize that we decide how economies are run.
-6. with 1968, there was an overturning of this [[humanism]]. [[post-structuralism]] looked at non-rational thought, chance disruptions, non-identity, and a more radical sense of freedom.
+6. with 1968, there was an overturning of this [[humanist]]. [[post-structural]] looked at non-rational thought, chance disruptions, non-identity, and a more radical sense of freedom.
 7. the [[virtual]] (images, desires, concepts) became recognized as well.

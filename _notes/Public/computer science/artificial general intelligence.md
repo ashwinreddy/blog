@@ -1,0 +1,1 @@
+artificial general intelligence (agi) is the goal for openai, deepmind, generally intelligent. 

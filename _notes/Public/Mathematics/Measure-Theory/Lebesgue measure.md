@@ -1,1 +1,1 @@
-The **Lebesgue measure** is a standard [[Measure]].
+the lebesgue measure is a standard [[measure]].

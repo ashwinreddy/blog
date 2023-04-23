@@ -1,0 +1,1 @@
+adam smith worked on [[economics]]. he learned [[latin]] in secondary school. 
